@@ -88,9 +88,10 @@ project-name/
 └── requirements.txt
 
 # Repository Structure
-*Data:https://github.com/rk98a/Data-Science/blob/main/Tableau%20Dashboard/dash.png
+*Data:
 *Dashboard:
-*Images:
+*Images: ![image](https://github.com/user-attachments/assets/d4ee8a6d-dad3-4fc6-859e-6e427be38989)
+
 
 🤝 Feedback & Collaboration
 
