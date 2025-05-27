@@ -67,7 +67,7 @@ Technologies Used: SQL, Python, Pandas, Scikit-learn, Tableau, Jupyter
 
 Skills Demonstrated: Data wrangling, EDA, Machine Learning, Data Visualization, Dashboarding
 
-Tools: PostgreSQL, Tableau Public, scikit-learn, Matplotlib, Seaborn
+Tools: MySQL, Tableau Public, scikit-learn, Matplotlib, Seaborn
 
 📂 Repository Structure
 
@@ -86,6 +86,11 @@ project-name/
 │   └── final_report.pdf
 ├── README.md
 └── requirements.txt
+
+# Repository Structure
+*Data:
+*Dashboard:
+*Images:
 
 🤝 Feedback & Collaboration
 
