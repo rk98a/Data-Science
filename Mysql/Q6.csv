@@ -1,0 +1,585 @@
+Title,Genre,IMDBScore,Rank_Within_Genre
+Okja,Action,7.3,1
+"The Siege of Jadotville",Action,7.2,2
+Extraction,Action,6.7,3
+"The Old Guard",Action,6.7,3
+"Mowgli: Legend of the Jungle",Action,6.5,5
+Polar,Action,6.3,6
+"Sand Castle",Action,6.3,6
+"Spenser Confidential",Action,6.2,8
+"6 Underground",Action,6.1,9
+Ultras,Action,5.9,10
+"True Memoirs of an International Assassin",Action,5.9,10
+"Point Blank",Action,5.7,12
+"The Do-Over",Action,5.7,12
+"Game Over, Man!",Action,5.4,14
+"How It Ends",Action,5,15
+"Earth and Blood",Action,4.9,16
+"We Can Be Heroes",Action,4.7,17
+Sentinelle,Action,4.7,17
+"All Because of You",Action,4.2,19
+Drive,Action,3.5,20
+Klaus,Anime,8.2,1
+"If Anything Happens I Love You",Anime,7.8,2
+"Road to Roma",Anime,7.7,3
+"Invader Zim: Enter the Florpus",Anime,7.5,4
+"Octonauts & the Great Barrier Reef",Anime,7.3,5
+"Sitara: Let Girls Dream",Anime,7.3,5
+"The Road to El Camino: A Breaking Bad Movie",Anime,7.2,7
+"Angela's Christmas Wish",Anime,7.1,8
+"Angela's Christmas",Anime,7.1,8
+"Rocko's Modern Life: Static Cling",Anime,7,10
+"Cops and Robbers",Anime,6.9,11
+Blame!,Anime,6.7,12
+"A Whisker Away",Anime,6.7,12
+"Arlo the Alligator Boy",Anime,6.7,12
+"Altered Carbon: Resleeved",Anime,6.5,15
+Canvas,Anime,6.5,15
+"Sturgill Simpson Presents: Sound & Fury",Anime,6.4,17
+"The Willoughbys",Anime,6.4,17
+"Over the Moon",Anime,6.4,17
+"Octonauts & the Caves of Sac Actun",Anime,6.2,20
+"The Claus Family",Anime,5.8,21
+"The Larva Island Movie",Anime,5.1,22
+Fearless,Anime,4.9,23
+"Sol Levante",Anime,4.7,24
+"Dolemite Is My Name",Biopic,7.3,1
+"The Dirt",Biopic,7,2
+Mank,Biopic,6.9,3
+"A Futile and Stupid Gesture",Biopic,6.8,4
+"Baggio: The Divine Ponytail",Biopic,6.2,5
+"Roxanne Roxanne",Biopic,6.2,5
+Sergio,Biopic,6.1,7
+"The Most Hated Woman in America",Biopic,6.1,7
+"Come Sunday",Biopic,6,9
+Barry,Biopic,5.8,10
+Ludo,Comedy,7.6,1
+"The Fundamentals of Caring",Comedy,7.3,2
+Seventeen,Comedy,7.2,3
+"The 40-Year-Old Version",Comedy,7.2,3
+"Rose Island",Comedy,7,5
+"The Christmas Chronicles",Comedy,7,5
+"The Lonely Island Presents: The Unauthorized Bash Brothers Experience",Comedy,6.9,7
+Pagglait,Comedy,6.9,7
+"The Meyerowitz Stories (New and Selected)",Comedy,6.9,7
+"Death to 2020",Comedy,6.8,10
+"Brij Mohan Amar Rahe",Comedy,6.8,10
+Tallulah,Comedy,6.7,12
+"Just Another Christmas",Comedy,6.7,12
+"Bad Trip",Comedy,6.6,14
+Chopsticks,Comedy,6.5,15
+"The Incredible Jessica James",Comedy,6.5,15
+"The Heartbreak Club",Comedy,6.4,17
+"Nappily Ever After",Comedy,6.4,17
+"The Laundromat",Comedy,6.3,19
+"The Babysitter",Comedy,6.3,19
+"Porta dos Fundos: The Last Hangover",Comedy,6.3,19
+"Get the Goat",Comedy,6.3,19
+"Feel the Beat",Comedy,6.3,19
+"Crazy Awesome Teachers",Comedy,6.2,24
+"Win It All",Comedy,6.2,24
+"Have You Ever Seen Fireflies?",Comedy,6.2,24
+"Like Father",Comedy,6.1,27
+"Work It",Comedy,6.1,27
+"Between Two Ferns: The Movie",Comedy,6.1,27
+Otherhood,Comedy,6.1,27
+"War Machine",Comedy,6,31
+"The Christmas Chronicles: Part Two",Comedy,6,31
+"Murder Mystery",Comedy,6,31
+"The Polka King",Comedy,5.9,34
+"Small Crimes",Comedy,5.8,35
+"Rajma Chawal",Comedy,5.8,35
+"Candy Jar",Comedy,5.8,35
+15-Aug,Comedy,5.8,35
+"The Babysitter: Killer Queen",Comedy,5.8,35
+"The After Party",Comedy,5.8,35
+"Little Evil",Comedy,5.7,41
+Lionheart,Comedy,5.7,41
+"The Wrong Missy",Comedy,5.7,41
+"El Camino Christmas",Comedy,5.7,41
+"Yes Day",Comedy,5.7,41
+"Double Dad",Comedy,5.6,46
+"Brahman Naman",Comedy,5.6,46
+"The Sleepover",Comedy,5.6,46
+"The Last Laugh",Comedy,5.6,46
+"Bomb Scared",Comedy,5.6,46
+"Step Sisters",Comedy,5.5,51
+"House Arrest",Comedy,5.5,51
+"A Very Murray Christmas",Comedy,5.5,51
+"Get the Grift",Comedy,5.5,51
+"Wine Country",Comedy,5.5,51
+"The Package",Comedy,5.5,51
+"The Legacy of a Whitetail Deer Hunter",Comedy,5.5,51
+"Unicorn Store",Comedy,5.5,51
+Naked,Comedy,5.4,59
+"A Babysitter's Guide to Monster Hunting",Comedy,5.4,59
+"Despite Everything",Comedy,5.4,59
+"Back to School",Comedy,5.3,62
+"Girlfriend's Day",Comedy,5.2,63
+"Sandy Wexler",Comedy,5.2,63
+"Father of the Year",Comedy,5.2,63
+Ibiza,Comedy,5.2,63
+"Tall Girl",Comedy,5.2,63
+"Handsome: A Netflix Mystery Movie",Comedy,5.2,63
+"The Week Of",Comedy,5.2,63
+"Hubie Halloween",Comedy,5.2,63
+#REALITYHIGH,Comedy,5.2,63
+Dude,Comedy,5.1,72
+"Coffee & Kareem",Comedy,5.1,72
+"Airplane Mode",Comedy,5,74
+"The Main Event",Comedy,4.8,75
+"Take the 10",Comedy,4.8,75
+"The Players",Comedy,4.6,77
+"5 Star Christmas",Comedy,4.6,77
+"Porta dos Fundos: The First Temptation of Christ",Comedy,4.6,77
+"Seriously Single",Comedy,4.5,80
+"The Misadventures of Hedi and Cokeman",Comedy,4.5,80
+Sextuplets,Comedy,4.4,82
+"Thunder Force",Comedy,4.4,82
+"What Happened to Mr. Cha?",Comedy,4.3,84
+"Sardar Ka Grandson",Comedy,4.1,85
+"Leyla Everlasting",Comedy,3.7,86
+"Taylor Swift: Reputation Stadium Tour","Concert Film",8.4,1
+"Ben Platt: Live from Radio City Music Hall","Concert Film",8.4,1
+"Justin Timberlake + The Tennessee Kids","Concert Film",7.7,3
+"Barbra: The Music, The Mem'ries, The Magic!","Concert Film",7.5,4
+"Shawn Mendes: Live in Concert","Concert Film",7.4,5
+"Ariana Grande: Excuse Me, I Love You","Concert Film",6.4,6
+"David Attenborough: A Life on Our Planet",Documentary,9,1
+"Emicida: AmarElo - It's All For Yesterday",Documentary,8.6,2
+"Winter on Fire: Ukraine's Fight for Freedom",Documentary,8.4,3
+"Dancing with the Birds",Documentary,8.3,4
+"Cuba and the Cameraman",Documentary,8.3,4
+"The Three Deaths of Marisela Escobedo",Documentary,8.2,6
+Seaspiracy,Documentary,8.2,6
+"Disclosure: Trans Lives on Screen",Documentary,8.2,6
+13th,Documentary,8.2,6
+"Rising Phoenix",Documentary,8.1,10
+"My Octopus Teacher",Documentary,8.1,10
+"Chasing Coral",Documentary,8.1,10
+"Struggle: The Life and Lost Art of Szukaiski",Documentary,8,13
+"The Ivory Game",Documentary,7.9,14
+Icarus,Documentary,7.9,14
+"A Secret Love",Documentary,7.9,14
+"Jim & Andy: The Great Beyond - Featuring a Very Special, Contractually Obligated Mention of Tony Cliffton ",Documentary,7.7,17
+"Brene Brown: The Call to Courage",Documentary,7.7,17
+"Crip Camp: A Disability Revolution",Documentary,7.7,17
+"The Bleeding Edge",Documentary,7.6,20
+"Rolling Thunder Revue: A bob Dylan Story by Martin Scorsere",Documentary,7.6,20
+Quincy,Documentary,7.6,20
+"Athlete A",Documentary,7.6,20
+"The Social Dilemma",Documentary,7.6,20
+"What Happened, Miss Simone?",Documentary,7.6,20
+"Tell Me Who I Am",Documentary,7.6,20
+"The White Helmets",Documentary,7.5,27
+"Reversing Roe",Documentary,7.5,27
+"Joan Didion: The Center Will Not Hold",Documentary,7.5,27
+"Blackpink: Light Up the Sky",Documentary,7.5,27
+"City of Joy",Documentary,7.5,27
+"Dick Johnson Is Dead",Documentary,7.5,27
+"Homecoming: A Film by Beyonce",Documentary,7.5,27
+"American Factory",Documentary,7.4,34
+"Period. End of Sentence.",Documentary,7.4,34
+Shirkers,Documentary,7.4,34
+"The Black Godfather",Documentary,7.4,34
+"The Speed Cubers",Documentary,7.4,34
+"They'll Love Me When I'm Dead",Documentary,7.4,34
+"Long Shot",Documentary,7.4,34
+Tig,Documentary,7.4,34
+"Miss Americana",Documentary,7.4,34
+"Fire in Paradise",Documentary,7.4,34
+"Sky Ladder: The Art of Cai Guo-Qiang",Documentary,7.3,44
+"Team Foxcatcher",Documentary,7.3,44
+"The Death and Life of Marsha P. Johnson",Documentary,7.3,44
+"The Other One: The Long Strange Trip of Bob Weir",Documentary,7.3,44
+"Secrets of the Saqqara Tomb",Documentary,7.3,44
+"ReMastered: Massacre at the Stadium",Documentary,7.3,44
+Extremis,Documentary,7.3,44
+"Father Soldier Son",Documentary,7.3,44
+"Get Me Roger Stone",Documentary,7.3,44
+"Mucho Mucho Amor: The Legend of Walter Mercado",Documentary,7.3,44
+"ReMastered: The Two Killings of Sam Cooke",Documentary,7.3,44
+"The Edge of Democracy",Documentary,7.2,55
+"LA Originals",Documentary,7.2,55
+"Ladies First",Documentary,7.2,55
+Zion,Documentary,7.2,55
+"American Murder: The Family Next Door",Documentary,7.2,55
+"Into the Inferno",Documentary,7.2,55
+"Fyre: The Greatest Party That Never Happened",Documentary,7.2,55
+"Audrie & Daisy",Documentary,7.2,55
+"End Game",Documentary,7.1,63
+Evelyn,Documentary,7.1,63
+"Grass Is Greener",Documentary,7.1,63
+"Guillermo Vilas: Settling the Score",Documentary,7.1,63
+"Joshua: Teenager vs. Superpower",Documentary,7.1,63
+"Keith Richards: Under the Influence",Documentary,7.1,63
+"Knock Down the House",Documentary,7.1,63
+"My Beautiful Broken Brain",Documentary,7.1,63
+"One of Us",Documentary,7.1,63
+"Ram Dass, Going Home",Documentary,7.1,63
+"ReMastered: Tricky Dick & the Man in Black",Documentary,7.1,63
+"Rooting for Roona",Documentary,7.1,63
+"The Great Hack",Documentary,7.1,63
+"Circus of Books",Documentary,7.1,63
+"Dance Dreams: Hot Chocolate Nutcracker",Documentary,7.1,63
+"El Pepe: A Supreme Life",Documentary,7.1,63
+Resurface,Documentary,7,79
+"Feminists: What Were They Thinking?",Documentary,7,79
+"Operation Varsity Blues: The College Admissions Scandal",Documentary,7,79
+"ReMastered: The Miami Showband Massacre",Documentary,7,79
+"ReMastered: The Lion's Share",Documentary,7,79
+Pele,Documentary,7,79
+"Los Tigres del Norte at Folsom Prison",Documentary,7,79
+"Lorena, Light-Footed Woman",Documentary,7,79
+"Gaga: Five Foot Two",Documentary,7,79
+"Kingdom of Us",Documentary,7,79
+"ReMastered: Devil at the Crossroads",Documentary,7,79
+Laerte-se,Documentary,6.9,90
+"Biggie: I Got a Story to Tell",Documentary,6.9,90
+"Bigflo & Oli: Hip Hop Frenzy",Documentary,6.9,90
+"Amanda Knox",Documentary,6.9,90
+"The Claudia Kishi Club",Documentary,6.9,90
+"Spelling the Dream",Documentary,6.9,90
+"Seeing Allred",Documentary,6.9,90
+"ReMastered: Who Shot the Sheriff?",Documentary,6.9,90
+"Saving Capitalism",Documentary,6.8,98
+"All in My Family",Documentary,6.8,98
+"Mercury 13",Documentary,6.8,98
+"A Love Song for Latasha",Documentary,6.8,98
+"A Life of Speed: The Juan Manuel Fangio Story",Documentary,6.8,98
+Heroin(e),Documentary,6.8,98
+"Have a Good Trip: Adventures in Psychedelics",Documentary,6.8,98
+"GIMS: On the Record",Documentary,6.8,98
+"Tony Parker: The Final Shot",Documentary,6.8,98
+"The Trader",Documentary,6.8,98
+Becoming,Documentary,6.8,98
+"Hope Frozen: A Quest to Live Twice",Documentary,6.7,109
+"Giving Voice",Documentary,6.7,109
+"Crack: Cocaine, Corruption & Conspiracy",Documentary,6.7,109
+CounterPunch,Documentary,6.7,109
+"Bikram: Yogi, Guru, Predator",Documentary,6.7,109
+"Tony Robbins: I Am Not Your Guru",Documentary,6.7,109
+"Parchis: The Documentary",Documentary,6.7,109
+"Little Miss Sumo",Documentary,6.7,109
+"What Would Sophia Loren Do?",Documentary,6.6,117
+"The American Meme",Documentary,6.6,117
+"Shawn Mendes: In Wonder",Documentary,6.6,117
+"ReMastered: Who Killed Jam Master Jay?",Documentary,6.6,117
+"Recovery Boys",Documentary,6.6,117
+"It Takes a Lunatic",Documentary,6.6,117
+"I'll Sleep When I'm Dead",Documentary,6.6,117
+"A 3 Minute Hug",Documentary,6.5,124
+"Antoine Griezmann: The Making of a Legend",Documentary,6.5,124
+"Chadwick Boseman: Portrait of an Artist",Documentary,6.5,124
+"Nobody Speak: Trials of the Free Press",Documentary,6.5,124
+"Life Overtakes Me",Documentary,6.5,124
+"Dolly Parton: A MusiCares Tribute",Documentary,6.5,124
+Birders,Documentary,6.4,130
+"John Was Trying to Contact Aliens",Documentary,6.4,130
+"Murder to Mercy: The Cyntoia Brown Story",Documentary,6.4,130
+"My Own Man",Documentary,6.4,130
+"Strong Island",Documentary,6.4,130
+"Take Your Pills",Documentary,6.4,130
+"The Mars Generation",Documentary,6.4,130
+"Two Catalonias",Documentary,6.4,130
+"Anelka: Misunderstood",Documentary,6.4,130
+"Nail Bomber: Manhunt",Documentary,6.3,139
+"A Tale of Two Kitchens",Documentary,6.3,139
+"The Legend of Cocaine Island",Documentary,6.3,139
+"Travis Scott: Look Mom I Can Fly",Documentary,6.3,139
+"The Rachel Divide",Documentary,6.2,143
+Voyuer,Documentary,6.2,143
+"Casting JonBenet",Documentary,6.1,145
+"Hot Girls Wanted",Documentary,6.1,145
+"Notes from Dunblane: Lesson from a School Shooting",Documentary,5.9,147
+"The Minimalists: Less Is Now",Documentary,5.9,147
+"Out of Many, One",Documentary,5.7,149
+"One Take",Documentary,5.7,149
+"Why Did You Kill Me?",Documentary,5.6,151
+"Ghosts of Sugar Land",Documentary,5.5,152
+"Strip Down, Rise Up",Documentary,5.2,153
+"We Are One",Documentary,4.6,154
+"After Maria",Documentary,4.6,154
+"Hello Privilege. It's Me, Chelsea",Documentary,4.4,156
+"After the Raid",Documentary,4.3,157
+"Searching for Sheela",Documentary,4.1,158
+"Enter the Anime",Documentary,2.5,159
+"Marriage Story",Drama,7.9,1
+"The Irishman",Drama,7.8,2
+"The Trial of the Chicago 7",Drama,7.8,2
+"Beasts of No Nation",Drama,7.7,4
+Roma,Drama,7.7,4
+"The Two Popes",Drama,7.6,6
+"Yeh Ballet",Drama,7.6,6
+"I'm No Longer Here",Drama,7.3,8
+"On My Skin",Drama,7.3,8
+"El Camino: A Breaking Bad Movie",Drama,7.3,8
+"The Ballad of Buster Scruggs",Drama,7.3,8
+Sometimes,Drama,7.2,12
+Soni,Drama,7.2,12
+"Private Life",Drama,7.2,12
+"First They Killed My Father",Drama,7.2,12
+Paddleton,Drama,7.2,12
+"The Disciple",Drama,7.2,12
+"The White Tiger",Drama,7.1,18
+Beats,Drama,7.1,18
+"Pieces of a Woman",Drama,7.1,18
+Ferry,Drama,7.1,18
+"Derren Brown: Sacrifice",Drama,7.1,18
+"The Dig",Drama,7.1,18
+"Ma Rainey's Black Bottom",Drama,7,24
+"The Highwaymen",Drama,6.9,25
+"I Don't Feel at Home in This World Anymore",Drama,6.9,25
+"7 aÃ±os",Drama,6.8,27
+22-Jul,Drama,6.8,27
+"To the Bone",Drama,6.8,27
+"The Other Side of the Wind",Drama,6.8,27
+"The Boys in the Band",Drama,6.8,27
+"The Life Ahead",Drama,6.8,27
+"Serious Men",Drama,6.8,27
+"Ajeeb Daastaans",Drama,6.7,34
+Moxie,Drama,6.7,34
+"Hillbilly Elegy",Drama,6.7,34
+"Blue Miracle",Drama,6.7,34
+Upstarts,Drama,6.7,34
+"Imperial Dreams",Drama,6.7,34
+"Paper Lives",Drama,6.7,34
+"Night in Paradise",Drama,6.7,34
+Milestone,Drama,6.6,42
+"The Crimes That Bind",Drama,6.6,42
+"Da 5 Bloods",Drama,6.5,44
+"All Together Now",Drama,6.5,44
+"Lust Stories",Drama,6.5,44
+"Nobody Knows I'm Here",Drama,6.5,44
+Monster,Drama,6.5,44
+Tigertail,Drama,6.5,44
+"What Did Jack Do?",Drama,6.5,44
+"Irreplaceable You",Drama,6.4,51
+"Walk. Ride. Rodeo.",Drama,6.4,51
+"First Match",Drama,6.4,51
+"Street Flow",Drama,6.4,51
+Bright,Drama,6.3,55
+"The Forest of Love",Drama,6.3,55
+Benji,Drama,6.3,55
+"June & Kopi",Drama,6.3,55
+"Concrete Cowboy",Drama,6.3,55
+"Music Teacher",Drama,6.3,55
+Uncorked,Drama,6.3,55
+"Notes for My Son",Drama,6.3,55
+Cargo,Drama,6.3,55
+"Alien Xmas",Drama,6.2,64
+"The Land of Steady Habits",Drama,6.2,64
+"High Flying Bird",Drama,6.2,64
+Citation,Drama,6.2,64
+"Below Zero",Drama,6.2,64
+"Finding 'Ohana",Drama,6.1,69
+"Pee-wee's Big Holiday",Drama,6.1,69
+"Stuck Apart",Drama,6.1,69
+"Rogue City",Drama,6.1,69
+"Tribhanga â€“ Tedhi Medhi Crazy",Drama,6.1,69
+"Deidra & Laney Rob a Train",Drama,6.1,69
+"Burning Sands",Drama,6.1,69
+"Tersanjung the Movie",Drama,6.1,69
+"The Killer",Drama,6.1,69
+"Forgive Us Our Debts",Drama,6,78
+Juanita,Drama,6,78
+Lovefucked,Drama,6,78
+"6 Balloons",Drama,5.9,81
+Amateur,Drama,5.9,81
+"Horse Girl",Drama,5.9,81
+"What We Wanted",Drama,5.8,84
+"Class of '83",Drama,5.8,84
+"Choked: Paisa Bolta Hai",Drama,5.8,84
+"American Son",Drama,5.8,84
+"All Day and a Night",Drama,5.8,84
+"Dad Wanted",Drama,5.7,89
+"Good Sam",Drama,5.7,89
+Ã’lÃ²turÃ©,Drama,5.5,91
+"Madame Claude",Drama,5.4,92
+"Dolly Kitty Aur Woh Chamakte Sitare",Drama,5.4,92
+XOXO,Drama,5.3,94
+"Gunjan Saxena: The Kargil Girl",Drama,5.3,94
+"Who Would You Take to a Deserted Island?",Drama,5.3,94
+Firebrand,Drama,5.2,97
+"The Beast",Drama,5.2,97
+"Love Like the Falling Rain",Drama,5,99
+"Holiday Rush",Drama,4.9,100
+"The Day of the Lord",Drama,4.9,100
+"The Ridiculous 6",Drama,4.8,102
+"The Binding",Drama,4.7,103
+"Finding Agnes",Drama,4.7,103
+"The Call",Drama,4.1,105
+"The King",Historical,7.2,1
+"Outlaw King",Historical,6.9,2
+Bulbbul,Horror,6.6,1
+"Gerald's Game",Horror,6.5,2
+1922,Horror,6.3,3
+Apostle,Horror,6.3,3
+"The Perfection",Horror,6.1,5
+"Army of the Dead",Horror,5.9,6
+Cam,Horror,5.9,6
+Eli,Horror,5.7,8
+"Vampires vs. the Bronx",Horror,5.6,9
+"In the Tall Grass",Horror,5.4,10
+"Things Heard & Seen",Horror,5.3,11
+"Ghost Lab",Horror,5.2,12
+Cadaver,Horror,5.1,13
+"Nobody Sleeps in the Woods Tonight",Horror,4.8,14
+Rattlesnake,Horror,4.6,15
+"I Am the Pretty Thing That Lives in the House",Horror,4.6,15
+"Death Note",Horror,4.4,17
+"Ghost Stories",Horror,4.3,18
+"The Open House",Horror,3.2,19
+"Springsteen on Broadway",Interviews,8.5,1
+"The Irishman: In Conversation",Interviews,7.4,2
+"Loudon Wainwright III: Surviving Twin",Interviews,7.1,3
+"13th: A Conversation with Oprah Winfrey & Ava DuVernay",Interviews,7.1,3
+"I'm No Longer Here: A Discussion with Guillermo del Toro and Alfonso Cuaron",Interviews,7,5
+"Ma Rainey's Black Bottom: A Legacy Brought to Screen",Interviews,7,5
+"The Boys in the Band: Something Personal",Interviews,6.8,7
+"Rodney King",Interviews,5.8,8
+"American Factory: A Conversation with the Obamas",Interviews,5.2,9
+Anima,Musical,7.7,1
+"Eurovision Song Contest: The Story of Fire Saga",Musical,6.5,2
+"Jingle Jangle: A Christmas Journey",Musical,6.5,2
+"Como CaÃ­do del Cielo",Musical,6.4,4
+"The Prom",Musical,5.9,5
+"A Week Away",Musical,5.7,6
+"Been So Long",Musical,5.5,7
+"Dolly Parton's Christmas on the Square",Musical,5.2,8
+Paradox,Musical,3.9,9
+"Lost Girls",Mystery,6.1,1
+"Earthquake Bird",Mystery,5.9,2
+"Kaali Khuhi",Mystery,3.4,3
+"Love per Square Foot",Rom-Com,7.2,1
+"To All the Boys I've Loved Before",Rom-Com,7.1,2
+"Always Be My Maybe",Rom-Com,6.8,3
+"Crazy About Her",Rom-Com,6.6,4
+"Set It Up",Rom-Com,6.5,5
+"Isi & Ossi",Rom-Com,6.4,6
+"When We First Met",Rom-Com,6.4,6
+"I Am Not an Easy Man",Rom-Com,6.3,8
+"Alex Strangelove",Rom-Com,6.3,8
+"To All the Boys: Always and Forever",Rom-Com,6.3,8
+"Someone Great",Rom-Com,6.2,11
+Holidate,Rom-Com,6.1,12
+"The Lovebirds",Rom-Com,6.1,12
+"The Kissing Booth",Rom-Com,6,14
+"The Princess Switch",Rom-Com,6,14
+"To All the Boys: P.S. I Still Love You",Rom-Com,6,14
+Maska,Rom-Com,5.9,17
+"A Christmas Prince",Rom-Com,5.8,18
+"Happy Anniversary",Rom-Com,5.8,18
+"Let It Snow",Rom-Com,5.8,18
+"Rich in Love",Rom-Com,5.8,18
+"The Perfect Date",Rom-Com,5.8,18
+"Sierra Burgess Is a Loser",Rom-Com,5.8,18
+"The Kissing Booth 2",Rom-Com,5.8,18
+"You've Got This",Rom-Com,5.8,18
+"Operation Christmas Drop",Rom-Com,5.8,18
+"A California Christmas",Rom-Com,5.8,18
+"The Holiday Calendar",Rom-Com,5.7,28
+"Ginny Weds Sunny",Rom-Com,5.7,28
+"The Last Paradiso",Rom-Com,5.6,30
+"Love, Guaranteed",Rom-Com,5.6,30
+"Falling Inn Love",Rom-Com,5.6,30
+"The Knight Before Christmas",Rom-Com,5.5,33
+"Love Wedding Repeat",Rom-Com,5.5,33
+"Under the Riccione Sun",Rom-Com,5.4,35
+"The Princess Switch: Switched Again",Rom-Com,5.4,35
+"A Christmas Prince: The Royal Baby",Rom-Com,5.4,35
+"A Christmas Prince: The Royal Wedding",Rom-Com,5.3,38
+"To Each, Her Own",Rom-Com,5.3,38
+Desperados,Rom-Com,5.2,40
+"Squared Love",Rom-Com,5,41
+"Just Say Yes",Rom-Com,4.5,42
+Whipped,Rom-Com,4.1,43
+"Our Souls at Night",Romance,6.9,1
+"The Half of It",Romance,6.9,1
+"Malcolm & Marie",Romance,6.7,3
+"Elisa & Marcela",Romance,6.6,4
+Tramps,Romance,6.5,5
+"All the Bright Places",Romance,6.5,5
+"Layla Majnun",Romance,6.4,7
+"Holiday in the Wild",Romance,6.1,8
+Rebecca,Romance,6,9
+"Caught by a Wave",Romance,5.7,10
+"Christmas Inheritance",Romance,5.7,10
+"One-Way to Tomorrow",Romance,5.6,12
+"Geez & Ann",Romance,5.1,13
+"Paris Is Us",Romance,4.6,14
+"Frankenstein's Monster's Monster, Frankenstein",Satire,5.9,1
+"Rising High",Satire,5.8,2
+Mascots,Satire,5.8,2
+"Special Correspondents",Satire,5.8,2
+"Space Sweepers","Science Fiction",6.6,1
+Oxygen,"Science Fiction",6.5,2
+ARQ,"Science Fiction",6.4,3
+"The Discovery","Science Fiction",6.3,4
+Spectral,"Science Fiction",6.3,4
+iBoy,"Science Fiction",6,6
+"Project Power","Science Fiction",6,6
+Extinction,"Science Fiction",5.8,8
+TAU,"Science Fiction",5.8,8
+"The Midnight Sky","Science Fiction",5.6,10
+Mute,"Science Fiction",5.5,11
+"The Cloverfield Paradox","Science Fiction",5.5,11
+"Outside the Wire","Science Fiction",5.4,13
+"See You Yesterday","Science Fiction",5.2,14
+"Rim of the World","Science Fiction",5.2,14
+IO,"Science Fiction",4.7,16
+"The App","Science Fiction",2.6,17
+"Freaks: You're One of Us",Supernatural,5.4,1
+"Raat Akeli Hai",Thriller,7.3,1
+"The Devil All the Time",Thriller,7.1,2
+"The Night Comes for Us",Thriller,7,3
+"AK vs AK",Thriller,6.9,4
+Calibre,Thriller,6.8,5
+"The Angel",Thriller,6.6,6
+"The Red Sea Diving Resort",Thriller,6.6,6
+"Bird Box",Thriller,6.6,6
+"I'm Thinking of Ending Things",Thriller,6.6,6
+"His House",Thriller,6.5,10
+Fractured,Thriller,6.4,11
+Wheelman,Thriller,6.4,11
+"Triple Frontier",Thriller,6.4,11
+"The Occupant",Thriller,6.4,11
+"Time to Hunt",Thriller,6.3,15
+"Shimmer Lake",Thriller,6.3,15
+"The Outsider",Thriller,6.3,15
+"In the Shadow of the Moon",Thriller,6.2,18
+"Offering to the Storm",Thriller,6.2,18
+"Lost Bullet",Thriller,6.2,18
+"Unknown Origins",Thriller,6.1,21
+"A Fall from Grace",Thriller,5.9,22
+"The Decline",Thriller,5.9,22
+"I Am All Girls",Thriller,5.8,24
+"The Woman in the Window",Thriller,5.7,25
+"Prime Time",Thriller,5.7,25
+"Velvet Buzzsaw",Thriller,5.7,25
+"Hold the Dark",Thriller,5.6,28
+"The Paramedic",Thriller,5.6,28
+"Ride or Die",Thriller,5.5,30
+"Dead Kids",Thriller,5.5,30
+"Red Dot",Thriller,5.5,30
+Guilty,Thriller,5.4,33
+"The Most Assassinated Woman in the World",Thriller,5.3,34
+Intuition,Thriller,5.3,34
+"Dangerous Lies",Thriller,5.3,34
+Clinical,Thriller,5.1,37
+Rebirth,Thriller,5,38
+"Mrs. Serial Killer",Thriller,4.8,39
+"Coin Heist",Thriller,4.8,39
+"Christmas Crossfire",Thriller,4.8,39
+"Fatal Affair",Thriller,4.5,42
+"The Girl on the Train",Thriller,4.4,43
+"Secret Obsession",Thriller,4.4,43
+"The Last Thing He Wanted",Thriller,4.3,45
+Mercy,Thriller,4.2,46
+"The Last Days of American Crime",Thriller,3.7,47
+"Dark Forces",Thriller,2.6,48
+"John Mulaney & the Sack Lunch Bunch","Variety Show",7.5,1
+"Michael Bolton's Big, Sexy, Valentine's Day Special","Variety Show",6.7,2
+"Sarah Cooper: Everything's Fine","Variety Show",5.6,3
+"Kevin Hart's Guide to Black History","Variety Show",5.5,4
+"Still Laugh-In: The Stars Celebrate","Variety Show",5.2,5
