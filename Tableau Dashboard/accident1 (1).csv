@@ -1,0 +1,1001 @@
+Index,Accident_Severity,Accident Date,Latitude,Light_Conditions,District Area,Longitude,Number_of_Casualties,Number_of_Vehicles,Road_Surface_Conditions,Road_Type,Urban_or_Rural_Area,Weather_Conditions,Vehicle_Type
+200701BS64157,Serious,5/6/2019,51.506187,Darkness - lights lit,Kensington and Chelsea,-0.209082,1,2,Dry,Single carriageway,Urban,Fine no high winds,Car
+200701BS65737,Serious,2/7/2019,51.495029,Daylight,Kensington and Chelsea,-0.173647,1,2,Wet or damp,Single carriageway,Urban,Raining no high winds,Car
+200701BS66127,Serious,26/08/2019,51.517715,Darkness - lighting unknown,Kensington and Chelsea,-0.210215,1,3,Dry,,Urban,,Taxi/Private hire car
+200701BS66128,Serious,16/08/2019,51.495478,Daylight,Kensington and Chelsea,-0.202731,1,4,Dry,Single carriageway,Urban,Fine no high winds,Bus or coach (17 or more pass seats)
+200701BS66837,Slight,3/9/2019,51.488576,Darkness - lights lit,Kensington and Chelsea,-0.192487,1,2,Dry,,Urban,,Other vehicle
+200701BS67159,Serious,18/09/2019,51.49775,Daylight,Kensington and Chelsea,-0.192556,2,3,Dry,Single carriageway,Urban,Fine no high winds,Car
+200701BS67207,Serious,5/9/2019,51.501405,Daylight,Kensington and Chelsea,-0.161577,1,2,Dry,Dual carriageway,Urban,Fine no high winds,Van / Goods 3.5 tonnes mgw or under
+200701BS67370,Fatal,3/10/2019,51.48226,Darkness - lights lit,Kensington and Chelsea,-0.179486,3,2,Dry,Single carriageway,Urban,Fine no high winds,Car
+200701BS67515,Slight,31/10/2019,51.493319,Darkness - lights lit,Kensington and Chelsea,-0.173572,1,2,Dry,Single carriageway,Urban,Fine no high winds,Car
+200701BS67543,Slight,18/10/2019,51.484539,Daylight,Kensington and Chelsea,-0.175651,1,2,Dry,Single carriageway,Urban,Fine no high winds,Motorcycle over 125cc and up to 500cc
+200701BS67644,Serious,9/10/2019,51.491944,Darkness - lights lit,Kensington and Chelsea,-0.171898,1,2,Dry,Single carriageway,Urban,Fine no high winds,Goods 7.5 tonnes mgw and over
+200701BS67747,Fatal,2/11/2019,51.499127,Daylight,Kensington and Chelsea,-0.159652,1,2,Dry,Single carriageway,Urban,Fine no high winds,Bus or coach (17 or more pass seats)
+200701BS67773,Serious,12/11/2019,51.500823,Daylight,Kensington and Chelsea,-0.193587,1,1,Dry,Single carriageway,Urban,Fine no high winds,Motorcycle 125cc and under
+200701BS67853,Slight,8/11/2019,51.508999,Darkness - lights lit,Kensington and Chelsea,-0.210701,3,2,Wet or damp,Single carriageway,Urban,Other,Car
+200701BS67859,Slight,1/11/2019,51.485125,Darkness - lights lit,Kensington and Chelsea,-0.167129,1,1,Dry,One way street,Urban,Fine no high winds,Car
+200701BS67960,Slight,19/11/2019,51.488576,Daylight,Kensington and Chelsea,-0.192487,1,2,Dry,Single carriageway,Urban,Fine no high winds,Car
+200701BS67969,Serious,1/10/2019,51.49349,Daylight,Kensington and Chelsea,-0.19042,1,2,Dry,Dual carriageway,Urban,Fine no high winds,Car
+200701BS68160,Serious,10/10/2019,51.508445,Daylight,Kensington and Chelsea,-0.215622,1,1,Dry,Single carriageway,Urban,Fine no high winds,Car
+200701BS68210,Slight,20/11/2019,51.49759,Daylight,Kensington and Chelsea,-0.159138,1,2,Wet or damp,Single carriageway,Urban,Raining no high winds,Motorcycle over 125cc and up to 500cc
+200701BS68237,Serious,26/11/2019,51.482988,Daylight,Kensington and Chelsea,-0.174272,1,4,Dry,Single carriageway,Urban,Fine no high winds,Car
+200701BS68301,Fatal,24/10/2019,51.505996,Daylight,Kensington and Chelsea,-0.214277,1,1,Dry,Single carriageway,Urban,Fine no high winds,Car
+200701BS68302,Fatal,24/11/2019,51.486795,Daylight,Kensington and Chelsea,-0.170375,5,1,Dry,Single carriageway,Urban,Fine no high winds,Car
+200701BS70001,Slight,18/01/2019,51.499983,Darkness - lights lit,Kensington and Chelsea,-0.179933,1,1,Dry,Single carriageway,Urban,Fine no high winds,Car
+200701BS70002,Serious,22/01/2019,51.485674,Daylight,Kensington and Chelsea,-0.150543,2,2,Dry,Single carriageway,Urban,Fine no high winds,Car
+200701BS70003,Serious,17/01/2019,51.498157,Daylight,Kensington and Chelsea,-0.201473,1,1,Wet or damp,Dual carriageway,Urban,Raining no high winds,Car
+200701BS70004,Slight,3/1/2019,51.493311,Darkness - lights lit,Kensington and Chelsea,-0.190427,2,1,Wet or damp,Single carriageway,Urban,Other,Car
+200701BS70005,Slight,2/1/2019,51.49806,Daylight,Kensington and Chelsea,-0.166178,1,1,Dry,Single carriageway,Urban,Fine no high winds,Taxi/Private hire car
+200701BS70006,Slight,6/1/2019,51.490526,Daylight,Kensington and Chelsea,-0.196443,2,2,Wet or damp,Single carriageway,Urban,Raining no high winds,Taxi/Private hire car
+200701BS70007,Slight,17/01/2019,51.513352,Darkness - lights lit,Kensington and Chelsea,-0.207216,1,2,Wet or damp,Single carriageway,Urban,Raining no high winds,Motorcycle 125cc and under
+200701BS70008,Slight,12/1/2019,51.514951,Darkness - lights lit,Kensington and Chelsea,-0.217674,2,2,Dry,Single carriageway,Urban,Fine no high winds,Motorcycle over 500cc
+200701BS70009,Slight,9/1/2019,51.514489,Daylight,Kensington and Chelsea,-0.199244,1,2,Dry,Single carriageway,Urban,Fine no high winds,Car
+200701BS70010,Slight,13/01/2019,51.480325,Darkness - lights lit,Kensington and Chelsea,-0.1823,1,2,Dry,Single carriageway,Urban,Fine no high winds,Car
+200701BS70011,Slight,2/1/2019,51.494902,Daylight,Kensington and Chelsea,-0.182872,1,2,Dry,Single carriageway,Urban,Fine no high winds,Car
+200701BS70012,Slight,7/1/2019,51.514399,Darkness - lights lit,Kensington and Chelsea,-0.199248,1,2,Dry,Single carriageway,Urban,Fine no high winds,Motorcycle over 500cc
+200701BS70013,Slight,8/1/2019,51.498244,Daylight,Kensington and Chelsea,-0.201325,1,1,Wet or damp,Single carriageway,Urban,Other,Car
+200701BS70014,Slight,3/1/2019,51.524885,Daylight,Kensington and Chelsea,-0.214547,1,1,Dry,Single carriageway,Urban,Fine no high winds,Taxi/Private hire car
+200701BS70015,Slight,18/01/2019,51.497451,Darkness - lights lit,Kensington and Chelsea,-0.167499,1,2,Wet or damp,Single carriageway,Urban,Fine + high winds,Car
+200701BS70016,Slight,7/1/2019,51.492577,Daylight,Kensington and Chelsea,-0.183685,2,3,Dry,Single carriageway,Urban,Fine no high winds,Other vehicle
+200701BS70017,Slight,13/01/2019,51.508535,Daylight,Kensington and Chelsea,-0.215619,1,2,Wet or damp,Single carriageway,Urban,Fine no high winds,Car
+200701BS70019,Slight,10/1/2019,51.493766,Daylight,Kensington and Chelsea,-0.17341,1,1,Dry,Single carriageway,Urban,Fine no high winds,Car
+200701BS70020,Slight,16/01/2019,51.48943,Daylight,Kensington and Chelsea,-0.172142,1,2,Dry,Single carriageway,Urban,Fine no high winds,Car
+200701BS70021,Slight,22/01/2019,51.493753,Daylight,Kensington and Chelsea,-0.178308,1,2,Wet or damp,Single carriageway,Urban,Raining + high winds,Car
+200701BS70022,Slight,15/01/2019,51.481746,Daylight,Kensington and Chelsea,-0.17533,1,2,Dry,Single carriageway,Urban,Fine no high winds,Car
+200701BS70023,Slight,14/01/2019,51.49721,Daylight,Kensington and Chelsea,-0.157856,1,2,Dry,Single carriageway,Urban,Fine no high winds,Motorcycle 50cc and under
+200701BS70024,Slight,4/1/2019,51.485216,Darkness - lights lit,Kensington and Chelsea,-0.149986,1,2,Wet or damp,Single carriageway,Urban,Fine no high winds,Car
+200701BS70025,Serious,2/1/2019,51.485589,Darkness - lights lit,Kensington and Chelsea,-0.150835,1,3,Dry,Single carriageway,Urban,Fine no high winds,Taxi/Private hire car
+200701BS70026,Slight,15/01/2019,51.488489,Darkness - lights lit,Kensington and Chelsea,-0.192634,1,1,Dry,Single carriageway,Urban,Fine no high winds,Motorcycle 125cc and under
+200701BS70028,Slight,20/01/2019,51.485849,Daylight,Kensington and Chelsea,-0.17315,1,1,Dry,Single carriageway,Urban,Fine no high winds,Car
+200701BS70029,Slight,18/01/2019,51.481152,Daylight,Kensington and Chelsea,-0.183419,1,2,Dry,Single carriageway,Urban,Fine no high winds,Minibus (8 - 16 passenger seats)
+200701BS70032,Slight,26/01/2019,51.492624,Daylight,Kensington and Chelsea,-0.157897,1,2,Dry,Single carriageway,Urban,Fine no high winds,Motorcycle 125cc and under
+200701BS70034,Slight,12/1/2019,51.49859,Darkness - lights lit,Kensington and Chelsea,-0.165581,1,1,Dry,Single carriageway,Urban,Fine no high winds,Motorcycle 125cc and under
+200701BS70035,Slight,28/01/2019,51.527693,Darkness - lights lit,Westminster,-0.215879,3,3,Dry,Single carriageway,Urban,Fine no high winds,Taxi/Private hire car
+200701BS70036,Slight,24/01/2019,51.482775,Daylight,Kensington and Chelsea,-0.177882,1,1,Dry,Single carriageway,Urban,Fine no high winds,Car
+200701BS70037,Serious,24/01/2019,51.491908,Darkness - lights lit,Kensington and Chelsea,-0.192787,1,1,Dry,Single carriageway,Urban,Fine no high winds,Car
+200701BS70038,Slight,27/01/2019,51.497451,Darkness - lights lit,Kensington and Chelsea,-0.167499,1,2,Dry,Single carriageway,Urban,Fine no high winds,Motorcycle over 500cc
+200701BS70039,Slight,27/01/2019,51.510711,Darkness - lights lit,Kensington and Chelsea,-0.216831,1,1,Dry,Single carriageway,Urban,Fine no high winds,Motorcycle over 500cc
+200701BS70040,Slight,25/01/2019,51.500933,Darkness - lights lit,Kensington and Chelsea,-0.19488,1,2,Dry,Single carriageway,Urban,Fine no high winds,Car
+200701BS70041,Slight,24/01/2019,51.497725,Darkness - lights lit,Kensington and Chelsea,-0.202642,1,1,Snow,Single carriageway,Urban,Snowing no high winds,Car
+200701BS70042,Slight,26/01/2019,51.48849,Daylight,Kensington and Chelsea,-0.181111,1,2,Dry,Single carriageway,Urban,Fine no high winds,Motorcycle 50cc and under
+200701BS70043,Slight,25/01/2019,51.491499,Darkness - lights lit,Kensington and Chelsea,-0.172204,2,1,Dry,Single carriageway,Urban,Fine no high winds,Car
+200701BS70044,Slight,27/01/2019,51.528344,Darkness - lights lit,Kensington and Chelsea,-0.217295,1,2,Dry,Single carriageway,Urban,Fine no high winds,Car
+200701BS70045,Slight,24/01/2019,51.480261,Daylight,Kensington and Chelsea,-0.178126,1,2,Dry,Single carriageway,Urban,Fine no high winds,Van / Goods 3.5 tonnes mgw or under
+200701BS70046,Slight,27/01/2019,51.489416,Daylight,Kensington and Chelsea,-0.19447,1,2,Dry,Single carriageway,Urban,Fine no high winds,Car
+200701BS70047,Serious,28/01/2019,51.4996,Darkness - lights lit,Kensington and Chelsea,-0.207611,1,1,Dry,Single carriageway,Urban,Fine no high winds,Motorcycle 125cc and under
+200701BS70049,Slight,27/01/2019,51.494905,Darkness - lights lit,Kensington and Chelsea,-0.183016,1,1,Dry,Single carriageway,Urban,Fine no high winds,Car
+200701BS70050,Slight,9/1/2019,51.492622,Daylight,Kensington and Chelsea,-0.157753,1,1,Dry,Single carriageway,Urban,Fine no high winds,Car
+200701BS70051,Slight,20/01/2019,51.503223,Darkness - lights lit,Kensington and Chelsea,-0.191763,1,1,Dry,Single carriageway,Urban,Fine no high winds,Motorcycle 125cc and under
+200701BS70052,Serious,8/2/2019,51.497541,Darkness - lights lit,Kensington and Chelsea,-0.167496,1,1,Dry,Single carriageway,Urban,Fine no high winds,Car
+200701BS70053,Serious,10/2/2019,51.514399,Darkness - lights lit,Kensington and Chelsea,-0.199248,1,2,Wet or damp,Single carriageway,Urban,Raining no high winds,Motorcycle 50cc and under
+200701BS70054,Slight,6/2/2019,51.511079,Darkness - lights lit,Kensington and Chelsea,-0.205576,1,2,Dry,Single carriageway,Urban,Fine no high winds,Motorcycle 125cc and under
+200701BS70055,Serious,26/01/2019,51.458413,Daylight,Richmond upon Thames,-0.323089,1,1,Dry,Single carriageway,Urban,Fine no high winds,Taxi/Private hire car
+200701BS70057,Slight,4/2/2019,51.50689,Daylight,Kensington and Chelsea,-0.208046,1,2,Dry,Single carriageway,Urban,Fine no high winds,Car
+200701BS70058,Slight,6/2/2019,51.487655,Darkness - lights lit,Kensington and Chelsea,-0.167892,1,1,Wet or damp,Single carriageway,Urban,Fine no high winds,Car
+200701BS70059,Slight,4/2/2019,51.506014,Darkness - lights lit,Kensington and Chelsea,-0.209521,1,2,Dry,Single carriageway,Urban,Fine no high winds,Car
+200701BS70060,Slight,1/2/2019,51.480458,Daylight,Kensington and Chelsea,-0.185031,1,2,Dry,Single carriageway,Urban,Fine no high winds,Van / Goods 3.5 tonnes mgw or under
+200701BS70061,Serious,31/01/2019,51.493503,Darkness - lights lit,Kensington and Chelsea,-0.173852,1,1,Dry,Single carriageway,Urban,Fine no high winds,Car
+200701BS70062,Slight,31/01/2019,51.484449,Darkness - lights lit,Kensington and Chelsea,-0.175654,1,2,Dry,Single carriageway,Urban,Fine no high winds,Car
+200701BS70063,Slight,30/01/2019,51.491742,Daylight,Kensington and Chelsea,-0.164703,1,2,Dry,Single carriageway,Urban,Fine no high winds,Taxi/Private hire car
+200701BS70064,Slight,3/2/2019,51.490715,Daylight,Kensington and Chelsea,-0.19125,2,1,Dry,Single carriageway,Urban,Fine no high winds,Car
+200701BS70065,Slight,5/2/2019,51.498204,Daylight,Kensington and Chelsea,-0.192826,1,2,Dry,Single carriageway,Urban,Fine no high winds,Bus or coach (17 or more pass seats)
+200701BS70066,Serious,3/2/2019,51.486026,Daylight,Kensington and Chelsea,-0.161476,2,1,Dry,Single carriageway,Urban,Fine no high winds,Car
+200701BS70067,Slight,14/02/2019,51.510897,Darkness - lights lit,Kensington and Chelsea,-0.205439,1,2,Dry,Single carriageway,Urban,Fine no high winds,Car
+200701BS70068,Slight,12/2/2019,51.501428,Darkness - lights lit,Kensington and Chelsea,-0.191978,1,1,Wet or damp,Single carriageway,Urban,Raining no high winds,Car
+200701BS70069,Slight,7/2/2019,51.494612,Darkness - lights lit,Kensington and Chelsea,-0.18735,1,1,Dry,Single carriageway,Urban,Fine no high winds,Bus or coach (17 or more pass seats)
+200701BS70070,Slight,3/1/2019,51.493914,Daylight,Kensington and Chelsea,-0.177149,1,2,Dry,Single carriageway,Urban,Fine no high winds,Car
+200701BS70071,Slight,24/01/2019,51.522561,Darkness - lights lit,Kensington and Chelsea,-0.221413,1,1,Snow,Single carriageway,Urban,Snowing no high winds,Car
+200701BS70072,Slight,20/01/2019,51.518081,Darkness - lights lit,Kensington and Chelsea,-0.210633,2,1,Wet or damp,Single carriageway,Urban,Raining no high winds,Motorcycle over 500cc
+200701BS70073,Serious,14/02/2019,51.490546,Daylight,Kensington and Chelsea,-0.186071,1,2,Dry,Single carriageway,Urban,Fine no high winds,Car
+200701BS70074,Slight,8/2/2019,51.482076,Daylight,Kensington and Chelsea,-0.173445,1,4,Snow,Single carriageway,Urban,Snowing no high winds,Motorcycle 50cc and under
+200701BS70075,Slight,13/02/2019,51.482637,Darkness - lights lit,Kensington and Chelsea,-0.186385,1,2,Dry,Single carriageway,Urban,Fine no high winds,Van / Goods 3.5 tonnes mgw or under
+200701BS70076,Slight,14/02/2019,51.48757,Darkness - lights lit,Kensington and Chelsea,-0.168184,1,2,Dry,Single carriageway,Urban,Fine no high winds,Motorcycle 125cc and under
+200701BS70077,Slight,13/02/2019,51.496411,Darkness - lights lit,Kensington and Chelsea,-0.164228,1,2,Wet or damp,Single carriageway,Urban,Raining no high winds,Car
+200701BS70079,Slight,19/02/2019,51.500497,Darkness - lights lit,Kensington and Chelsea,-0.195761,1,2,Dry,Single carriageway,Urban,Fine no high winds,Car
+200701BS70080,Slight,16/02/2019,51.495191,Daylight,Kensington and Chelsea,-0.18992,2,2,Dry,Single carriageway,Urban,Fine no high winds,Motorcycle 50cc and under
+200701BS70081,Slight,14/02/2019,51.5159,Daylight,Kensington and Chelsea,-0.209133,1,2,Dry,Single carriageway,Urban,Fine no high winds,Taxi/Private hire car
+200701BS70082,Slight,10/2/2019,51.480177,Daylight,Kensington and Chelsea,-0.178561,1,1,Dry,Single carriageway,Urban,Other,Car
+200701BS70083,Slight,22/02/2019,51.50768,Daylight,Kensington and Chelsea,-0.195045,1,1,Wet or damp,Single carriageway,Urban,Raining no high winds,Motorcycle over 500cc
+200701BS70084,Slight,10/2/2019,51.487141,Darkness - lights lit,Kensington and Chelsea,-0.169497,1,2,Dry,Single carriageway,Urban,Fine no high winds,Car
+200701BS70085,Slight,11/2/2019,51.496464,Daylight,Kensington and Chelsea,-0.179209,1,2,Dry,Single carriageway,Urban,Fine no high winds,Motorcycle 50cc and under
+200701BS70086,Slight,28/02/2019,51.485757,Daylight,Kensington and Chelsea,-0.150108,1,2,Dry,Single carriageway,Urban,Fine no high winds,Car
+200701BS70087,Slight,25/02/2019,51.48342,Daylight,Kensington and Chelsea,-0.167342,2,2,Wet or damp,Single carriageway,Urban,Raining no high winds,Motorcycle 50cc and under
+200701BS70088,Slight,19/02/2019,51.518935,Darkness - lights lit,Kensington and Chelsea,-0.225446,1,1,Dry,Single carriageway,Urban,Fine no high winds,Car
+200701BS70089,Slight,18/02/2019,51.49566,Darkness - lights lit,Kensington and Chelsea,-0.173766,1,2,Dry,Single carriageway,Urban,Fine no high winds,Bus or coach (17 or more pass seats)
+200701BS70090,Slight,28/02/2019,51.484962,Daylight,Kensington and Chelsea,-0.185572,1,3,Dry,Single carriageway,Urban,Fine no high winds,Motorcycle over 125cc and up to 500cc
+200701BS70091,Slight,27/02/2019,51.49557,Darkness - lights lit,Kensington and Chelsea,-0.17377,1,2,Wet or damp,Single carriageway,Urban,Fine no high winds,Car
+200701BS70092,Slight,24/02/2019,51.501749,Darkness - lights lit,Westminster,-0.160555,2,2,Dry,Dual carriageway,Urban,Fine no high winds,Car
+200701BS70094,Slight,3/3/2019,51.51417,Darkness - lights lit,Kensington and Chelsea,-0.20776,1,2,Dry,Single carriageway,Urban,Fine no high winds,Motorcycle 50cc and under
+200701BS70095,Slight,3/3/2019,51.485323,Darkness - lights lit,Kensington and Chelsea,-0.174035,1,1,Dry,Single carriageway,Urban,Fine no high winds,Car
+200701BS70096,Slight,2/3/2019,51.496174,Daylight,Kensington and Chelsea,-0.207025,1,2,Dry,Single carriageway,Urban,Fine no high winds,Car
+200701BS70097,Slight,28/02/2019,51.508537,Darkness - lights lit,Kensington and Chelsea,-0.215763,1,2,Dry,Single carriageway,Urban,Fine no high winds,Goods 7.5 tonnes mgw and over
+200701BS70098,Slight,27/02/2019,51.488988,Darkness - lights lit,Kensington and Chelsea,-0.190022,1,1,Dry,Single carriageway,Urban,Fine no high winds,Motorcycle over 125cc and up to 500cc
+200701BS70099,Slight,2/3/2019,51.509605,Daylight,Kensington and Chelsea,-0.197419,1,2,Dry,Roundabout,Urban,Fine no high winds,Bus or coach (17 or more pass seats)
+200701BS70100,Slight,5/3/2019,51.487745,Daylight,Kensington and Chelsea,-0.167889,1,2,Dry,Single carriageway,Urban,Fine no high winds,Car
+200701BS70101,Slight,1/3/2019,51.493252,Daylight,Kensington and Chelsea,-0.169252,1,2,Dry,Single carriageway,Urban,Fine no high winds,Van / Goods 3.5 tonnes mgw or under
+200701BS70102,Slight,6/3/2019,51.5159,Daylight,Kensington and Chelsea,-0.209133,1,2,Wet or damp,Single carriageway,Urban,Raining no high winds,Car
+200701BS70103,Slight,1/3/2019,51.517252,Daylight,Kensington and Chelsea,-0.203459,1,1,Dry,Single carriageway,Urban,Fine no high winds,Car
+200701BS70105,Slight,13/03/2019,51.483422,Daylight,Kensington and Chelsea,-0.167486,1,2,Dry,Single carriageway,Urban,Fine no high winds,Motorcycle 125cc and under
+200701BS70106,Slight,3/3/2019,51.494624,Daylight,Kensington and Chelsea,-0.193976,1,2,Dry,Single carriageway,Urban,Fine no high winds,Van / Goods 3.5 tonnes mgw or under
+200701BS70107,Slight,20/03/2019,51.519685,Daylight,Kensington and Chelsea,-0.215615,1,1,Dry,Single carriageway,Urban,Other,Car
+200701BS70108,Serious,10/3/2019,51.484044,Darkness - lights lit,Kensington and Chelsea,-0.184312,1,2,Dry,Single carriageway,Urban,Fine no high winds,Motorcycle 125cc and under
+200701BS70110,Serious,6/3/2019,51.485364,Daylight,Kensington and Chelsea,-0.188293,1,2,Wet or damp,Single carriageway,Urban,Raining no high winds,Car
+200701BS70115,Slight,14/03/2019,51.517171,Darkness - lights lit,Kensington and Chelsea,-0.209948,1,1,Dry,Single carriageway,Urban,Fine no high winds,Bus or coach (17 or more pass seats)
+200701BS70116,Slight,21/03/2019,51.491964,Darkness - lights lit,Kensington and Chelsea,-0.161669,1,2,Dry,Single carriageway,Urban,Fine no high winds,Car
+200701BS70117,Slight,27/02/2019,51.479733,Darkness - lights unlit,Kensington and Chelsea,-0.178867,1,2,Wet or damp,Single carriageway,Urban,Fine no high winds,Car
+200701BS70118,Slight,8/3/2019,51.498154,Daylight,Kensington and Chelsea,-0.166463,1,2,Dry,Dual carriageway,Urban,Fine no high winds,Taxi/Private hire car
+200701BS70120,Slight,16/03/2019,51.515641,Daylight,Hammersmith and Fulham,-0.221683,1,2,Dry,Slip road,Urban,Fine no high winds,Motorcycle 125cc and under
+200701BS70121,Slight,15/03/2019,51.49747,Darkness - lights lit,Kensington and Chelsea,-0.197754,1,2,Dry,One way street,Urban,Fine no high winds,Car
+200701BS70122,Slight,16/03/2019,51.499443,Daylight,Kensington and Chelsea,-0.197388,1,2,Dry,Single carriageway,Urban,Fine no high winds,Car
+200701BS70124,Slight,17/03/2019,51.494469,Daylight,Kensington and Chelsea,-0.195567,1,3,Dry,Dual carriageway,Urban,Fine no high winds,Motorcycle 50cc and under
+200701BS70125,Slight,17/03/2019,51.488439,Daylight,Kensington and Chelsea,-0.166276,1,1,Dry,Single carriageway,Urban,Fine no high winds,Motorcycle 125cc and under
+200701BS70126,Slight,17/03/2019,51.477833,Darkness - lights lit,Hammersmith and Fulham,-0.189744,1,1,Dry,Single carriageway,Urban,Fine no high winds,Motorcycle 125cc and under
+200701BS70127,Slight,14/02/2019,51.50191,Daylight,Westminster,-0.159396,3,2,Dry,Single carriageway,Urban,Fine no high winds,Car
+200701BS70128,Slight,18/03/2019,51.5159,Darkness - lights lit,Kensington and Chelsea,-0.209133,2,2,Wet or damp,Single carriageway,Urban,Fine no high winds,Motorcycle 125cc and under
+200701BS70129,Slight,25/03/2019,51.507806,Daylight,Kensington and Chelsea,-0.203254,1,1,Dry,Dual carriageway,Urban,Fine no high winds,Car
+200701BS70130,Slight,11/3/2019,51.504582,Daylight,Hammersmith and Fulham,-0.215917,1,2,Dry,Roundabout,Urban,Fine no high winds,Goods over 3.5t. and under 7.5t
+200701BS70131,Slight,13/03/2019,51.508472,Daylight,Kensington and Chelsea,-0.19977,1,2,Dry,Single carriageway,Urban,Fine no high winds,Motorcycle over 500cc
+200701BS70132,Slight,16/03/2019,51.494508,Daylight,Kensington and Chelsea,-0.174821,1,1,Dry,Roundabout,Urban,Fine no high winds,Car
+200701BS70133,Slight,17/03/2019,51.493429,Daylight,Kensington and Chelsea,-0.169101,1,2,Dry,Single carriageway,Urban,Fine no high winds,Car
+200701BS70134,Slight,20/03/2019,51.48295,Daylight,Kensington and Chelsea,-0.177587,1,2,Dry,Single carriageway,Urban,Fine no high winds,Car
+200701BS70138,Slight,26/03/2019,51.502197,Daylight,Kensington and Chelsea,-0.189354,1,2,Dry,Single carriageway,Urban,Fine no high winds,Motorcycle 50cc and under
+200701BS70139,Slight,23/03/2019,51.491149,Daylight,Kensington and Chelsea,-0.172794,1,2,Wet or damp,Single carriageway,Urban,Fine no high winds,Car
+200701BS70140,Serious,22/03/2019,51.48555,Daylight,Kensington and Chelsea,-0.177051,1,2,Wet or damp,Single carriageway,Urban,Raining no high winds,Car
+200701BS70141,Slight,22/03/2019,51.488394,Daylight,Kensington and Chelsea,-0.19235,1,1,Wet or damp,Single carriageway,Urban,Snowing no high winds,Bus or coach (17 or more pass seats)
+200701BS70142,Slight,24/03/2019,51.523076,Darkness - lights lit,Kensington and Chelsea,-0.219807,1,2,Wet or damp,Single carriageway,Urban,Raining no high winds,Car
+200701BS70143,Slight,23/03/2019,51.482079,Darkness - lights lit,Kensington and Chelsea,-0.173589,1,2,Dry,Single carriageway,Urban,Fine no high winds,Van / Goods 3.5 tonnes mgw or under
+200701BS70145,Serious,21/03/2019,51.488093,Daylight,Kensington and Chelsea,-0.167154,1,1,Dry,Single carriageway,Urban,Fine no high winds,Car
+200701BS70146,Slight,26/03/2019,51.501198,Daylight,Kensington and Chelsea,-0.159857,1,1,Dry,Single carriageway,Urban,Fine no high winds,Taxi/Private hire car
+200701BS70147,Slight,24/03/2019,51.495361,Darkness - lights lit,Kensington and Chelsea,-0.177668,1,2,Wet or damp,Single carriageway,Urban,Raining no high winds,Motorcycle 50cc and under
+200701BS70148,Slight,21/03/2019,51.496171,Daylight,Kensington and Chelsea,-0.206881,1,2,Wet or damp,Single carriageway,Urban,Raining no high winds,Car
+200701BS70149,Slight,25/03/2019,51.489416,Daylight,Kensington and Chelsea,-0.19447,1,3,Dry,Single carriageway,Urban,Fine no high winds,Taxi/Private hire car
+200701BS70150,Slight,30/03/2019,51.498838,Darkness - lights lit,Kensington and Chelsea,-0.198997,1,2,Dry,Dual carriageway,Urban,Fine no high winds,Motorcycle 125cc and under
+200701BS70151,Slight,20/03/2019,51.493269,Daylight,Kensington and Chelsea,-0.181929,1,2,Dry,Single carriageway,Urban,Fine no high winds,Car
+200701BS70152,Slight,30/03/2019,51.485757,Daylight,Kensington and Chelsea,-0.150108,1,2,Wet or damp,Single carriageway,Urban,Fine no high winds,Taxi/Private hire car
+200701BS70153,Slight,24/03/2019,51.502405,Daylight,Kensington and Chelsea,-0.191219,1,1,Dry,Single carriageway,Urban,Fine no high winds,Car
+200701BS70154,Slight,25/03/2019,51.51502,Darkness - lights lit,Kensington and Chelsea,-0.204556,2,2,Dry,Single carriageway,Urban,Fine no high winds,Motorcycle 125cc and under
+200701BS70156,Slight,22/03/2019,51.490172,Darkness - lights lit,Kensington and Chelsea,-0.190983,1,2,Dry,Single carriageway,Urban,Fine no high winds,Car
+200701BS70157,Slight,28/03/2019,51.48803,Daylight,Kensington and Chelsea,-0.174647,1,2,Dry,Single carriageway,Urban,Fine no high winds,Taxi/Private hire car
+200701BS70158,Serious,29/03/2019,51.483586,Daylight,Kensington and Chelsea,-0.166471,1,1,Wet or damp,Single carriageway,Urban,Raining no high winds,Van / Goods 3.5 tonnes mgw or under
+200701BS70159,Slight,2/2/2019,51.480806,Daylight,Kensington and Chelsea,-0.184297,1,2,Dry,Single carriageway,Urban,Fine no high winds,Taxi/Private hire car
+200701BS70160,Slight,3/3/2019,51.496507,Daylight,Kensington and Chelsea,-0.158893,1,3,Dry,Single carriageway,Urban,Fine no high winds,Motorcycle 125cc and under
+200701BS70161,Slight,30/03/2019,51.511923,Daylight,Kensington and Chelsea,-0.201939,2,2,Wet or damp,Single carriageway,Urban,Fine no high winds,Car
+200701BS70162,Slight,28/03/2019,51.483334,Daylight,Kensington and Chelsea,-0.167633,1,2,Dry,Single carriageway,Urban,Fine no high winds,Car
+200701BS70163,Slight,3/4/2019,51.495557,Daylight,Kensington and Chelsea,-0.16138,1,1,Dry,Single carriageway,Urban,Fine no high winds,Car
+200701BS70164,Slight,2/4/2019,51.483247,Daylight,Kensington and Chelsea,-0.167781,1,2,Dry,Single carriageway,Urban,Fine no high winds,Car
+200701BS70166,Slight,17/03/2019,51.490753,Daylight,Kensington and Chelsea,-0.182029,1,2,Dry,Single carriageway,Urban,Fine no high winds,Motorcycle over 500cc
+200701BS70167,Slight,30/03/2019,51.513895,Darkness - lights lit,Kensington and Chelsea,-0.201573,1,2,Wet or damp,Single carriageway,Urban,Raining no high winds,Car
+200701BS70168,Slight,15/04/2019,51.500731,Darkness - lights lit,Kensington and Chelsea,-0.193447,1,1,Dry,Single carriageway,Urban,Fine no high winds,Car
+200701BS70169,Slight,16/03/2019,51.5119,Daylight,Kensington and Chelsea,-0.19459,1,3,Dry,Single carriageway,Urban,Fine no high winds,Van / Goods 3.5 tonnes mgw or under
+200701BS70170,Serious,8/4/2019,51.495042,Darkness - lights lit,Kensington and Chelsea,-0.180274,1,1,Dry,Dual carriageway,Urban,Fine no high winds,Car
+200701BS70171,Slight,3/4/2019,51.518298,Darkness - lights lit,Kensington and Chelsea,-0.207166,1,3,Dry,One way street,Urban,Fine no high winds,Motorcycle 50cc and under
+200701BS70172,Slight,16/04/2019,51.522177,Daylight,Kensington and Chelsea,-0.208022,1,2,Dry,Single carriageway,Urban,Fine no high winds,Taxi/Private hire car
+200701BS70173,Slight,26/03/2019,51.520533,Daylight,Westminster,-0.200447,1,1,Dry,Single carriageway,Urban,Fine no high winds,Bus or coach (17 or more pass seats)
+200701BS70174,Serious,16/04/2019,51.493411,Daylight,Kensington and Chelsea,-0.173712,2,1,Dry,Single carriageway,Urban,Fine no high winds,Car
+200701BS70175,Slight,13/04/2019,51.491484,Daylight,Kensington and Chelsea,-0.188627,1,2,Dry,Single carriageway,Urban,Fine no high winds,Motorcycle 50cc and under
+200701BS70177,Slight,4/4/2019,51.496489,Daylight,Kensington and Chelsea,-0.169267,1,2,Dry,Single carriageway,Urban,Fine no high winds,Bus or coach (17 or more pass seats)
+200701BS70178,Slight,21/04/2019,51.509374,Daylight,Kensington and Chelsea,-0.194114,1,2,Dry,Single carriageway,Urban,Fine no high winds,Motorcycle 125cc and under
+200701BS70179,Slight,12/4/2019,51.502577,Darkness - lights lit,Kensington and Chelsea,-0.214123,1,2,Dry,Single carriageway,Urban,Fine no high winds,Car
+200701BS70181,Slight,14/04/2019,51.498513,Daylight,Kensington and Chelsea,-0.183737,1,2,Dry,Single carriageway,Urban,Fine no high winds,Taxi/Private hire car
+200701BS70182,Slight,14/04/2019,51.498926,Darkness - lights lit,Kensington and Chelsea,-0.198849,1,2,Dry,Dual carriageway,Urban,Fine no high winds,Car
+200701BS70183,Slight,14/04/2019,51.482079,Daylight,Kensington and Chelsea,-0.173589,1,5,Dry,Single carriageway,Urban,Fine no high winds,Motorcycle 125cc and under
+200701BS70184,Serious,10/4/2019,51.504331,Daylight,Kensington and Chelsea,-0.193593,1,2,Dry,Single carriageway,Urban,Fine no high winds,Motorcycle 125cc and under
+200701BS70185,Slight,5/4/2019,51.492471,Daylight,Kensington and Chelsea,-0.200112,1,2,Dry,Dual carriageway,Urban,Fine no high winds,Motorcycle 50cc and under
+200701BS70186,Slight,6/4/2019,51.508564,Daylight,Kensington and Chelsea,-0.19991,1,2,Dry,Single carriageway,Urban,Fine no high winds,Motorcycle 125cc and under
+200701BS70187,Slight,14/04/2019,51.50003,Darkness - lights lit,Kensington and Chelsea,-0.159904,1,2,Dry,Single carriageway,Urban,Fine no high winds,Motorcycle 125cc and under
+200701BS70188,Slight,14/04/2019,51.482689,Daylight,Kensington and Chelsea,-0.178173,1,2,Dry,Single carriageway,Urban,Fine no high winds,Car
+200701BS70189,Slight,19/04/2019,51.516717,Daylight,Kensington and Chelsea,-0.209678,1,2,Dry,Single carriageway,Urban,Fine no high winds,Car
+200701BS70190,Slight,21/04/2019,51.498763,Daylight,Kensington and Chelsea,-0.165142,1,1,Dry,Single carriageway,Urban,Fine no high winds,Motorcycle 125cc and under
+200701BS70191,Slight,16/04/2019,51.515893,Daylight,Hammersmith and Fulham,-0.22052,1,2,Dry,Roundabout,Urban,Fine no high winds,Motorcycle 125cc and under
+200701BS70192,Slight,19/04/2019,51.492622,Daylight,Kensington and Chelsea,-0.157753,1,2,Dry,One way street,Urban,Fine no high winds,Car
+200701BS70193,Slight,20/04/2019,51.524885,Darkness - lights lit,Kensington and Chelsea,-0.214547,1,1,Dry,Single carriageway,Urban,Fine no high winds,Car
+200701BS70194,Slight,1/4/2019,51.480436,Daylight,Kensington and Chelsea,-0.177831,1,1,Dry,Single carriageway,Urban,Fine no high winds,Motorcycle over 500cc
+200701BS70195,Slight,18/04/2019,51.491172,Daylight,Kensington and Chelsea,-0.191664,1,1,Dry,Single carriageway,Urban,Fine no high winds,Car
+200701BS70196,Serious,20/04/2019,51.494635,Daylight,Kensington and Chelsea,-0.194696,1,3,Dry,Single carriageway,Urban,Fine no high winds,Motorcycle 125cc and under
+200701BS70198,Slight,22/04/2019,51.508763,Darkness - lights lit,Kensington and Chelsea,-0.195291,1,1,Dry,One way street,Urban,Fine no high winds,Motorcycle 125cc and under
+200701BS70199,Slight,20/04/2019,51.481575,Daylight,Kensington and Chelsea,-0.181674,1,2,Dry,Single carriageway,Urban,Fine no high winds,Car
+200701BS70200,Slight,20/04/2019,51.494813,Daylight,Kensington and Chelsea,-0.182876,1,1,Dry,Single carriageway,Urban,Fine no high winds,Motorcycle over 500cc
+200701BS70201,Slight,23/04/2019,51.496577,Daylight,Kensington and Chelsea,-0.169119,1,2,Dry,Single carriageway,Urban,Fine no high winds,Motorcycle over 125cc and up to 500cc
+200701BS70202,Slight,3/5/2019,51.51499,Daylight,Kensington and Chelsea,-0.208448,1,2,Dry,Single carriageway,Urban,Fine no high winds,Car
+200701BS70203,Slight,27/04/2019,51.515247,Daylight,Kensington and Chelsea,-0.213483,1,1,Dry,Single carriageway,Urban,Fine no high winds,Motorcycle over 500cc
+200701BS70205,Slight,1/5/2019,51.509886,Daylight,Kensington and Chelsea,-0.198129,1,2,Dry,Single carriageway,Urban,Fine no high winds,Car
+200701BS70206,Slight,23/04/2019,51.506783,Darkness - lights lit,Kensington and Chelsea,-0.206897,1,2,Dry,Single carriageway,Urban,Fine no high winds,Car
+200701BS70207,Slight,14/04/2019,51.508882,Daylight,Kensington and Chelsea,-0.197159,1,1,Dry,Single carriageway,Urban,Fine no high winds,Car
+200701BS70208,Slight,9/2/2019,51.495137,Daylight,Kensington and Chelsea,-0.192227,1,2,Dry,Single carriageway,Urban,Fine no high winds,Motorcycle 50cc and under
+200701BS70209,Slight,26/04/2019,51.482076,Darkness - lights lit,Kensington and Chelsea,-0.173445,2,3,Dry,Single carriageway,Urban,Fine no high winds,Van / Goods 3.5 tonnes mgw or under
+200701BS70210,Slight,24/04/2019,51.492597,Daylight,Kensington and Chelsea,-0.19665,1,1,Dry,Single carriageway,Urban,Fine no high winds,Taxi/Private hire car
+200701BS70211,Slight,27/04/2019,51.508622,Daylight,Kensington and Chelsea,-0.203655,1,2,Dry,Single carriageway,Urban,Fine no high winds,Car
+200701BS70212,Slight,23/04/2019,51.500481,Daylight,Kensington and Chelsea,-0.16003,1,1,Dry,Single carriageway,Urban,Fine no high winds,Car
+200701BS70213,Slight,28/04/2019,51.501277,Daylight,Kensington and Chelsea,-0.193858,1,1,Dry,Single carriageway,Urban,Fine no high winds,Taxi/Private hire car
+200701BS70214,Slight,28/04/2019,51.508972,Daylight,Kensington and Chelsea,-0.197156,1,1,Dry,Single carriageway,Urban,Fine no high winds,Taxi/Private hire car
+200701BS70215,Slight,30/04/2019,51.491632,Daylight,Kensington and Chelsea,-0.192366,1,2,Dry,One way street,Urban,Fine no high winds,Taxi/Private hire car
+200701BS70216,Slight,14/04/2019,51.509377,Daylight,Kensington and Chelsea,-0.194258,1,2,Dry,Single carriageway,Urban,Fine no high winds,Car
+200701BS70217,Serious,2/5/2019,51.49249,Daylight,Kensington and Chelsea,-0.166546,1,2,Dry,Single carriageway,Urban,Fine no high winds,Goods over 3.5t. and under 7.5t
+200701BS70218,Slight,29/04/2019,51.527785,Darkness - lights lit,Westminster,-0.21602,1,2,Dry,Single carriageway,Urban,Fine no high winds,Car
+200701BS70219,Slight,21/03/2019,51.487745,Darkness - lights lit,Kensington and Chelsea,-0.167889,1,2,Dry,Single carriageway,Urban,Fine no high winds,Motorcycle 50cc and under
+200701BS70220,Slight,9/5/2019,51.496174,Daylight,Kensington and Chelsea,-0.207025,1,2,Dry,Single carriageway,Urban,Fine no high winds,Motorcycle 50cc and under
+200701BS70221,Slight,4/5/2019,51.494683,Daylight,Kensington and Chelsea,-0.191957,1,1,Dry,Single carriageway,Urban,Fine no high winds,Motorcycle over 500cc
+200701BS70222,Slight,3/5/2019,51.499127,Daylight,Kensington and Chelsea,-0.159652,1,2,Dry,Single carriageway,Urban,Fine no high winds,Bus or coach (17 or more pass seats)
+200701BS70223,Slight,5/5/2019,51.498924,Daylight,Kensington and Chelsea,-0.198705,1,3,Dry,Single carriageway,Urban,Fine no high winds,Bus or coach (17 or more pass seats)
+200701BS70224,Slight,8/5/2019,51.501358,Daylight,Westminster,-0.181607,1,2,Dry,Single carriageway,Urban,Fine no high winds,Bus or coach (17 or more pass seats)
+200701BS70225,Slight,3/5/2019,51.485323,Daylight,Kensington and Chelsea,-0.162512,1,2,Dry,Single carriageway,Urban,Fine no high winds,Motorcycle 125cc and under
+200701BS70226,Slight,8/5/2019,51.490753,Daylight,Kensington and Chelsea,-0.182029,1,2,Dry,Single carriageway,Urban,Fine no high winds,Car
+200701BS70227,Slight,9/5/2019,51.499048,Daylight,Kensington and Chelsea,-0.160375,1,1,Wet or damp,Single carriageway,Urban,Raining no high winds,Car
+200701BS70228,Serious,4/5/2019,51.488749,Darkness - lights lit,Kensington and Chelsea,-0.192048,1,1,Dry,Single carriageway,Urban,Fine no high winds,Car
+200701BS70229,Slight,4/5/2019,51.482987,Daylight,Kensington and Chelsea,-0.185795,1,2,Dry,Single carriageway,Urban,Fine no high winds,Car
+200701BS70230,Slight,2/5/2019,51.485757,Darkness - lights lit,Kensington and Chelsea,-0.150108,1,1,Dry,Single carriageway,Urban,Fine no high winds,Car
+200701BS70231,Slight,5/5/2019,51.4896,Daylight,Kensington and Chelsea,-0.194751,1,1,Dry,One way street,Urban,Fine no high winds,Car
+200701BS70232,Slight,12/5/2019,51.525887,Daylight,Kensington and Chelsea,-0.215373,2,2,Dry,Roundabout,Urban,Fine no high winds,Taxi/Private hire car
+200701BS70233,Slight,17/05/2019,51.497125,Daylight,Kensington and Chelsea,-0.204539,2,2,Dry,Single carriageway,Urban,Fine no high winds,Car
+200701BS70234,Slight,10/5/2019,51.501023,Darkness - lights lit,Kensington and Chelsea,-0.160152,1,2,Dry,Single carriageway,Urban,Fine no high winds,Motorcycle over 125cc and up to 500cc
+200701BS70235,Slight,2/5/2019,51.5159,Daylight,Kensington and Chelsea,-0.209133,1,2,Dry,Single carriageway,Urban,Fine no high winds,Car
+200701BS70236,Slight,8/5/2019,51.50191,Daylight,Westminster,-0.159396,1,1,Dry,Dual carriageway,Urban,Fine no high winds,Car
+200701BS70237,Slight,8/5/2019,51.482577,Daylight,Kensington and Chelsea,-0.170976,1,2,Dry,Single carriageway,Urban,Fine no high winds,Car
+200701BS70238,Serious,15/05/2019,51.492186,Daylight,Kensington and Chelsea,-0.187446,1,2,Wet or damp,Roundabout,Urban,Raining no high winds,Motorcycle 125cc and under
+200701BS70239,Slight,15/05/2019,51.492388,Daylight,Kensington and Chelsea,-0.183117,2,2,Dry,Single carriageway,Urban,Fine no high winds,Car
+200701BS70240,Slight,10/5/2019,51.503679,Daylight,Kensington and Chelsea,-0.215664,1,1,Dry,Single carriageway,Urban,Fine no high winds,Car
+200701BS70241,Slight,15/05/2019,51.47855,Daylight,Kensington and Chelsea,-0.183811,1,3,Dry,Single carriageway,Urban,Fine no high winds,Motorcycle 125cc and under
+200701BS70242,Slight,11/5/2019,51.480878,Daylight,Kensington and Chelsea,-0.183142,1,2,Dry,Single carriageway,Urban,Fine no high winds,Taxi/Private hire car
+200701BS70243,Slight,24/04/2019,51.505595,Daylight,Kensington and Chelsea,-0.211555,1,2,Dry,Single carriageway,Urban,Fine no high winds,Bus or coach (17 or more pass seats)
+200701BS70244,Slight,16/05/2019,51.48097,Darkness - lights lit,Kensington and Chelsea,-0.183282,1,2,Wet or damp,Single carriageway,Urban,Raining no high winds,Car
+200701BS70245,Slight,21/05/2019,51.488264,Darkness - lights lit,Kensington and Chelsea,-0.166571,1,2,Dry,Single carriageway,Urban,Fine no high winds,Motorcycle over 500cc
+200701BS70246,Slight,22/05/2019,51.487745,Darkness - lights lit,Kensington and Chelsea,-0.167889,1,2,Dry,Single carriageway,Urban,Fine no high winds,Car
+200701BS70248,Slight,20/05/2019,51.514543,Daylight,Kensington and Chelsea,-0.214519,1,2,Dry,Single carriageway,Urban,Fine no high winds,Motorcycle 125cc and under
+200701BS70249,Slight,15/05/2019,51.519477,Daylight,Kensington and Chelsea,-0.20784,1,2,Wet or damp,Single carriageway,Urban,Fine no high winds,Car
+200701BS70250,Slight,19/05/2019,51.509374,Darkness - lights lit,Kensington and Chelsea,-0.194114,1,2,Dry,Single carriageway,Urban,Fine no high winds,Car
+200701BS70251,Slight,15/05/2019,51.492183,Daylight,Kensington and Chelsea,-0.187302,1,2,Dry,Single carriageway,Urban,Fine no high winds,Motorcycle over 500cc
+200701BS70252,Slight,20/05/2019,51.493759,Daylight,Kensington and Chelsea,-0.17874,1,2,Dry,Single carriageway,Urban,Fine no high winds,Taxi/Private hire car
+200701BS70253,Slight,20/05/2019,51.481593,Daylight,Kensington and Chelsea,-0.182826,1,2,Dry,Single carriageway,Urban,Fine no high winds,Motorcycle 50cc and under
+200701BS70254,Slight,20/05/2019,51.494683,Daylight,Kensington and Chelsea,-0.168763,1,1,Dry,Single carriageway,Urban,Fine no high winds,Car
+200701BS70255,Serious,16/05/2019,51.491632,Daylight,Kensington and Chelsea,-0.192366,1,3,Dry,Single carriageway,Urban,Fine no high winds,Car
+200701BS70256,Slight,22/05/2019,51.499127,Daylight,Kensington and Chelsea,-0.159652,1,2,Dry,Single carriageway,Urban,Fine no high winds,Van / Goods 3.5 tonnes mgw or under
+200701BS70257,Slight,22/05/2019,51.493759,Daylight,Kensington and Chelsea,-0.17874,1,1,Dry,Single carriageway,Urban,Fine no high winds,Car
+200701BS70258,Slight,29/05/2019,51.487538,Daylight,Kensington and Chelsea,-0.195121,1,2,Dry,Single carriageway,Urban,Fine no high winds,Motorcycle 125cc and under
+200701BS70259,Slight,31/05/2019,51.519477,Daylight,Kensington and Chelsea,-0.20784,1,1,Dry,Single carriageway,Urban,Fine no high winds,Car
+200701BS70260,Slight,17/05/2019,51.520003,Daylight,Kensington and Chelsea,-0.224684,1,1,Dry,Single carriageway,Urban,Fine no high winds,Taxi/Private hire car
+200701BS70262,Slight,21/05/2019,51.499353,Daylight,Kensington and Chelsea,-0.197391,2,1,Wet or damp,Single carriageway,Urban,Raining no high winds,Goods over 3.5t. and under 7.5t
+200701BS70263,Slight,21/04/2019,51.508445,Darkness - lights lit,Kensington and Chelsea,-0.215622,1,2,Dry,Single carriageway,Urban,Fine no high winds,Motorcycle over 500cc
+200701BS70264,Slight,19/05/2019,51.528065,Daylight,Kensington and Chelsea,-0.216729,1,2,Dry,Single carriageway,Urban,Fine no high winds,Car
+200701BS70265,Slight,2/5/2019,51.481746,Daylight,Kensington and Chelsea,-0.17533,1,2,Dry,Single carriageway,Urban,Fine no high winds,Van / Goods 3.5 tonnes mgw or under
+200701BS70266,Slight,25/05/2019,51.494339,Daylight,Kensington and Chelsea,-0.15826,1,2,Dry,Single carriageway,Urban,Fine no high winds,Motorcycle 50cc and under
+200701BS70267,Slight,27/05/2019,51.51417,Daylight,Kensington and Chelsea,-0.20776,1,2,Wet or damp,Single carriageway,Urban,Raining no high winds,Car
+200701BS70268,Serious,22/05/2019,51.484042,Daylight,Kensington and Chelsea,-0.161124,1,1,Dry,Single carriageway,Urban,Fine no high winds,Bus or coach (17 or more pass seats)
+200701BS70269,Slight,25/05/2019,51.490548,Daylight,Kensington and Chelsea,-0.186215,1,2,Dry,Single carriageway,Urban,Fine no high winds,Taxi/Private hire car
+200701BS70270,Slight,27/05/2019,51.499724,Daylight,Kensington and Chelsea,-0.163374,1,1,Dry,Single carriageway,Urban,Fine no high winds,Motorcycle 125cc and under
+200701BS70271,Slight,3/6/2019,51.497381,Daylight,Kensington and Chelsea,-0.203664,2,2,Dry,Dual carriageway,Urban,Fine no high winds,Motorcycle 125cc and under
+200701BS70272,Slight,20/05/2019,51.490131,Daylight,Kensington and Chelsea,-0.176724,1,1,Dry,Single carriageway,Urban,Fine no high winds,Car
+200701BS70273,Slight,5/6/2019,51.490065,Daylight,Kensington and Chelsea,-0.195741,1,2,Dry,One way street,Urban,Fine no high winds,Car
+200701BS70274,Slight,6/6/2019,51.499516,Daylight,Kensington and Chelsea,-0.208047,1,2,Dry,Single carriageway,Urban,Fine no high winds,Car
+200701BS70275,Slight,5/6/2019,51.515917,Daylight,Kensington and Chelsea,-0.216195,1,1,Dry,Dual carriageway,Urban,Fine no high winds,Bus or coach (17 or more pass seats)
+200701BS70276,Slight,4/6/2019,51.480177,Daylight,Kensington and Chelsea,-0.178561,1,2,Dry,Single carriageway,Urban,Fine no high winds,Motorcycle 125cc and under
+200701BS70277,Slight,5/6/2019,51.525792,Daylight,Kensington and Chelsea,-0.215088,1,2,Dry,Roundabout,Urban,Fine no high winds,Car
+200701BS70279,Slight,9/5/2019,51.483644,Daylight,Kensington and Chelsea,-0.164452,1,2,Dry,Single carriageway,Urban,Fine no high winds,Car
+200701BS70280,Slight,3/6/2019,51.484282,Daylight,Kensington and Chelsea,-0.159242,2,2,Dry,Single carriageway,Urban,Fine no high winds,Van / Goods 3.5 tonnes mgw or under
+200701BS70281,Slight,29/05/2019,51.507115,Daylight,Kensington and Chelsea,-0.199247,1,1,Dry,Single carriageway,Urban,Fine no high winds,Van / Goods 3.5 tonnes mgw or under
+200701BS70283,Slight,5/6/2019,51.494177,Darkness - lights lit,Kensington and Chelsea,-0.182469,1,1,Dry,Single carriageway,Urban,Fine no high winds,Motorcycle 125cc and under
+200701BS70284,Slight,6/6/2019,51.486624,Daylight,Kensington and Chelsea,-0.170958,1,2,Dry,Single carriageway,Urban,Fine no high winds,Taxi/Private hire car
+200701BS70285,Slight,31/05/2019,51.49566,Daylight,Kensington and Chelsea,-0.173766,1,2,Dry,Single carriageway,Urban,Fine no high winds,Motorcycle 125cc and under
+200701BS70286,Serious,5/6/2019,51.508706,Daylight,Kensington and Chelsea,-0.197455,1,2,Dry,Dual carriageway,Urban,Fine no high winds,Bus or coach (17 or more pass seats)
+200701BS70287,Slight,16/06/2019,51.504851,Daylight,Kensington and Chelsea,-0.198183,1,1,Wet or damp,Single carriageway,Urban,Raining no high winds,Car
+200701BS70288,Serious,3/6/2019,51.519667,Daylight,Hammersmith and Fulham,-0.226283,1,2,Dry,Single carriageway,Urban,Fine no high winds,Motorcycle over 500cc
+200701BS70289,Slight,2/6/2019,51.499727,Daylight,Kensington and Chelsea,-0.163518,1,2,Dry,Single carriageway,Urban,Fine no high winds,Car
+200701BS70290,Slight,10/6/2019,51.488003,Daylight,Kensington and Chelsea,-0.167158,1,2,Dry,Single carriageway,Urban,Fine no high winds,Motorcycle over 500cc
+200701BS70291,Serious,7/6/2019,51.490263,Daylight,Kensington and Chelsea,-0.16217,1,2,Dry,Single carriageway,Urban,Fine no high winds,Car
+200701BS70292,Slight,8/6/2019,51.515667,Daylight,Kensington and Chelsea,-0.205683,1,2,Dry,Single carriageway,Urban,Fine no high winds,Car
+200701BS70293,Slight,8/6/2019,51.496492,Daylight,Kensington and Chelsea,-0.169411,1,2,Dry,Single carriageway,Urban,Fine no high winds,Car
+200701BS70294,Slight,5/6/2019,51.498743,Darkness - lights lit,Kensington and Chelsea,-0.210382,1,2,Dry,Single carriageway,Urban,Fine no high winds,Car
+200701BS70297,Serious,13/06/2019,51.49375,Daylight,Westminster,-0.155115,1,3,Dry,Single carriageway,Urban,Fine no high winds,Motorcycle over 125cc and up to 500cc
+200701BS70298,Slight,13/06/2019,51.497138,Darkness - lights lit,Kensington and Chelsea,-0.159012,1,2,Wet or damp,Single carriageway,Urban,Raining no high winds,Motorcycle 125cc and under
+200701BS70299,Serious,4/6/2019,51.494612,Darkness - lights lit,Kensington and Chelsea,-0.18735,1,2,Dry,Single carriageway,Urban,Fine + high winds,Motorcycle over 500cc
+200701BS70300,Slight,10/6/2019,51.489787,Darkness - lights lit,Kensington and Chelsea,-0.195176,1,2,Dry,Single carriageway,Urban,Fine no high winds,Car
+200701BS70301,Slight,13/06/2019,51.515558,Daylight,Hammersmith and Fulham,-0.222118,1,1,Dry,Slip road,Urban,Fine no high winds,Car
+200701BS70302,Slight,11/6/2019,51.509125,Daylight,Kensington and Chelsea,-0.195421,1,1,Dry,Single carriageway,Urban,Fine no high winds,Motorcycle over 125cc and up to 500cc
+200701BS70303,Slight,14/06/2019,51.493771,Daylight,Kensington and Chelsea,-0.173698,2,1,Dry,Single carriageway,Urban,Fine no high winds,Motorcycle 125cc and under
+200701BS70304,Slight,12/6/2019,51.494369,Daylight,Kensington and Chelsea,-0.200757,1,2,Dry,Single carriageway,Urban,Fine no high winds,Taxi/Private hire car
+200701BS70305,Slight,19/06/2019,51.519227,Daylight,Kensington and Chelsea,-0.215057,1,2,Wet or damp,Single carriageway,Urban,Fine no high winds,Bus or coach (17 or more pass seats)
+200701BS70306,Slight,16/06/2019,51.484658,Daylight,Kensington and Chelsea,-0.165996,1,2,Dry,Single carriageway,Urban,Fine no high winds,Car
+200701BS70307,Slight,18/04/2019,51.489262,Daylight,Kensington and Chelsea,-0.190299,1,2,Dry,Single carriageway,Urban,Fine no high winds,Car
+200701BS70308,Slight,14/06/2019,51.487538,Daylight,Kensington and Chelsea,-0.195121,1,2,Dry,Single carriageway,Urban,Fine no high winds,Taxi/Private hire car
+200701BS70309,Slight,11/6/2019,51.486968,Daylight,Kensington and Chelsea,-0.169936,1,1,Dry,Single carriageway,Urban,Fine no high winds,Motorcycle over 125cc and up to 500cc
+200701BS70310,Slight,13/06/2019,51.500192,Daylight,Kensington and Chelsea,-0.211046,1,1,Dry,Single carriageway,Urban,Fine no high winds,Motorcycle 125cc and under
+200701BS70311,Slight,13/06/2019,51.493759,Daylight,Kensington and Chelsea,-0.17874,1,2,Dry,Single carriageway,Urban,Fine no high winds,Bus or coach (17 or more pass seats)
+200701BS70312,Slight,18/06/2019,51.494267,Daylight,Kensington and Chelsea,-0.170941,1,2,Wet or damp,One way street,Urban,Fine no high winds,Car
+200701BS70313,Slight,14/06/2019,51.485757,Darkness - lights lit,Kensington and Chelsea,-0.150108,3,2,Wet or damp,Single carriageway,Urban,Raining no high winds,Car
+200701BS70314,Slight,22/05/2019,51.497053,Daylight,Kensington and Chelsea,-0.159303,1,2,Dry,Single carriageway,Urban,Fine no high winds,Car
+200701BS70315,Slight,17/06/2019,51.506781,Darkness - lights lit,Kensington and Chelsea,-0.206753,3,2,Dry,Single carriageway,Urban,Fine no high winds,Taxi/Private hire car
+200701BS70316,Slight,20/06/2019,51.488958,Darkness - lights lit,Kensington and Chelsea,-0.164959,1,2,Dry,Single carriageway,Urban,Fine no high winds,Car
+200701BS70317,Slight,18/06/2019,51.484276,Daylight,Kensington and Chelsea,-0.176093,1,1,Wet or damp,Single carriageway,Urban,Raining no high winds,Motorcycle over 500cc
+200701BS70318,Slight,23/06/2019,51.483635,Darkness - lights lit,Kensington and Chelsea,-0.163876,1,2,Dry,Single carriageway,Urban,Fine no high winds,Motorcycle 50cc and under
+200701BS70319,Slight,13/06/2019,51.493285,Daylight,Kensington and Chelsea,-0.194606,1,2,Dry,One way street,Urban,Fine no high winds,Taxi/Private hire car
+200701BS70320,Slight,15/06/2019,51.517336,Daylight,Kensington and Chelsea,-0.214843,1,2,Dry,Single carriageway,Urban,Fine no high winds,Motorcycle 50cc and under
+200701BS70321,Slight,15/06/2019,51.51764,Daylight,Kensington and Chelsea,-0.205318,1,1,Dry,Single carriageway,Urban,Fine no high winds,Car
+200701BS70322,Slight,20/06/2019,51.507539,Daylight,Kensington and Chelsea,-0.209317,1,2,Dry,Single carriageway,Urban,Fine no high winds,Motorcycle over 500cc
+200701BS70323,Slight,22/06/2019,51.52198,Daylight,Kensington and Chelsea,-0.212787,1,1,Dry,Single carriageway,Urban,Fine no high winds,Car
+200701BS70325,Slight,27/06/2019,51.497451,Daylight,Kensington and Chelsea,-0.167499,1,2,Dry,Single carriageway,Urban,Fine no high winds,Car
+200701BS70326,Slight,21/06/2019,51.49766,Daylight,Kensington and Chelsea,-0.19256,1,2,Dry,Single carriageway,Urban,Fine no high winds,Motorcycle over 125cc and up to 500cc
+200701BS70327,Slight,24/06/2019,51.494688,Daylight,Kensington and Chelsea,-0.192245,1,1,Dry,Single carriageway,Urban,Fine no high winds,Motorcycle 125cc and under
+200701BS70328,Slight,26/06/2019,51.496235,Daylight,Kensington and Chelsea,-0.170285,1,2,Dry,Single carriageway,Urban,Other,Car
+200701BS70329,Slight,26/06/2019,51.50863,Daylight,Kensington and Chelsea,-0.198322,1,1,Dry,Dual carriageway,Urban,Fine no high winds,Motorcycle 125cc and under
+200701BS70330,Slight,8/6/2019,51.489945,Daylight,Kensington and Chelsea,-0.170537,1,1,Dry,Single carriageway,Urban,Fine no high winds,Car
+200701BS70331,Serious,29/06/2019,51.526101,Daylight,Kensington and Chelsea,-0.211761,1,2,Wet or damp,Single carriageway,Urban,Fine no high winds,Taxi/Private hire car
+200701BS70332,Slight,13/03/2019,51.504054,Daylight,Hammersmith and Fulham,-0.216658,1,2,Dry,Single carriageway,Urban,Fine no high winds,Car
+200701BS70333,Slight,2/7/2019,51.493681,Daylight,Kensington and Chelsea,-0.179464,1,1,Dry,Single carriageway,Urban,Fine no high winds,Car
+200701BS70334,Slight,29/06/2019,51.496515,Daylight,Kensington and Chelsea,-0.205859,3,1,Dry,Single carriageway,Urban,Fine no high winds,Motorcycle over 125cc and up to 500cc
+200701BS70335,Slight,29/06/2019,51.488769,Daylight,Kensington and Chelsea,-0.193344,1,2,Dry,Single carriageway,Urban,Fine + high winds,Car
+200701BS70336,Slight,26/06/2019,51.48567,Daylight,Kensington and Chelsea,-0.150255,1,2,Dry,Single carriageway,Urban,Fine no high winds,Car
+200701BS70337,Slight,19/06/2019,51.497073,Darkness - lights lit,Kensington and Chelsea,-0.183651,2,2,Wet or damp,Single carriageway,Urban,Raining no high winds,Van / Goods 3.5 tonnes mgw or under
+200701BS70338,Slight,2/7/2019,51.500012,Daylight,Kensington and Chelsea,-0.158752,1,2,Dry,Single carriageway,Urban,Fine no high winds,Motorcycle over 500cc
+200701BS70339,Slight,1/7/2019,51.485266,Darkness - lights lit,Kensington and Chelsea,-0.181959,1,2,Wet or damp,Single carriageway,Urban,Raining no high winds,Goods 7.5 tonnes mgw and over
+200701BS70340,Slight,28/06/2019,51.510715,Daylight,Kensington and Chelsea,-0.205302,1,2,Dry,Single carriageway,Urban,Fine no high winds,Car
+200701BS70341,Slight,24/06/2019,51.49456,Daylight,Kensington and Chelsea,-0.189801,2,3,Wet or damp,Dual carriageway,Urban,Raining no high winds,Motorcycle over 500cc
+200701BS70343,Slight,3/7/2019,51.49981,Darkness - lights lit,Kensington and Chelsea,-0.163082,2,2,Wet or damp,Single carriageway,Urban,Fine no high winds,Car
+200701BS70344,Slight,15/06/2019,51.491173,Daylight,Kensington and Chelsea,-0.18014,2,2,Wet or damp,Single carriageway,Urban,Raining no high winds,Car
+200701BS70345,Slight,30/06/2019,51.490791,Daylight,Kensington and Chelsea,-0.161428,1,2,Wet or damp,Single carriageway,Urban,Raining no high winds,Motorcycle 125cc and under
+200701BS70346,Slight,23/06/2019,51.483422,Darkness - lights lit,Kensington and Chelsea,-0.167486,1,2,Dry,Single carriageway,Urban,Fine no high winds,Motorcycle 125cc and under
+200701BS70347,Slight,24/06/2019,51.508564,Daylight,Kensington and Chelsea,-0.19991,1,2,Dry,Single carriageway,Urban,Fine no high winds,Motorcycle over 125cc and up to 500cc
+200701BS70348,Slight,30/06/2019,51.490681,Daylight,Kensington and Chelsea,-0.183184,1,2,Dry,Single carriageway,Urban,Fine no high winds,Car
+200701BS70349,Slight,7/7/2019,51.501656,Daylight,Westminster,-0.160415,1,1,Dry,Single carriageway,Urban,Fine no high winds,Motorcycle 50cc and under
+200701BS70350,Slight,22/06/2019,51.485178,Daylight,Kensington and Chelsea,-0.187868,1,3,Dry,One way street,Urban,Fine no high winds,Car
+200701BS70351,Slight,5/7/2019,51.499024,Daylight,Kensington and Chelsea,-0.164555,1,2,Wet or damp,Single carriageway,Urban,Fine no high winds,Bus or coach (17 or more pass seats)
+200701BS70352,Slight,6/7/2019,51.492137,Daylight,Kensington and Chelsea,-0.178517,1,2,Dry,Single carriageway,Urban,Fine no high winds,Car
+200701BS70353,Slight,2/7/2019,51.49725,Daylight,Kensington and Chelsea,-0.206839,1,2,Wet or damp,Single carriageway,Urban,Raining no high winds,Taxi/Private hire car
+200701BS70354,Slight,2/7/2019,51.522162,Daylight,Kensington and Chelsea,-0.212924,1,2,Dry,Single carriageway,Urban,Fine no high winds,Car
+200701BS70355,Slight,16/05/2019,51.499355,Daylight,Kensington and Chelsea,-0.197535,1,2,Dry,Single carriageway,Urban,Fine no high winds,Car
+200701BS70356,Slight,1/7/2019,51.50888,Daylight,Kensington and Chelsea,-0.197015,1,1,Dry,Dual carriageway,Urban,Fine no high winds,Car
+200701BS70357,Slight,2/7/2019,51.49566,Daylight,Kensington and Chelsea,-0.173766,1,2,Wet or damp,Single carriageway,Urban,Fine no high winds,Motorcycle 125cc and under
+200701BS70358,Slight,4/7/2019,51.484274,Daylight,Kensington and Chelsea,-0.17595,1,2,Dry,Single carriageway,Urban,Fine no high winds,Car
+200701BS70359,Slight,4/7/2019,51.496381,Daylight,Kensington and Chelsea,-0.173881,1,2,Wet or damp,Single carriageway,Urban,Raining no high winds,Car
+200701BS70360,Slight,4/7/2019,51.495361,Daylight,Kensington and Chelsea,-0.177668,1,2,Dry,Single carriageway,Urban,Fine no high winds,Car
+200701BS70361,Slight,27/06/2019,51.503133,Daylight,Kensington and Chelsea,-0.191767,1,1,Wet or damp,Single carriageway,Urban,Fine no high winds,Car
+200701BS70362,Slight,15/06/2019,51.497628,Daylight,Kensington and Chelsea,-0.167348,2,2,Dry,Dual carriageway,Urban,Other,Taxi/Private hire car
+200701BS70363,Slight,15/07/2019,51.49747,Darkness - lights lit,Kensington and Chelsea,-0.197754,1,1,Dry,One way street,Urban,Fine no high winds,Car
+200701BS70364,Slight,3/7/2019,51.499504,Daylight,Kensington and Chelsea,-0.183842,1,1,Wet or damp,Single carriageway,Urban,Raining no high winds,Car
+200701BS70365,Slight,12/7/2019,51.526244,Daylight,Kensington and Chelsea,-0.215215,1,2,Dry,Single carriageway,Urban,Fine no high winds,Taxi/Private hire car
+200701BS70366,Serious,9/7/2019,51.491519,Daylight,Kensington and Chelsea,-0.179262,2,2,Dry,Single carriageway,Urban,Fine no high winds,Van / Goods 3.5 tonnes mgw or under
+200701BS70367,Slight,6/7/2019,51.489622,Daylight,Kensington and Chelsea,-0.155713,1,2,Dry,Single carriageway,Urban,Fine no high winds,Goods 7.5 tonnes mgw and over
+200701BS70368,Slight,29/06/2019,51.482076,Darkness - lights lit,Kensington and Chelsea,-0.173445,1,3,Wet or damp,Single carriageway,Urban,Raining no high winds,Car
+200701BS70370,Serious,5/7/2019,51.515891,Daylight,Hammersmith and Fulham,-0.220376,1,2,Dry,Roundabout,Urban,Fine no high winds,Car
+200701BS70371,Slight,8/7/2019,51.496752,Daylight,Kensington and Chelsea,-0.168824,1,2,Dry,Single carriageway,Urban,Fine no high winds,Van / Goods 3.5 tonnes mgw or under
+200701BS70372,Slight,6/7/2019,51.495811,Daylight,Kensington and Chelsea,-0.171887,1,2,Dry,Single carriageway,Urban,Fine no high winds,Taxi/Private hire car
+200701BS70373,Serious,18/06/2019,51.496665,Daylight,Kensington and Chelsea,-0.168972,1,2,Dry,Single carriageway,Urban,Fine no high winds,Motorcycle 125cc and under
+200701BS70374,Serious,9/7/2019,51.497309,Daylight,Kensington and Chelsea,-0.20482,2,1,Dry,Single carriageway,Urban,Fine no high winds,Van / Goods 3.5 tonnes mgw or under
+200701BS70375,Serious,12/7/2019,51.483163,Daylight,Kensington and Chelsea,-0.1855,1,2,Dry,Single carriageway,Urban,Fine no high winds,Car
+200701BS70376,Slight,11/7/2019,51.490434,Daylight,Kensington and Chelsea,-0.167349,1,1,Dry,Single carriageway,Urban,Fine no high winds,Car
+200701BS70377,Slight,12/7/2019,51.514568,Daylight,Westminster,-0.19852,1,2,Dry,Single carriageway,Urban,Fine no high winds,Car
+200701BS70378,Serious,12/7/2019,51.482076,Daylight,Kensington and Chelsea,-0.173445,1,2,Dry,Single carriageway,Urban,Fine no high winds,Car
+200701BS70379,Serious,17/07/2019,51.506187,Daylight,Kensington and Chelsea,-0.209082,1,2,Dry,Single carriageway,Urban,Fine no high winds,Car
+200701BS70381,Slight,20/07/2019,51.50143,Daylight,Kensington and Chelsea,-0.192122,1,2,Dry,Single carriageway,Urban,Fine no high winds,Motorcycle over 500cc
+200701BS70382,Slight,14/07/2019,51.505595,Daylight,Kensington and Chelsea,-0.211555,1,2,Dry,Single carriageway,Urban,Fine no high winds,Car
+200701BS70383,Serious,2/7/2019,51.489879,Darkness - lights lit,Kensington and Chelsea,-0.195316,1,1,Wet or damp,Single carriageway,Urban,Raining no high winds,Car
+200701BS70384,Slight,8/7/2019,51.499521,Daylight,Kensington and Chelsea,-0.208335,1,4,Dry,One way street,Urban,Fine no high winds,Motorcycle 125cc and under
+200701BS70385,Slight,23/07/2019,51.482326,Daylight,Kensington and Chelsea,-0.172139,1,2,Dry,Single carriageway,Urban,Fine no high winds,Car
+200701BS70386,Slight,18/07/2019,51.509515,Daylight,Kensington and Chelsea,-0.197423,1,1,Dry,Single carriageway,Urban,Fine no high winds,Motorcycle 125cc and under
+200701BS70387,Slight,20/07/2019,51.50228,Daylight,Kensington and Chelsea,-0.188919,1,2,Dry,Single carriageway,Urban,Fine no high winds,Car
+200701BS70388,Slight,20/07/2019,51.519714,Daylight,Kensington and Chelsea,-0.211578,1,2,Dry,Single carriageway,Urban,Fine no high winds,Car
+200701BS70389,Slight,19/07/2019,51.526336,Darkness - lights lit,Kensington and Chelsea,-0.215355,2,3,Dry,Single carriageway,Urban,Fine no high winds,Motorcycle over 500cc
+200701BS70390,Slight,15/07/2019,51.492652,Daylight,Kensington and Chelsea,-0.200249,1,2,Wet or damp,Dual carriageway,Urban,Raining no high winds,Car
+200701BS70391,Slight,21/07/2019,51.497984,Daylight,Kensington and Chelsea,-0.201912,1,2,Dry,Single carriageway,Urban,Fine no high winds,Car
+200701BS70392,Slight,16/07/2019,51.501656,Daylight,Westminster,-0.160415,1,2,Dry,Single carriageway,Urban,Fine no high winds,Motorcycle 125cc and under
+200701BS70393,Slight,19/07/2019,51.489352,Daylight,Kensington and Chelsea,-0.190296,1,1,Dry,Single carriageway,Urban,Fine no high winds,Motorcycle over 500cc
+200701BS70394,Slight,25/07/2019,51.495768,Daylight,Kensington and Chelsea,-0.192346,1,2,Dry,Single carriageway,Urban,Fine no high winds,Motorcycle over 125cc and up to 500cc
+200701BS70395,Slight,17/07/2019,51.499011,Daylight,Kensington and Chelsea,-0.198558,1,2,Dry,Single carriageway,Urban,Fine no high winds,Van / Goods 3.5 tonnes mgw or under
+200701BS70396,Slight,20/07/2019,51.504927,Daylight,Kensington and Chelsea,-0.214895,1,2,Wet or damp,Single carriageway,Urban,Raining no high winds,Car
+200701BS70397,Slight,6/8/2019,51.502134,Daylight,Kensington and Chelsea,-0.191086,1,1,Dry,Single carriageway,Urban,Fine no high winds,Car
+200701BS70398,Serious,18/07/2019,51.492773,Daylight,Kensington and Chelsea,-0.167399,1,1,Dry,Single carriageway,Urban,Fine no high winds,Car
+200701BS70399,Serious,28/07/2019,51.483035,Darkness - lights lit,Kensington and Chelsea,-0.177295,1,2,Wet or damp,Single carriageway,Urban,Raining no high winds,Car
+200701BS70400,Slight,14/07/2019,51.501571,Daylight,Kensington and Chelsea,-0.160706,1,1,Dry,Single carriageway,Urban,Fine no high winds,Taxi/Private hire car
+200701BS70401,Slight,28/07/2019,51.509515,Darkness - lights lit,Kensington and Chelsea,-0.197423,1,2,Wet or damp,Single carriageway,Urban,Raining no high winds,Car
+200701BS70403,Slight,24/07/2019,51.502224,Daylight,Kensington and Chelsea,-0.191082,1,1,Dry,Single carriageway,Urban,Fine no high winds,Car
+200701BS70405,Slight,1/8/2019,51.487491,Daylight,Kensington and Chelsea,-0.168907,1,1,Dry,Single carriageway,Urban,Fine no high winds,Bus or coach (17 or more pass seats)
+200701BS70406,Slight,22/07/2019,51.501656,Daylight,Westminster,-0.160415,2,2,Dry,Single carriageway,Urban,Fine no high winds,Car
+200701BS70407,Slight,25/05/2019,51.480806,Daylight,Kensington and Chelsea,-0.184297,1,2,Dry,Single carriageway,Urban,Fine no high winds,Car
+200701BS70408,Serious,27/07/2019,51.495478,Daylight,Kensington and Chelsea,-0.202731,2,4,Dry,Single carriageway,Urban,Fine no high winds,Car
+200701BS70409,Serious,26/07/2019,51.495117,Daylight,Kensington and Chelsea,-0.1735,1,1,Dry,Single carriageway,Urban,Fine + high winds,Car
+200701BS70410,Slight,27/07/2019,51.519986,Daylight,Kensington and Chelsea,-0.211712,1,2,Dry,Single carriageway,Urban,Fine no high winds,Motorcycle 125cc and under
+200701BS70411,Serious,25/07/2019,51.485505,Daylight,Kensington and Chelsea,-0.174172,1,2,Dry,Single carriageway,Urban,Fine no high winds,Goods 7.5 tonnes mgw and over
+200701BS70412,Slight,30/07/2019,51.501656,Daylight,Westminster,-0.160415,1,2,Dry,Single carriageway,Urban,Fine no high winds,Goods over 3.5t. and under 7.5t
+200701BS70413,Slight,31/07/2019,51.494756,Daylight,Kensington and Chelsea,-0.185039,1,2,Dry,Single carriageway,Urban,Fine no high winds,Car
+200701BS70414,Serious,30/07/2019,51.481487,Daylight,Kensington and Chelsea,-0.181822,1,2,Dry,Single carriageway,Urban,Fine no high winds,Motorcycle over 500cc
+200701BS70415,Serious,1/8/2019,51.495804,Daylight,Kensington and Chelsea,-0.171455,1,2,Dry,Single carriageway,Urban,Fine no high winds,Goods over 3.5t. and under 7.5t
+200701BS70416,Slight,12/8/2019,51.513856,Daylight,Kensington and Chelsea,-0.20489,1,1,Dry,Single carriageway,Urban,Fine no high winds,Motorcycle over 500cc
+200701BS70417,Slight,1/8/2019,51.505144,Daylight,Hammersmith and Fulham,-0.217336,1,3,Dry,Dual carriageway,Urban,Fine no high winds,Motorcycle 50cc and under
+200701BS70418,Slight,27/07/2019,51.501516,Daylight,Kensington and Chelsea,-0.191831,2,1,Dry,Single carriageway,Urban,Fine no high winds,Motorcycle 125cc and under
+200701BS70419,Slight,8/8/2019,51.486276,Daylight,Kensington and Chelsea,-0.171693,1,1,Dry,Single carriageway,Urban,Fine no high winds,Other vehicle
+200701BS70420,Slight,7/8/2019,51.48715,Daylight,Hounslow,-0.252608,1,2,Dry,Roundabout,Urban,Fine no high winds,Car
+200701BS70421,Slight,12/8/2019,51.527783,Daylight,Westminster,-0.215876,1,1,Dry,Single carriageway,Urban,Fine no high winds,Car
+200701BS70422,Serious,14/08/2019,51.522078,Daylight,Westminster,-0.201539,1,2,Dry,Single carriageway,Urban,Fine no high winds,Motorcycle over 500cc
+200701BS70423,Slight,10/8/2019,51.491661,Daylight,Kensington and Chelsea,-0.15952,2,2,Dry,Single carriageway,Urban,Fine no high winds,Taxi/Private hire car
+200701BS70424,Slight,11/8/2019,51.497288,Daylight,Kensington and Chelsea,-0.197617,1,2,Dry,Single carriageway,Urban,Fine no high winds,Car
+200701BS70425,Slight,15/08/2019,51.494713,Daylight,Kensington and Chelsea,-0.199735,1,2,Dry,One way street,Urban,Fine no high winds,Car
+200701BS70426,Slight,17/08/2019,51.516991,Daylight,Kensington and Chelsea,-0.209955,1,2,Dry,Single carriageway,Urban,Fine no high winds,Motorcycle 125cc and under
+200701BS70427,Slight,12/8/2019,51.499026,Daylight,Kensington and Chelsea,-0.164699,1,1,Dry,Single carriageway,Urban,Fine no high winds,Car
+200701BS70428,Slight,10/8/2019,51.514826,Daylight,Hammersmith and Fulham,-0.221282,1,2,Dry,Single carriageway,Urban,Fine no high winds,Motorcycle 125cc and under
+200701BS70429,Slight,9/8/2019,51.497242,Daylight,Kensington and Chelsea,-0.194593,1,2,Dry,Roundabout,Urban,Fine no high winds,Motorcycle 125cc and under
+200701BS70430,Slight,9/8/2019,51.497968,Daylight,Kensington and Chelsea,-0.166038,1,2,Dry,Single carriageway,Urban,Fine no high winds,Motorcycle 125cc and under
+200701BS70431,Slight,9/8/2019,51.516325,Daylight,Kensington and Chelsea,-0.213441,1,2,Dry,Single carriageway,Urban,Fine no high winds,Motorcycle over 125cc and up to 500cc
+200701BS70432,Slight,15/08/2019,51.487743,Daylight,Kensington and Chelsea,-0.167745,1,1,Dry,Single carriageway,Urban,Fine + high winds,Car
+200701BS70433,Slight,13/08/2019,51.517252,Daylight,Kensington and Chelsea,-0.203459,1,1,Dry,Single carriageway,Urban,Fine no high winds,Goods over 3.5t. and under 7.5t
+200701BS70434,Slight,12/8/2019,51.486792,Daylight,Kensington and Chelsea,-0.170231,1,1,Dry,Single carriageway,Urban,Fine no high winds,Car
+200701BS70435,Slight,14/08/2019,51.482637,Darkness - lights lit,Kensington and Chelsea,-0.186385,1,2,Wet or damp,Single carriageway,Urban,Raining no high winds,Car
+200701BS70437,Slight,22/08/2019,51.521811,Darkness - lights lit,Kensington and Chelsea,-0.225334,1,2,Wet or damp,Single carriageway,Urban,Fine no high winds,Motorcycle 125cc and under
+200701BS70438,Slight,7/8/2019,51.482547,Daylight,Kensington and Chelsea,-0.186388,1,2,Dry,Single carriageway,Urban,Fine no high winds,Motorcycle 125cc and under
+200701BS70439,Slight,2/8/2019,51.510993,Daylight,Kensington and Chelsea,-0.199958,1,2,Dry,Single carriageway,Urban,Fine no high winds,Car
+200701BS70440,Slight,19/08/2019,51.502069,Daylight,Kensington and Chelsea,-0.18691,1,2,Wet or damp,Single carriageway,Urban,Raining no high winds,Car
+200701BS70441,Slight,27/08/2019,51.496855,Daylight,Kensington and Chelsea,-0.163921,1,1,Dry,Single carriageway,Urban,Fine no high winds,Motorcycle 125cc and under
+200701BS70442,Serious,9/8/2019,51.522177,Daylight,Kensington and Chelsea,-0.208022,1,3,Dry,Single carriageway,Urban,Fine no high winds,Car
+200701BS70444,Serious,7/8/2019,51.483357,Daylight,Kensington and Chelsea,-0.174834,1,1,Dry,Single carriageway,Urban,Fine no high winds,Motorcycle 125cc and under
+200701BS70445,Slight,2/9/2019,51.527785,Darkness - lights lit,Westminster,-0.21602,1,2,Dry,Single carriageway,Urban,Fine no high winds,Car
+200701BS70447,Slight,24/08/2019,51.49226,Darkness - lights lit,Kensington and Chelsea,-0.157624,1,2,Dry,One way street,Urban,Fine no high winds,Van / Goods 3.5 tonnes mgw or under
+200701BS70448,Slight,30/08/2019,51.50821,Daylight,Kensington and Chelsea,-0.212029,1,2,Dry,Single carriageway,Urban,Fine no high winds,Car
+200701BS70449,Slight,22/08/2019,51.488425,Darkness - lights lit,Kensington and Chelsea,-0.176936,1,2,Wet or damp,Single carriageway,Urban,Raining no high winds,Motorcycle over 125cc and up to 500cc
+200701BS70450,Slight,7/8/2019,51.501749,Daylight,Westminster,-0.160555,1,2,Dry,Single carriageway,Urban,Fine no high winds,Van / Goods 3.5 tonnes mgw or under
+200701BS70451,Slight,5/8/2019,51.497051,Daylight,Kensington and Chelsea,-0.159159,1,2,Dry,Single carriageway,Urban,Fine no high winds,Motorcycle 125cc and under
+200701BS70452,Slight,20/08/2019,51.493487,Daylight,Westminster,-0.155557,1,2,Dry,Single carriageway,Urban,Fine no high winds,Car
+200701BS70453,Slight,17/08/2019,51.486376,Daylight,Kensington and Chelsea,-0.160886,1,2,Dry,Single carriageway,Urban,Fine no high winds,Car
+200701BS70454,Serious,19/08/2019,51.500641,Daylight,Kensington and Chelsea,-0.19345,1,1,Dry,Single carriageway,Urban,Fine no high winds,Car
+200701BS70455,Serious,23/03/2019,51.508641,Darkness - lights lit,Kensington and Chelsea,-0.199042,1,1,Dry,Single carriageway,Urban,Fine no high winds,Car
+200701BS70457,Slight,24/08/2019,51.48106,Daylight,Kensington and Chelsea,-0.183279,1,2,Dry,Single carriageway,Urban,Fine no high winds,Car
+200701BS70458,Slight,28/08/2019,51.504331,Daylight,Kensington and Chelsea,-0.193593,1,2,Dry,Single carriageway,Urban,Fine no high winds,Motorcycle 125cc and under
+200701BS70459,Slight,18/08/2019,51.508882,Daylight,Kensington and Chelsea,-0.197159,1,2,Dry,Single carriageway,Urban,Fine no high winds,Taxi/Private hire car
+200701BS70460,Slight,4/8/2019,51.48266,Daylight,Kensington and Chelsea,-0.170541,1,2,Dry,Single carriageway,Urban,Fine no high winds,Van / Goods 3.5 tonnes mgw or under
+200701BS70461,Slight,24/08/2019,51.504223,Daylight,Kensington and Chelsea,-0.192444,1,2,Dry,Single carriageway,Urban,Fine no high winds,Car
+200701BS70462,Slight,3/9/2019,51.481574,Daylight,Kensington and Chelsea,-0.187435,1,2,Dry,Single carriageway,Urban,Fine no high winds,Car
+200701BS70463,Slight,25/08/2019,51.4971,Daylight,Kensington and Chelsea,-0.16809,1,2,Dry,Single carriageway,Urban,Fine no high winds,Car
+200701BS70464,Slight,29/08/2019,51.491824,Daylight,Kensington and Chelsea,-0.198985,1,2,Dry,Single carriageway,Urban,Fine no high winds,Bus or coach (17 or more pass seats)
+200701BS70465,Slight,30/08/2019,51.508806,Darkness - lights lit,Kensington and Chelsea,-0.203936,1,2,Dry,Single carriageway,Urban,Fine no high winds,Van / Goods 3.5 tonnes mgw or under
+200701BS70466,Serious,5/9/2019,51.49262,Darkness - lights lit,Kensington and Chelsea,-0.157609,1,1,Dry,One way street,Urban,Fine no high winds,Car
+200701BS70467,Slight,5/9/2019,51.511923,Darkness - lights lit,Kensington and Chelsea,-0.201939,1,2,Dry,Single carriageway,Urban,Fine no high winds,Motorcycle over 500cc
+200701BS70468,Serious,5/9/2019,51.496411,Daylight,Kensington and Chelsea,-0.164228,2,2,Dry,Single carriageway,Urban,Fine no high winds,Motorcycle over 500cc
+200701BS70469,Slight,6/9/2019,51.498675,Daylight,Kensington and Chelsea,-0.165289,1,1,Dry,Single carriageway,Urban,Fine no high winds,Motorcycle 50cc and under
+200701BS70470,Slight,5/9/2019,51.481486,Darkness - lights lit,Kensington and Chelsea,-0.187583,1,2,Dry,Single carriageway,Urban,Fine no high winds,Motorcycle over 500cc
+200701BS70471,Slight,4/9/2019,51.503223,Darkness - lights lit,Kensington and Chelsea,-0.191763,1,1,Dry,Single carriageway,Urban,Fine no high winds,Car
+200701BS70472,Serious,2/9/2019,51.509607,Darkness - lights lit,Kensington and Chelsea,-0.197563,1,1,Dry,Roundabout,Urban,Fine no high winds,Car
+200701BS70473,Slight,7/9/2019,51.501113,Daylight,Kensington and Chelsea,-0.160148,1,1,Dry,Single carriageway,Urban,Fine no high winds,Goods over 3.5t. and under 7.5t
+200701BS70474,Slight,31/08/2019,51.491593,Daylight,Kensington and Chelsea,-0.17825,1,2,Dry,Single carriageway,Urban,Fine no high winds,Bus or coach (17 or more pass seats)
+200701BS70475,Slight,3/9/2019,51.485757,Darkness - lights lit,Kensington and Chelsea,-0.150108,2,2,Dry,Single carriageway,Urban,Fine no high winds,Car
+200701BS70477,Slight,28/08/2019,51.493177,Daylight,Kensington and Chelsea,-0.176026,1,1,Dry,Single carriageway,Urban,Fine no high winds,Car
+200701BS70478,Slight,7/9/2019,51.489129,Daylight,Kensington and Chelsea,-0.164376,1,2,Dry,Single carriageway,Urban,Fine no high winds,Car
+200701BS70479,Slight,27/06/2019,51.514918,Daylight,Hammersmith and Fulham,-0.221423,1,2,Dry,Dual carriageway,Urban,Fine no high winds,Car
+200701BS70480,Slight,14/09/2019,51.496518,Darkness - lights lit,Kensington and Chelsea,-0.206003,1,2,Dry,Single carriageway,Urban,Fine no high winds,Car
+200701BS70481,Slight,15/09/2019,51.499009,Daylight,Kensington and Chelsea,-0.198414,1,2,Dry,Single carriageway,Urban,Fine no high winds,Car
+200701BS70482,Slight,1/9/2019,51.511833,Daylight,Kensington and Chelsea,-0.201943,1,2,Dry,Single carriageway,Urban,Fine no high winds,Car
+200701BS70483,Slight,3/9/2019,51.51417,Daylight,Kensington and Chelsea,-0.20776,1,2,Dry,Single carriageway,Urban,Fine no high winds,Van / Goods 3.5 tonnes mgw or under
+200701BS70484,Slight,6/9/2019,51.497188,Daylight,Kensington and Chelsea,-0.167942,1,1,Dry,Single carriageway,Urban,Fine no high winds,Motorcycle over 500cc
+200701BS70485,Slight,10/9/2019,51.499024,Daylight,Kensington and Chelsea,-0.164555,1,2,Dry,Single carriageway,Urban,Fine no high winds,Car
+200701BS70486,Slight,13/09/2019,51.487637,Darkness - lights lit,Kensington and Chelsea,-0.178264,1,1,Dry,Single carriageway,Urban,Fine no high winds,Motorcycle 125cc and under
+200701BS70487,Slight,14/09/2019,51.49454,Darkness - lights lit,Kensington and Chelsea,-0.188505,2,1,Dry,Single carriageway,Urban,Fine no high winds,Car
+200701BS70488,Slight,7/9/2019,51.491732,Daylight,Kensington and Chelsea,-0.198845,1,3,Dry,One way street,Urban,Fine no high winds,Car
+200701BS70489,Slight,13/09/2019,51.501947,Daylight,Kensington and Chelsea,-0.190661,1,2,Dry,Single carriageway,Urban,Fine no high winds,Motorcycle 50cc and under
+200701BS70490,Slight,2/8/2019,51.489302,Daylight,Kensington and Chelsea,-0.175461,1,2,Dry,Single carriageway,Urban,Fine no high winds,Motorcycle over 500cc
+200701BS70491,Slight,5/8/2019,51.500994,Darkness - lights lit,Kensington and Chelsea,-0.193004,1,2,Dry,Single carriageway,Urban,Fine no high winds,Car
+200701BS70493,Slight,27/08/2019,51.492953,Darkness - lights lit,Kensington and Chelsea,-0.173154,1,2,Dry,Single carriageway,Urban,Fine no high winds,Taxi/Private hire car
+200701BS70494,Slight,16/08/2019,51.506936,Darkness - lights lit,Kensington and Chelsea,-0.199254,1,2,Dry,Single carriageway,Urban,Fine no high winds,Car
+200701BS70495,Slight,10/9/2019,51.49566,Daylight,Kensington and Chelsea,-0.173766,1,2,Dry,Dual carriageway,Urban,Fine no high winds,Motorcycle 50cc and under
+200701BS70496,Slight,16/09/2019,51.520266,Daylight,Kensington and Chelsea,-0.218331,1,1,Dry,Single carriageway,Urban,Fine no high winds,Car
+200701BS70497,Slight,10/9/2019,51.498926,Daylight,Kensington and Chelsea,-0.198849,1,2,Dry,Single carriageway,Urban,Fine no high winds,Car
+200701BS70498,Slight,8/9/2019,51.50191,Darkness - lights lit,Westminster,-0.159396,1,2,Dry,Single carriageway,Urban,Fine no high winds,Car
+200701BS70499,Slight,15/09/2019,51.499024,Daylight,Kensington and Chelsea,-0.164555,2,2,Dry,Single carriageway,Urban,Fine no high winds,Car
+200701BS70500,Slight,13/09/2019,51.516658,Daylight,Kensington and Chelsea,-0.205789,1,1,Dry,Single carriageway,Urban,Fine no high winds,Car
+200701BS70501,Slight,31/08/2019,51.50203,Daylight,Kensington and Chelsea,-0.190226,1,1,Dry,Single carriageway,Urban,Fine no high winds,Car
+200701BS70502,Slight,23/09/2019,51.497524,Daylight,Kensington and Chelsea,-0.183777,1,2,Dry,Single carriageway,Urban,Fine no high winds,Car
+200701BS70503,Slight,25/08/2019,51.499199,Darkness - lights lit,Kensington and Chelsea,-0.16426,1,1,Dry,One way street,Urban,Fine no high winds,Car
+200701BS70504,Slight,20/09/2019,51.518806,Daylight,Kensington and Chelsea,-0.211037,1,2,Dry,Single carriageway,Urban,Fine no high winds,Bus or coach (17 or more pass seats)
+200701BS70505,Slight,22/09/2019,51.48901,Daylight,Kensington and Chelsea,-0.191461,1,2,Dry,Single carriageway,Urban,Fine no high winds,Car
+200701BS70506,Slight,27/09/2019,51.488093,Daylight,Kensington and Chelsea,-0.167154,2,2,Dry,Single carriageway,Urban,Fine no high winds,Van / Goods 3.5 tonnes mgw or under
+200701BS70507,Slight,1/9/2019,51.488425,Darkness - lights lit,Kensington and Chelsea,-0.176936,1,2,Dry,Single carriageway,Urban,Fine no high winds,Van / Goods 3.5 tonnes mgw or under
+200701BS70508,Slight,16/09/2019,51.496019,Darkness - lights lit,Kensington and Chelsea,-0.196947,1,4,Dry,Single carriageway,Urban,Fine no high winds,Van / Goods 3.5 tonnes mgw or under
+200701BS70509,Slight,14/09/2019,51.487618,Daylight,Kensington and Chelsea,-0.188636,1,2,Dry,One way street,Urban,Fine no high winds,Motorcycle over 500cc
+200701BS70510,Slight,15/09/2019,51.515838,Daylight,Kensington and Chelsea,-0.2051,1,1,Dry,Single carriageway,Urban,Fine no high winds,Taxi/Private hire car
+200701BS70511,Slight,14/09/2019,51.500567,Daylight,Kensington and Chelsea,-0.194462,1,2,Dry,Single carriageway,Urban,Fine no high winds,Taxi/Private hire car
+200701BS70512,Slight,23/09/2019,51.492931,Daylight,Kensington and Chelsea,-0.200814,3,2,Dry,Single carriageway,Urban,Fine no high winds,Motorcycle over 500cc
+200701BS70513,Slight,6/9/2019,51.518806,Daylight,Kensington and Chelsea,-0.211037,1,1,Dry,Single carriageway,Urban,Fine no high winds,Motorcycle over 500cc
+200701BS70514,Serious,17/09/2019,51.496038,Daylight,Kensington and Chelsea,-0.192336,1,2,Dry,Single carriageway,Urban,Fine no high winds,Motorcycle over 500cc
+200701BS70516,Slight,17/09/2019,51.504874,Darkness - lights lit,Kensington and Chelsea,-0.193859,1,2,Dry,Single carriageway,Urban,Fine no high winds,Car
+200701BS70517,Slight,22/09/2019,51.506358,Daylight,Kensington and Chelsea,-0.208499,1,3,Dry,Single carriageway,Urban,Fine no high winds,Motorcycle over 500cc
+200701BS70518,Slight,14/09/2019,51.501744,Darkness - lights lit,Westminster,-0.160267,1,2,Dry,Dual carriageway,Urban,Fine no high winds,Motorcycle 125cc and under
+200701BS70520,Serious,19/09/2019,51.481746,Daylight,Kensington and Chelsea,-0.17533,1,2,Dry,Single carriageway,Urban,Fine no high winds,Taxi/Private hire car
+200701BS70521,Slight,23/09/2019,51.489787,Daylight,Kensington and Chelsea,-0.195176,1,2,Dry,Single carriageway,Urban,Fine no high winds,Motorcycle over 500cc
+200701BS70523,Slight,25/09/2019,51.499239,Daylight,Kensington and Chelsea,-0.195811,2,2,Wet or damp,Single carriageway,Urban,Fine no high winds,Car
+200701BS70524,Serious,12/9/2019,51.492371,Daylight,Kensington and Chelsea,-0.193633,1,2,Dry,Single carriageway,Urban,Fine no high winds,Car
+200701BS70525,Slight,1/10/2019,51.496381,Daylight,Kensington and Chelsea,-0.173881,1,3,Wet or damp,Single carriageway,Urban,Fine no high winds,Taxi/Private hire car
+200701BS70526,Slight,1/10/2019,51.499289,Daylight,Kensington and Chelsea,-0.164256,1,1,Wet or damp,Single carriageway,Urban,Fine no high winds,Car
+200701BS70527,Slight,3/10/2019,51.509129,Daylight,Kensington and Chelsea,-0.195709,1,3,Dry,Dual carriageway,Urban,Fine no high winds,Taxi/Private hire car
+200701BS70528,Slight,22/09/2019,51.482549,Daylight,Kensington and Chelsea,-0.186532,1,2,Dry,Single carriageway,Urban,Fine no high winds,Motorcycle 125cc and under
+200701BS70529,Slight,26/09/2019,51.521829,Daylight,Kensington and Chelsea,-0.226487,1,3,Dry,Single carriageway,Urban,Fine no high winds,Car
+200701BS70531,Slight,6/10/2019,51.485757,Daylight,Kensington and Chelsea,-0.150108,3,3,Dry,Single carriageway,Urban,Fine no high winds,Car
+200701BS70532,Slight,28/08/2019,51.496174,Daylight,Kensington and Chelsea,-0.207025,1,2,Dry,Single carriageway,Urban,Fine no high winds,Goods 7.5 tonnes mgw and over
+200701BS70533,Serious,28/09/2019,51.489389,Daylight,Kensington and Chelsea,-0.163789,1,1,Wet or damp,Single carriageway,Urban,Raining no high winds,Car
+200701BS70534,Serious,17/09/2019,51.491632,Daylight,Kensington and Chelsea,-0.192366,1,1,Dry,Single carriageway,Urban,Fine no high winds,Car
+200701BS70535,Slight,4/10/2019,51.491279,Daylight,Kensington and Chelsea,-0.163857,1,2,Dry,Single carriageway,Urban,Fine no high winds,Van / Goods 3.5 tonnes mgw or under
+200701BS70536,Slight,6/9/2019,51.488673,Darkness - lights lit,Kensington and Chelsea,-0.169724,1,2,Dry,Single carriageway,Urban,Fine no high winds,Bus or coach (17 or more pass seats)
+200701BS70537,Slight,8/10/2019,51.485496,Daylight,Kensington and Chelsea,-0.173596,1,2,Dry,Single carriageway,Urban,Fine no high winds,Motorcycle over 500cc
+200701BS70538,Slight,6/10/2019,51.498269,Darkness - lights lit,Kensington and Chelsea,-0.16228,1,1,Dry,One way street,Urban,Fine no high winds,Taxi/Private hire car
+200701BS70539,Serious,14/10/2019,51.491861,Darkness - lights lit,Kensington and Chelsea,-0.201432,9,3,Dry,Dual carriageway,Urban,Fine no high winds,Van / Goods 3.5 tonnes mgw or under
+200701BS70540,Slight,7/10/2019,51.509044,Daylight,Kensington and Chelsea,-0.196,1,2,Dry,Single carriageway,Urban,Fine no high winds,Motorcycle over 500cc
+200701BS70541,Serious,7/10/2019,51.494756,Darkness - lights lit,Kensington and Chelsea,-0.185039,1,1,Dry,Single carriageway,Urban,Fine no high winds,Car
+200701BS70542,Slight,3/10/2019,51.481744,Daylight,Kensington and Chelsea,-0.175186,1,2,Dry,Single carriageway,Urban,Fine no high winds,Goods over 3.5t. and under 7.5t
+200701BS70543,Slight,3/10/2019,51.495773,Daylight,Kensington and Chelsea,-0.16944,1,2,Dry,Single carriageway,Urban,Fine no high winds,Van / Goods 3.5 tonnes mgw or under
+200701BS70544,Slight,3/10/2019,51.495716,Darkness - lights lit,Kensington and Chelsea,-0.171603,1,2,Dry,Single carriageway,Urban,Fine no high winds,Taxi/Private hire car
+200701BS70545,Slight,28/09/2019,51.505512,Daylight,Kensington and Chelsea,-0.21199,1,1,Dry,Single carriageway,Urban,Fine no high winds,Motorcycle over 125cc and up to 500cc
+200701BS70546,Slight,3/10/2019,51.485757,Darkness - lights lit,Kensington and Chelsea,-0.150108,1,2,Dry,Single carriageway,Urban,Fine no high winds,Motorcycle over 500cc
+200701BS70547,Slight,9/6/2019,51.515731,Daylight,Hammersmith and Fulham,-0.221679,1,2,Dry,Roundabout,Urban,Fine no high winds,Goods over 3.5t. and under 7.5t
+200701BS70548,Slight,18/09/2019,51.494588,Daylight,Kensington and Chelsea,-0.162716,1,1,Dry,Single carriageway,Urban,Fine no high winds,Motorcycle over 500cc
+200701BS70549,Slight,3/10/2019,51.484188,Daylight,Kensington and Chelsea,-0.176241,1,2,Dry,Single carriageway,Urban,Fine no high winds,Goods 7.5 tonnes mgw and over
+200701BS70550,Slight,8/10/2019,51.482865,Daylight,Kensington and Chelsea,-0.177878,1,2,Dry,Single carriageway,Urban,Fine no high winds,Motorcycle 125cc and under
+200701BS70552,Slight,12/10/2019,51.486145,Daylight,Kensington and Chelsea,-0.180628,1,2,Dry,Single carriageway,Urban,Fine no high winds,Taxi/Private hire car
+200701BS70553,Serious,28/09/2019,51.501947,Daylight,Kensington and Chelsea,-0.190661,1,1,Dry,Single carriageway,Urban,Fine no high winds,Motorcycle over 500cc
+200701BS70554,Slight,25/09/2019,51.517796,Daylight,Kensington and Chelsea,-0.215545,1,2,Wet or damp,Roundabout,Urban,Fine no high winds,Motorcycle over 500cc
+200701BS70555,Slight,7/10/2019,51.500304,Daylight,Kensington and Chelsea,-0.194905,1,2,Dry,Single carriageway,Urban,Fine no high winds,Bus or coach (17 or more pass seats)
+200701BS70556,Slight,16/10/2019,51.494835,Daylight,Kensington and Chelsea,-0.184316,1,2,Dry,Single carriageway,Urban,Fine no high winds,Van / Goods 3.5 tonnes mgw or under
+200701BS70557,Slight,10/10/2019,51.493435,Daylight,Kensington and Chelsea,-0.158008,1,1,Dry,Single carriageway,Urban,Fine no high winds,Motorcycle 125cc and under
+200701BS70559,Slight,6/10/2019,51.494521,Darkness - lights lit,Kensington and Chelsea,-0.158397,2,2,Dry,Single carriageway,Urban,Fine no high winds,Taxi/Private hire car
+200701BS70560,Slight,16/10/2019,51.488145,Daylight,Kensington and Chelsea,-0.193656,1,3,Wet or damp,Single carriageway,Urban,Raining no high winds,Motorcycle 125cc and under
+200701BS70561,Serious,12/10/2019,51.502314,Daylight,Kensington and Chelsea,-0.214565,1,1,Wet or damp,Single carriageway,Urban,Raining no high winds,Motorcycle 125cc and under
+200701BS70562,Serious,8/10/2019,51.482637,Daylight,Kensington and Chelsea,-0.186385,1,2,Dry,Single carriageway,Urban,Fine no high winds,Bus or coach (17 or more pass seats)
+200701BS70563,Slight,29/09/2019,51.515099,Daylight,Hammersmith and Fulham,-0.22156,1,2,Dry,Roundabout,Urban,Fine no high winds,Car
+200701BS70565,Slight,7/10/2019,51.495204,Daylight,Kensington and Chelsea,-0.179115,1,2,Dry,Single carriageway,Urban,Fine no high winds,Goods over 3.5t. and under 7.5t
+200701BS70566,Serious,15/10/2019,51.491782,Daylight,Kensington and Chelsea,-0.178819,2,2,Dry,Single carriageway,Urban,Fine no high winds,Goods 7.5 tonnes mgw and over
+200701BS70567,Serious,12/10/2019,51.504931,Daylight,Kensington and Chelsea,-0.215183,1,2,Wet or damp,Dual carriageway,Urban,Fine no high winds,Van / Goods 3.5 tonnes mgw or under
+200701BS70568,Slight,16/10/2019,51.522085,Daylight,Kensington and Chelsea,-0.201972,1,1,Dry,Single carriageway,Urban,Fine no high winds,Motorcycle 125cc and under
+200701BS70569,Slight,31/08/2019,51.483603,Daylight,Kensington and Chelsea,-0.184906,1,2,Dry,Single carriageway,Urban,Fine no high winds,Motorcycle 125cc and under
+200701BS70570,Slight,17/10/2019,51.487628,Daylight,Kensington and Chelsea,-0.195117,1,2,Dry,Single carriageway,Urban,Fine no high winds,Car
+200701BS70571,Slight,12/10/2019,51.491874,Daylight,Kensington and Chelsea,-0.184722,2,3,Wet or damp,Single carriageway,Urban,Fine no high winds,Bus or coach (17 or more pass seats)
+200701BS70572,Serious,22/10/2019,51.497013,Darkness - lights lit,Kensington and Chelsea,-0.168237,1,1,Dry,Single carriageway,Urban,Fine no high winds,Bus or coach (17 or more pass seats)
+200701BS70573,Slight,23/10/2019,51.482076,Daylight,Kensington and Chelsea,-0.173445,2,2,Dry,Single carriageway,Urban,Fine no high winds,Motorcycle over 500cc
+200701BS70574,Slight,9/10/2019,51.504851,Daylight,Kensington and Chelsea,-0.198183,1,2,Wet or damp,Single carriageway,Urban,Fine no high winds,Motorcycle 125cc and under
+200701BS70575,Serious,23/10/2019,51.522078,Daylight,Westminster,-0.201539,1,2,Dry,Single carriageway,Urban,Fine no high winds,Car
+200701BS70576,Slight,18/10/2019,51.504841,Daylight,Kensington and Chelsea,-0.215187,1,2,Dry,Slip road,Urban,Fine no high winds,Car
+200701BS70577,Slight,23/10/2019,51.496605,Darkness - lights lit,Kensington and Chelsea,-0.205856,4,2,Dry,Single carriageway,Urban,Fine no high winds,Car
+200701BS70578,Slight,19/09/2019,51.521988,Daylight,Westminster,-0.201543,1,2,Dry,Single carriageway,Urban,Fine no high winds,Bus or coach (17 or more pass seats)
+200701BS70579,Serious,18/10/2019,51.490972,Darkness - lights lit,Kensington and Chelsea,-0.190375,1,2,Dry,Single carriageway,Urban,Fine no high winds,Van / Goods 3.5 tonnes mgw or under
+200701BS70580,Slight,17/10/2019,51.509293,Daylight,Kensington and Chelsea,-0.194693,1,1,Dry,Single carriageway,Urban,Fine no high winds,Bus or coach (17 or more pass seats)
+200701BS70581,Slight,9/10/2019,51.508882,Daylight,Kensington and Chelsea,-0.197159,1,1,Dry,Single carriageway,Urban,Fine no high winds,Car
+200701BS70582,Slight,20/09/2019,51.488776,Daylight,Kensington and Chelsea,-0.176346,1,2,Dry,Single carriageway,Urban,Fine no high winds,Car
+200701BS70583,Slight,10/9/2019,51.500304,Daylight,Kensington and Chelsea,-0.194905,1,2,Dry,Single carriageway,Urban,Fine no high winds,Car
+200701BS70584,Slight,19/10/2019,51.514399,Darkness - lights lit,Kensington and Chelsea,-0.199248,2,2,Dry,Single carriageway,Urban,Fine no high winds,Van / Goods 3.5 tonnes mgw or under
+200701BS70585,Slight,22/10/2019,51.500819,Darkness - lights lit,Kensington and Chelsea,-0.193299,1,3,Dry,Single carriageway,Urban,Fine no high winds,Motorcycle over 500cc
+200701BS70586,Slight,20/10/2019,51.495773,Darkness - lights lit,Kensington and Chelsea,-0.16944,1,2,Dry,Single carriageway,Urban,Fine no high winds,Motorcycle 125cc and under
+200701BS70588,Slight,24/10/2019,51.500731,Daylight,Kensington and Chelsea,-0.193447,1,1,Dry,Single carriageway,Urban,Fine no high winds,Taxi/Private hire car
+200701BS70589,Slight,20/10/2019,51.487369,Darkness - lights lit,Kensington and Chelsea,-0.195848,1,1,Dry,Single carriageway,Urban,Fine no high winds,Car
+200701BS70590,Slight,25/10/2019,51.497035,Daylight,Kensington and Chelsea,-0.204542,1,2,Wet or damp,Single carriageway,Urban,Raining no high winds,Bus or coach (17 or more pass seats)
+200701BS70591,Slight,8/6/2019,51.495204,Daylight,Kensington and Chelsea,-0.179115,2,2,Dry,Dual carriageway,Urban,Fine no high winds,Goods 7.5 tonnes mgw and over
+200701BS70592,Slight,17/08/2019,51.485669,Daylight,Kensington and Chelsea,-0.173157,1,2,Dry,Single carriageway,Urban,Fine no high winds,Motorcycle over 125cc and up to 500cc
+200701BS70593,Slight,11/9/2019,51.494087,Darkness - lights lit,Kensington and Chelsea,-0.182473,1,2,Dry,Single carriageway,Urban,Fine no high winds,Car
+200701BS70594,Slight,25/09/2019,51.501656,Daylight,Westminster,-0.160415,1,1,Dry,Single carriageway,Urban,Fine no high winds,Car
+200701BS70595,Slight,25/10/2019,51.495206,Darkness - lights lit,Kensington and Chelsea,-0.179259,1,1,Dry,Single carriageway,Urban,Fine no high winds,Bus or coach (17 or more pass seats)
+200701BS70596,Slight,26/10/2019,51.509127,Darkness - lights lit,Kensington and Chelsea,-0.195565,1,2,Wet or damp,Single carriageway,Urban,Fine no high winds,Bus or coach (17 or more pass seats)
+200701BS70597,Serious,5/10/2019,51.517749,Daylight,Kensington and Chelsea,-0.200701,1,2,Dry,Single carriageway,Urban,Fine no high winds,Van / Goods 3.5 tonnes mgw or under
+200701BS70598,Slight,19/10/2019,51.484349,Daylight,Kensington and Chelsea,-0.186605,1,2,Dry,Single carriageway,Urban,Fine no high winds,Motorcycle over 125cc and up to 500cc
+200701BS70600,Slight,19/09/2019,51.482079,Darkness - lights lit,Kensington and Chelsea,-0.173589,1,2,Dry,Single carriageway,Urban,Fine no high winds,Car
+200701BS70601,Slight,5/11/2019,51.487657,Darkness - lights lit,Kensington and Chelsea,-0.168036,1,2,Dry,Single carriageway,Urban,Fine no high winds,Bus or coach (17 or more pass seats)
+200701BS70603,Slight,22/09/2019,51.48615,Darkness - lights lit,Kensington and Chelsea,-0.169393,2,2,Dry,Single carriageway,Urban,Fine no high winds,Car
+200701BS70604,Serious,6/11/2019,51.497015,Daylight,Kensington and Chelsea,-0.168381,1,2,Dry,Single carriageway,Urban,Fine no high winds,Motorcycle 125cc and under
+200701BS70606,Slight,6/11/2019,51.502134,Daylight,Kensington and Chelsea,-0.191086,1,1,Dry,Single carriageway,Urban,Fine no high winds,Van / Goods 3.5 tonnes mgw or under
+200701BS70607,Slight,6/1/2019,51.513744,Darkness - lights lit,Kensington and Chelsea,-0.203453,1,2,Dry,Single carriageway,Urban,Fine no high winds,Motorcycle over 500cc
+200701BS70608,Slight,29/10/2019,51.490351,Daylight,Kensington and Chelsea,-0.162022,1,2,Dry,Single carriageway,Urban,Fine no high winds,Goods over 3.5t. and under 7.5t
+200701BS70609,Slight,29/09/2019,51.482074,Daylight,Kensington and Chelsea,-0.173301,1,2,Wet or damp,Single carriageway,Urban,Raining no high winds,Taxi/Private hire car
+200701BS70610,Slight,8/11/2019,51.500738,Daylight,Kensington and Chelsea,-0.193879,1,2,Dry,Dual carriageway,Urban,Fine no high winds,Other vehicle
+200701BS70611,Serious,27/10/2019,51.484361,Daylight,Kensington and Chelsea,-0.175802,1,2,Dry,Single carriageway,Urban,Fine no high winds,Taxi/Private hire car
+200701BS70612,Serious,9/11/2019,51.494319,Darkness - lights lit,Kensington and Chelsea,-0.174252,1,2,Dry,One way street,Urban,Fine no high winds,Taxi/Private hire car
+200701BS70613,Slight,31/10/2019,51.484887,Daylight,Kensington and Chelsea,-0.174917,1,2,Dry,Single carriageway,Urban,Fine no high winds,Taxi/Private hire car
+200701BS70614,Slight,2/11/2019,51.48217,Darkness - lights lit,Kensington and Chelsea,-0.17949,1,1,Dry,Single carriageway,Urban,Fine no high winds,Taxi/Private hire car
+200701BS70615,Slight,1/11/2019,51.494613,Darkness - lights lit,Kensington and Chelsea,-0.193257,2,2,Dry,Single carriageway,Urban,Fine no high winds,Car
+200701BS70617,Slight,31/10/2019,51.497288,Darkness - lights lit,Kensington and Chelsea,-0.197617,1,2,Dry,Single carriageway,Urban,Fine no high winds,Car
+200701BS70618,Slight,18/10/2019,51.509374,Daylight,Kensington and Chelsea,-0.194114,1,2,Dry,Single carriageway,Urban,Fine no high winds,Van / Goods 3.5 tonnes mgw or under
+200701BS70619,Slight,19/11/2019,51.522078,Daylight,Westminster,-0.201539,1,2,Wet or damp,Single carriageway,Urban,Other,Motorcycle 125cc and under
+200701BS70620,Slight,12/11/2019,51.487637,Daylight,Kensington and Chelsea,-0.178264,1,2,Dry,Single carriageway,Urban,Fine no high winds,Car
+200701BS70621,Slight,27/10/2019,51.482582,Daylight,Kensington and Chelsea,-0.171264,1,2,Dry,Single carriageway,Urban,Fine no high winds,Taxi/Private hire car
+200701BS70622,Slight,12/11/2019,51.504764,Darkness - lights lit,Hammersmith and Fulham,-0.216054,1,2,Dry,Roundabout,Urban,Fine no high winds,Car
+200701BS70623,Slight,28/10/2019,51.523887,Darkness - lights lit,Kensington and Chelsea,-0.21401,1,2,Wet or damp,Roundabout,Urban,Raining no high winds,Motorcycle over 125cc and up to 500cc
+200701BS70624,Slight,9/11/2019,51.498153,Darkness - lights lit,Kensington and Chelsea,-0.183752,1,1,Dry,Single carriageway,Urban,Fine no high winds,Motorcycle over 500cc
+200701BS70625,Slight,12/11/2019,51.495202,Daylight,Kensington and Chelsea,-0.178971,1,1,Dry,Dual carriageway,Urban,Fine no high winds,Taxi/Private hire car
+200701BS70626,Slight,13/11/2019,51.484361,Daylight,Kensington and Chelsea,-0.175802,1,2,Dry,Single carriageway,Urban,Fine no high winds,Goods over 3.5t. and under 7.5t
+200701BS70627,Slight,16/11/2019,51.489214,Daylight,Kensington and Chelsea,-0.164084,1,1,Dry,Single carriageway,Urban,Fine no high winds,Bus or coach (17 or more pass seats)
+200701BS70629,Slight,8/11/2019,51.491951,Darkness - lights lit,Kensington and Chelsea,-0.201429,1,2,Wet or damp,Dual carriageway,Urban,Raining no high winds,Car
+200701BS70630,Slight,10/11/2019,51.493084,Darkness - lights lit,Kensington and Chelsea,-0.199079,5,3,Dry,Dual carriageway,Urban,Fine no high winds,Bus or coach (17 or more pass seats)
+200701BS70631,Slight,9/11/2019,51.495361,Daylight,Kensington and Chelsea,-0.177668,1,1,Dry,Single carriageway,Urban,Fine no high winds,Motorcycle 50cc and under
+200701BS70632,Slight,20/11/2019,51.516658,Daylight,Kensington and Chelsea,-0.205789,1,1,Wet or damp,Single carriageway,Urban,Raining no high winds,Motorcycle 125cc and under
+200701BS70633,Slight,15/11/2019,51.516749,Daylight,Kensington and Chelsea,-0.20002,1,3,Dry,Single carriageway,Urban,Fine no high winds,Van / Goods 3.5 tonnes mgw or under
+200701BS70634,Slight,19/11/2019,51.490546,Daylight,Kensington and Chelsea,-0.186071,1,2,Wet or damp,Single carriageway,Urban,Raining no high winds,Van / Goods 3.5 tonnes mgw or under
+200701BS70635,Slight,19/11/2019,51.523059,Daylight,Kensington and Chelsea,-0.206834,1,1,Wet or damp,Roundabout,Urban,Raining no high winds,Van / Goods 3.5 tonnes mgw or under
+200701BS70636,Slight,12/11/2019,51.481746,Daylight,Kensington and Chelsea,-0.17533,1,2,Dry,Single carriageway,Urban,Fine no high winds,Car
+200701BS70637,Slight,10/11/2019,51.51417,Daylight,Kensington and Chelsea,-0.20776,1,2,Dry,Single carriageway,Urban,Fine no high winds,Taxi/Private hire car
+200701BS70638,Slight,3/11/2019,51.482074,Daylight,Kensington and Chelsea,-0.173301,1,3,Dry,Single carriageway,Urban,Fine no high winds,Motorcycle over 125cc and up to 500cc
+200701BS70639,Slight,26/11/2019,51.492655,Daylight,Kensington and Chelsea,-0.200393,1,1,Dry,Dual carriageway,Urban,Fine no high winds,Van / Goods 3.5 tonnes mgw or under
+200701BS70640,Slight,22/11/2019,51.48166,Daylight,Kensington and Chelsea,-0.181383,1,2,Dry,Single carriageway,Urban,Fine no high winds,Taxi/Private hire car
+200701BS70641,Slight,24/11/2019,51.4975,Darkness - lights lit,Kensington and Chelsea,-0.159141,1,2,Dry,Single carriageway,Urban,Fine no high winds,Bus or coach (17 or more pass seats)
+200701BS70642,Slight,19/11/2019,51.494902,Darkness - lights lit,Kensington and Chelsea,-0.182872,1,1,Wet or damp,Single carriageway,Urban,Raining no high winds,Van / Goods 3.5 tonnes mgw or under
+200701BS70643,Slight,27/11/2019,51.504784,Daylight,Kensington and Chelsea,-0.193863,1,2,Wet or damp,Single carriageway,Urban,Raining no high winds,Goods 7.5 tonnes mgw and over
+200701BS70644,Slight,18/11/2019,51.489306,Darkness - lights lit,Kensington and Chelsea,-0.175749,1,3,Wet or damp,Single carriageway,Urban,Raining no high winds,Car
+200701BS70645,Slight,21/11/2019,51.523238,Darkness - lights lit,Kensington and Chelsea,-0.206827,1,2,Wet or damp,Roundabout,Urban,Raining no high winds,Bus or coach (17 or more pass seats)
+200701BS70647,Slight,27/11/2019,51.527783,Daylight,Westminster,-0.215876,1,2,Dry,Single carriageway,Urban,Fine no high winds,Taxi/Private hire car
+200701BS70648,Slight,23/11/2019,51.497015,Darkness - lights lit,Kensington and Chelsea,-0.168381,1,2,Dry,Single carriageway,Urban,Fine no high winds,Car
+200701BS70650,Slight,26/11/2019,51.483301,Daylight,Kensington and Chelsea,-0.176997,1,1,Dry,Single carriageway,Urban,Fine no high winds,Taxi/Private hire car
+200701BS70652,Slight,15/11/2019,51.517386,Daylight,Kensington and Chelsea,-0.206337,1,1,Dry,Single carriageway,Urban,Fine no high winds,Motorcycle 125cc and under
+200701BS70653,Slight,5/11/2019,51.484977,Daylight,Kensington and Chelsea,-0.174913,1,1,Dry,Single carriageway,Urban,Fine no high winds,Motorcycle over 500cc
+200701BS70654,Slight,29/11/2019,51.503958,Darkness - lights lit,Kensington and Chelsea,-0.21623,1,1,Dry,Single carriageway,Urban,Fine no high winds,Taxi/Private hire car
+200701BS70655,Slight,20/10/2019,51.483603,Daylight,Kensington and Chelsea,-0.184906,1,2,Wet or damp,Single carriageway,Urban,Raining no high winds,Car
+200701BS70657,Slight,12/6/2019,51.505512,Daylight,Kensington and Chelsea,-0.21199,1,2,Dry,Single carriageway,Urban,Fine no high winds,Bus or coach (17 or more pass seats)
+200701BS70658,Slight,28/11/2019,51.484875,Daylight,Kensington and Chelsea,-0.18572,1,2,Dry,Single carriageway,Urban,Fine no high winds,Motorcycle 125cc and under
+200701BS70659,Serious,22/11/2019,51.515928,Daylight,Kensington and Chelsea,-0.205097,1,1,Dry,Single carriageway,Urban,Fine no high winds,Motorcycle 125cc and under
+200701BS70660,Slight,5/11/2019,51.516875,Darkness - lights lit,Kensington and Chelsea,-0.21414,1,1,Dry,Single carriageway,Urban,Fine no high winds,Bus or coach (17 or more pass seats)
+200701BS70662,Slight,28/11/2019,51.507123,Daylight,Kensington and Chelsea,-0.205587,2,2,Dry,Single carriageway,Urban,Fine no high winds,Taxi/Private hire car
+200701BS70663,Slight,1/12/2019,51.498826,Darkness - lights lit,Kensington and Chelsea,-0.19237,1,2,Dry,Single carriageway,Urban,Fine no high winds,Bus or coach (17 or more pass seats)
+200701BS70664,Slight,18/11/2019,51.487452,Darkness - lights lit,Kensington and Chelsea,-0.195412,1,1,Wet or damp,Single carriageway,Urban,Raining no high winds,Taxi/Private hire car
+200701BS70666,Slight,4/12/2019,51.491661,Daylight,Kensington and Chelsea,-0.15952,1,2,Dry,Single carriageway,Urban,Fine no high winds,Car
+200701BS70667,Slight,6/12/2019,51.495745,Darkness - lights lit,Kensington and Chelsea,-0.196669,1,1,Wet or damp,Single carriageway,Urban,Raining no high winds,Taxi/Private hire car
+200701BS70669,Slight,20/11/2019,51.493995,Darkness - lights lit,Kensington and Chelsea,-0.182332,1,1,Wet or damp,Single carriageway,Urban,Raining no high winds,Motorcycle over 500cc
+200701BS70670,Slight,3/12/2019,51.491964,Daylight,Kensington and Chelsea,-0.161669,1,2,Dry,Single carriageway,Urban,Fine no high winds,Van / Goods 3.5 tonnes mgw or under
+200701BS70671,Slight,30/11/2019,51.495858,Darkness - lights lit,Kensington and Chelsea,-0.192343,1,2,Wet or damp,Single carriageway,Urban,Raining no high winds,Car
+200701BS70672,Serious,3/11/2019,51.490753,Darkness - lights lit,Kensington and Chelsea,-0.182029,1,2,Dry,Single carriageway,Urban,Fine no high winds,Motorcycle 50cc and under
+200701BS70673,Slight,30/11/2019,51.523668,Darkness - lights lit,Kensington and Chelsea,-0.217334,3,3,Wet or damp,Single carriageway,Urban,Raining no high winds,Goods 7.5 tonnes mgw and over
+200701BS70674,Slight,5/12/2019,51.497015,Darkness - lights lit,Kensington and Chelsea,-0.168381,1,2,Dry,Single carriageway,Urban,Fine no high winds,Car
+200701BS70675,Slight,4/12/2019,51.490863,Daylight,Kensington and Chelsea,-0.177559,1,2,Dry,Single carriageway,Urban,Fine no high winds,Taxi/Private hire car
+200701BS70676,Slight,6/12/2019,51.497671,Darkness - lights lit,Kensington and Chelsea,-0.20495,1,3,Wet or damp,Single carriageway,Urban,Raining no high winds,Motorcycle over 500cc
+200701BS70678,Slight,21/11/2019,51.493269,Daylight,Kensington and Chelsea,-0.181929,1,2,Dry,Single carriageway,Urban,Fine no high winds,Taxi/Private hire car
+200701BS70679,Slight,13/12/2019,51.492337,Darkness - lights lit,Kensington and Chelsea,-0.156756,1,1,Dry,Single carriageway,Urban,Fine no high winds,Motorcycle 125cc and under
+200701BS70680,Slight,21/11/2019,51.495204,Daylight,Kensington and Chelsea,-0.179115,1,2,Dry,Single carriageway,Urban,Fine no high winds,Motorcycle 125cc and under
+200701BS70681,Slight,7/12/2019,51.514399,Darkness - lights lit,Kensington and Chelsea,-0.199248,1,2,Wet or damp,Single carriageway,Urban,Raining no high winds,Van / Goods 3.5 tonnes mgw or under
+200701BS70683,Slight,7/12/2019,51.501749,Darkness - lights lit,Westminster,-0.160555,1,2,Dry,Dual carriageway,Urban,Fine no high winds,Bus or coach (17 or more pass seats)
+200701BS70684,Slight,28/11/2019,51.502208,Daylight,Kensington and Chelsea,-0.213561,1,2,Dry,Single carriageway,Urban,Fine no high winds,Motorcycle 125cc and under
+200701BS70685,Slight,30/11/2019,51.490534,Daylight,Kensington and Chelsea,-0.191113,1,1,Dry,Single carriageway,Urban,Fine no high winds,Van / Goods 3.5 tonnes mgw or under
+200701BS70686,Slight,29/11/2019,51.52278,Darkness - lights lit,Kensington and Chelsea,-0.206269,1,2,Wet or damp,Single carriageway,Urban,Raining no high winds,Motorcycle over 500cc
+200701BS70687,Slight,1/12/2019,51.500282,Daylight,Kensington and Chelsea,-0.211043,1,2,Dry,Dual carriageway,Urban,Fine no high winds,Car
+200701BS70688,Slight,1/12/2019,51.523754,Daylight,Kensington and Chelsea,-0.217042,1,2,Dry,Single carriageway,Urban,Fine no high winds,Taxi/Private hire car
+200701BS70689,Slight,2/12/2019,51.483603,Daylight,Kensington and Chelsea,-0.184906,1,2,Dry,Single carriageway,Urban,Fine no high winds,Motorcycle 125cc and under
+200701BS70690,Serious,14/12/2019,51.485093,Daylight,Kensington and Chelsea,-0.182398,1,1,Dry,Single carriageway,Urban,Fine no high winds,Motorcycle 125cc and under
+200701BS70691,Slight,3/12/2019,51.487635,Darkness - lights lit,Kensington and Chelsea,-0.17812,1,1,Dry,Single carriageway,Urban,Fine no high winds,Taxi/Private hire car
+200701BS70692,Slight,22/11/2019,51.485418,Darkness - lights lit,Kensington and Chelsea,-0.151418,1,1,Wet or damp,Single carriageway,Urban,Raining no high winds,Goods over 3.5t. and under 7.5t
+200701BS70694,Slight,30/11/2019,51.50526,Darkness - lights lit,Kensington and Chelsea,-0.213153,1,1,Wet or damp,Dual carriageway,Urban,Raining no high winds,Motorcycle over 500cc
+200701BS70695,Slight,5/10/2019,51.515641,Daylight,Hammersmith and Fulham,-0.221683,1,2,Dry,Roundabout,Urban,Fine no high winds,Taxi/Private hire car
+200701BS70696,Slight,14/12/2019,51.482608,Darkness - lights lit,Kensington and Chelsea,-0.178752,1,2,Dry,Single carriageway,Urban,Fine no high winds,Motorcycle 125cc and under
+200701BS70697,Slight,12/12/2019,51.505512,Daylight,Kensington and Chelsea,-0.21199,1,1,Dry,Single carriageway,Urban,Fine no high winds,Bus or coach (17 or more pass seats)
+200701BS70698,Slight,6/12/2019,51.495501,Daylight,Kensington and Chelsea,-0.175069,1,1,Wet or damp,Single carriageway,Urban,Raining no high winds,Taxi/Private hire car
+200701BS70699,Slight,8/12/2019,51.492396,Darkness - lights lit,Kensington and Chelsea,-0.166262,1,2,Wet or damp,Single carriageway,Urban,Other,Motorcycle over 500cc
+200701BS70700,Slight,10/12/2019,51.508972,Daylight,Kensington and Chelsea,-0.197156,1,1,Wet or damp,Single carriageway,Urban,Fine + high winds,Car
+200701BS70701,Slight,10/12/2019,51.489096,Daylight,Kensington and Chelsea,-0.19117,1,2,Wet or damp,Single carriageway,Urban,Fine no high winds,Motorcycle 125cc and under
+200701BS70702,Slight,10/12/2019,51.491499,Darkness - lights lit,Kensington and Chelsea,-0.172204,1,2,Dry,Single carriageway,Urban,Fine + high winds,Taxi/Private hire car
+200701BS70703,Slight,11/12/2019,51.49327,Daylight,Kensington and Chelsea,-0.176167,1,2,Dry,Single carriageway,Urban,Fine no high winds,Car
+200701BS70704,Slight,10/12/2019,51.507804,Daylight,Kensington and Chelsea,-0.20311,1,3,Wet or damp,Single carriageway,Urban,Raining no high winds,Taxi/Private hire car
+200701BS70705,Slight,11/12/2019,51.496824,Daylight,Kensington and Chelsea,-0.167669,1,1,Dry,Single carriageway,Urban,Fine no high winds,Taxi/Private hire car
+200701BS70706,Slight,15/12/2019,51.483838,Darkness - lights lit,Kensington and Chelsea,-0.176831,1,2,Dry,Single carriageway,Urban,Fine no high winds,Van / Goods 3.5 tonnes mgw or under
+200701BS70707,Slight,12/11/2019,51.509605,Daylight,Kensington and Chelsea,-0.197419,1,2,Dry,Roundabout,Urban,Fine no high winds,Taxi/Private hire car
+200701BS70708,Slight,29/11/2019,51.518002,Daylight,Kensington and Chelsea,-0.211357,2,1,Dry,Single carriageway,Urban,Fine no high winds,Car
+200701BS70709,Slight,6/12/2019,51.495658,Daylight,Kensington and Chelsea,-0.173622,3,1,Wet or damp,Single carriageway,Urban,Raining no high winds,Car
+200701BS70710,Slight,23/11/2019,51.519928,Darkness - lights lit,Kensington and Chelsea,-0.225696,1,1,Dry,Single carriageway,Urban,Fine no high winds,Car
+200701BS70711,Slight,17/12/2019,51.49164,Daylight,Kensington and Chelsea,-0.198704,1,3,Dry,Single carriageway,Urban,Fine no high winds,Bus or coach (17 or more pass seats)
+200701BS70712,Slight,18/12/2019,51.485967,Daylight,Kensington and Chelsea,-0.180779,1,1,Dry,Single carriageway,Urban,Fine no high winds,Car
+200701BS70713,Slight,14/12/2019,51.506866,Darkness - lights lit,Kensington and Chelsea,-0.206462,1,2,Dry,Single carriageway,Urban,Fine no high winds,Motorcycle 125cc and under
+200701BS70715,Slight,20/12/2019,51.515955,Darkness - lights lit,Kensington and Chelsea,-0.212735,1,2,Wet or damp,Single carriageway,Urban,Other,Bus or coach (17 or more pass seats)
+200701BS70716,Slight,24/12/2019,51.509795,Daylight,Kensington and Chelsea,-0.192224,1,2,Dry,Single carriageway,Urban,Fine no high winds,Taxi/Private hire car
+200701BS70718,Serious,3/12/2019,51.508882,Daylight,Kensington and Chelsea,-0.197159,1,1,Dry,Single carriageway,Urban,Fine no high winds,Car
+200701BS70720,Slight,20/11/2019,51.496257,Darkness - lights lit,Kensington and Chelsea,-0.20659,1,2,Wet or damp,Single carriageway,Urban,Raining no high winds,Goods over 3.5t. and under 7.5t
+200701BS70721,Slight,11/12/2019,51.493568,Daylight,Kensington and Chelsea,-0.16074,1,2,Dry,Single carriageway,Urban,Fine no high winds,Motorcycle over 500cc
+200701BS70722,Slight,18/12/2019,51.494685,Daylight,Kensington and Chelsea,-0.168907,1,2,Dry,Single carriageway,Urban,Fine no high winds,Taxi/Private hire car
+200701BS70724,Slight,13/12/2019,51.481062,Darkness - lights lit,Kensington and Chelsea,-0.183423,1,2,Dry,Single carriageway,Urban,Fine no high winds,Motorcycle 125cc and under
+200701BS70725,Serious,30/11/2019,51.484887,Darkness - lights lit,Kensington and Chelsea,-0.174917,1,2,Wet or damp,Single carriageway,Urban,Fine no high winds,Motorcycle 125cc and under
+200701BS70726,Slight,27/12/2019,51.517706,Daylight,Kensington and Chelsea,-0.209639,1,2,Wet or damp,Dual carriageway,Urban,Fine no high winds,Car
+200701BS70727,Slight,22/12/2019,51.51508,Daylight,Kensington and Chelsea,-0.208445,1,2,Dry,Single carriageway,Urban,Fine no high winds,Taxi/Private hire car
+200701BS70728,Slight,21/12/2019,51.49344,Daylight,Kensington and Chelsea,-0.175584,1,1,Dry,Single carriageway,Urban,Fine no high winds,Car
+200701BS70729,Slight,10/12/2019,51.483422,Daylight,Kensington and Chelsea,-0.167486,1,2,Dry,Single carriageway,Urban,Fine no high winds,Motorcycle over 500cc
+200701BS70730,Slight,28/11/2019,51.497434,Daylight,Kensington and Chelsea,-0.18378,1,1,Dry,Single carriageway,Urban,Fine no high winds,Car
+200701BS70733,Slight,22/12/2019,51.501578,Daylight,Westminster,-0.161138,1,2,Wet or damp,Dual carriageway,Urban,Other,Motorcycle over 500cc
+200701BS70734,Slight,23/12/2019,51.498958,Daylight,Kensington and Chelsea,-0.160379,1,1,Dry,Single carriageway,Urban,Fine no high winds,Van / Goods 3.5 tonnes mgw or under
+200701BS70735,Slight,15/12/2019,51.489352,Darkness - lights lit,Kensington and Chelsea,-0.190296,1,2,Dry,Single carriageway,Urban,Fine no high winds,Motorcycle 125cc and under
+200701BS70737,Slight,27/12/2019,51.499129,Daylight,Kensington and Chelsea,-0.159796,1,1,Wet or damp,Single carriageway,Urban,Fine no high winds,Car
+200701BS70738,Serious,21/12/2019,51.488351,Daylight,Kensington and Chelsea,-0.166424,1,1,Dry,Single carriageway,Urban,Fine no high winds,Car
+200701BS70744,Slight,29/12/2019,51.51944,Daylight,Kensington and Chelsea,-0.211301,1,1,Dry,Single carriageway,Urban,Fine no high winds,Motorcycle over 500cc
+200701BS70745,Slight,29/06/2019,51.510076,Daylight,Kensington and Chelsea,-0.216423,1,2,Dry,Single carriageway,Urban,Fine no high winds,Bus or coach (17 or more pass seats)
+200701BS70747,Slight,31/12/2019,51.480718,Daylight,Kensington and Chelsea,-0.184445,1,1,Dry,Single carriageway,Urban,Fine no high winds,Taxi/Private hire car
+200701BS79019,Slight,15/11/2019,51.485669,Darkness - lights lit,Kensington and Chelsea,-0.173157,1,2,Dry,One way street,Urban,Fine no high winds,Car
+200701BS79023,Slight,24/12/2019,51.520192,Daylight,Kensington and Chelsea,-0.213434,1,2,Dry,Single carriageway,Urban,Fine no high winds,Motorcycle 125cc and under
+200701BS79133,Slight,11/10/2019,51.495199,Daylight,Kensington and Chelsea,-0.196259,1,2,Dry,Single carriageway,Urban,Fine no high winds,Van / Goods 3.5 tonnes mgw or under
+200701CP00001,Serious,5/1/2019,51.509814,Darkness - lights lit,Tower Hamlets,-0.074771,1,3,Wet or damp,Dual carriageway,Urban,Fine no high winds,Motorcycle 125cc and under
+200701CP00003,Slight,8/1/2019,51.510898,Daylight,City of London,-0.102684,1,2,Dry,Dual carriageway,Urban,Fine no high winds,Van / Goods 3.5 tonnes mgw or under
+200701CP00006,Slight,16/01/2019,51.515721,Daylight,City of London,-0.10061,1,2,Wet or damp,Single carriageway,Urban,Raining no high winds,Taxi/Private hire car
+200701CP00007,Slight,18/01/2019,51.509123,Darkness - lights lit,City of London,-0.087482,1,2,Wet or damp,Dual carriageway,Urban,Raining + high winds,Van / Goods 3.5 tonnes mgw or under
+200701CP00008,Serious,17/01/2019,51.518599,Daylight,City of London,-0.100634,1,1,Wet or damp,Single carriageway,Urban,Raining no high winds,Motorcycle 125cc and under
+200701CP00010,Slight,23/01/2019,51.508932,Darkness - lights lit,City of London,-0.081293,2,2,Dry,Dual carriageway,Urban,Fine no high winds,Bus or coach (17 or more pass seats)
+200701CP00011,Slight,22/01/2019,51.513119,Daylight,City of London,-0.089909,1,2,Wet or damp,Single carriageway,Urban,Raining + high winds,Van / Goods 3.5 tonnes mgw or under
+200701CP00013,Slight,19/01/2019,51.517443,Darkness - lights lit,City of London,-0.084827,1,1,Dry,Single carriageway,Urban,Fine no high winds,Van / Goods 3.5 tonnes mgw or under
+200701CP00014,Slight,21/01/2019,51.514074,Daylight,City of London,-0.104426,2,2,Dry,Single carriageway,Urban,Fine no high winds,Motorcycle over 500cc
+200701CP00015,Slight,20/01/2019,51.51613,Daylight,City of London,-0.081567,2,1,Dry,Dual carriageway,Urban,Fine no high winds,Motorcycle over 500cc
+200701CP00016,Slight,19/01/2019,51.51693,Darkness - lights lit,City of London,-0.080957,1,2,Dry,Single carriageway,Urban,Fine no high winds,Motorcycle 125cc and under
+200701CP00017,Slight,17/01/2019,51.510601,Daylight,City of London,-0.084394,1,2,Wet or damp,Single carriageway,Urban,Raining no high winds,Bus or coach (17 or more pass seats)
+200701CP00018,Slight,15/01/2019,51.513299,Daylight,City of London,-0.089901,1,2,Dry,Single carriageway,Urban,Fine no high winds,Car
+200701CP00019,Slight,18/01/2019,51.513804,Daylight,City of London,-0.104437,1,1,Wet or damp,Dual carriageway,Urban,Fine + high winds,Bus or coach (17 or more pass seats)
+200701CP00020,Slight,10/1/2019,51.514254,Darkness - lights lit,City of London,-0.104418,1,3,Dry,Single carriageway,Urban,Fine no high winds,Bus or coach (17 or more pass seats)
+200701CP00021,Slight,23/01/2019,51.514095,Darkness - lights lit,City of London,-0.094624,1,1,Dry,Single carriageway,Urban,Fine no high winds,Motorcycle 125cc and under
+200701CP00022,Slight,23/01/2019,51.520812,Daylight,City of London,-0.092902,1,2,Dry,Single carriageway,Urban,Fine no high winds,Bus or coach (17 or more pass seats)
+200701CP00023,Slight,24/01/2019,51.515181,Daylight,City of London,-0.089534,1,1,Wet or damp,Single carriageway,Urban,Fine no high winds,Van / Goods 3.5 tonnes mgw or under
+200701CP00024,Slight,25/01/2019,51.513736,Daylight,City of London,-0.111358,1,2,Dry,Single carriageway,Urban,Fine no high winds,Bus or coach (17 or more pass seats)
+200701CP00025,Slight,25/01/2019,51.516345,Darkness - lights lit,City of London,-0.08372,1,2,Dry,Dual carriageway,Urban,Fine no high winds,Goods 7.5 tonnes mgw and over
+200701CP00026,Slight,26/01/2019,51.511786,Daylight,City of London,-0.085353,1,2,Dry,Single carriageway,Urban,Fine no high winds,Motorcycle 125cc and under
+200701CP00027,Slight,26/01/2019,51.511557,Darkness - lights lit,City of London,-0.082336,1,1,Dry,Single carriageway,Urban,Fine no high winds,Taxi/Private hire car
+200701CP00028,Slight,27/01/2019,51.513955,Darkness - lights lit,City of London,-0.075029,1,3,Dry,Single carriageway,Urban,Fine no high winds,Car
+200701CP00029,Slight,31/01/2019,51.517593,Darkness - lights lit,City of London,-0.105144,1,2,Dry,Single carriageway,Urban,Fine no high winds,Taxi/Private hire car
+200701CP00030,Slight,30/01/2019,51.514121,Darkness - lights lit,City of London,-0.107306,1,1,Dry,Single carriageway,Urban,Fine no high winds,Taxi/Private hire car
+200701CP00031,Slight,29/01/2019,51.517275,Daylight,City of London,-0.096653,2,3,Dry,Roundabout,Urban,Fine no high winds,Taxi/Private hire car
+200701CP00032,Fatal,30/01/2019,51.510978,Daylight,City of London,-0.107581,1,2,Wet or damp,Dual carriageway,Urban,Fine no high winds,Car
+200701CP00033,Slight,1/1/2019,51.513211,Darkness - lights lit,City of London,-0.090049,1,3,Wet or damp,Single carriageway,Urban,Fine no high winds,Car
+200701CP00034,Slight,24/01/2019,51.51248,Darkness - lights lit,City of London,-0.094836,1,2,Dry,Single carriageway,Urban,Fine no high winds,Bus or coach (17 or more pass seats)
+200701CP00035,Serious,25/01/2019,51.513219,Daylight,City of London,-0.079528,1,1,Dry,Single carriageway,Urban,Fine no high winds,Van / Goods 3.5 tonnes mgw or under
+200701CP00036,Slight,1/2/2019,51.510818,Darkness - lights lit,City of London,-0.08669,1,1,Wet or damp,Dual carriageway,Urban,Fine no high winds,Motorcycle over 125cc and up to 500cc
+200701CP00037,Slight,3/2/2019,51.51065,Daylight,City of London,-0.092894,1,2,Dry,Dual carriageway,Urban,Fine no high winds,Car
+200701CP00038,Slight,7/2/2019,51.511583,Daylight,City of London,-0.08392,1,1,Dry,Single carriageway,Urban,Fine no high winds,Motorcycle over 500cc
+200701CP00039,Slight,12/2/2019,51.510821,Daylight,City of London,-0.086834,1,2,Wet or damp,Single carriageway,Urban,Raining no high winds,Bus or coach (17 or more pass seats)
+200701CP00040,Slight,12/2/2019,51.518616,Daylight,City of London,-0.079589,1,1,Wet or damp,Single carriageway,Urban,Raining no high winds,Van / Goods 3.5 tonnes mgw or under
+200701CP00041,Slight,10/2/2019,51.514856,Darkness - lights lit,City of London,-0.075135,1,2,Wet or damp,One way street,Urban,Raining no high winds,Car
+200701CP00042,Slight,15/02/2019,51.509858,Daylight,City of London,-0.08846,1,2,Dry,Single carriageway,Urban,Fine no high winds,Van / Goods 3.5 tonnes mgw or under
+200701CP00043,Slight,15/02/2019,51.512494,Darkness - lights lit,City of London,-0.0957,1,2,Dry,One way street,Urban,Fine no high winds,Motorcycle 125cc and under
+200701CP00044,Slight,14/02/2019,51.51219,Daylight,City of London,-0.088074,1,2,Wet or damp,Single carriageway,Urban,Fine no high winds,Other vehicle
+200701CP00045,Slight,16/02/2019,51.508929,Daylight,City of London,-0.081149,1,2,Dry,Dual carriageway,Urban,Fine no high winds,Taxi/Private hire car
+200701CP00046,Slight,16/02/2019,51.509078,Darkness - lights lit,Tower Hamlets,-0.073793,1,2,Dry,Dual carriageway,Urban,Fine no high winds,Car
+200701CP00047,Slight,21/02/2019,51.513493,Daylight,City of London,-0.090758,1,2,Dry,Single carriageway,Urban,Fine no high winds,Motorcycle 125cc and under
+200701CP00048,Serious,24/02/2019,51.518441,Daylight,City of London,-0.085362,1,1,Wet or damp,One way street,Urban,Fine no high winds,Car
+200701CP00049,Slight,26/02/2019,51.511511,Daylight,City of London,-0.090553,1,2,Dry,Single carriageway,Urban,Fine no high winds,Car
+200701CP00050,Slight,20/02/2019,51.506351,Darkness - lights lit,Southwark,-0.088463,2,1,Wet or damp,Dual carriageway,Urban,Fine no high winds,Car
+200701CP00051,Slight,20/02/2019,51.50953,Daylight,City of London,-0.079395,1,2,Wet or damp,Single carriageway,Urban,Raining no high winds,Car
+200701CP00052,Slight,26/02/2019,51.511794,Daylight,City of London,-0.096882,1,1,Dry,Single carriageway,Urban,Fine no high winds,Van / Goods 3.5 tonnes mgw or under
+200701CP00053,Slight,26/01/2019,51.517595,Daylight,City of London,-0.105288,1,2,Dry,Single carriageway,Urban,Fine no high winds,Taxi/Private hire car
+200701CP00054,Slight,27/02/2019,51.513978,Daylight,City of London,-0.109618,1,2,Wet or damp,Single carriageway,Urban,Raining no high winds,Van / Goods 3.5 tonnes mgw or under
+200701CP00055,Slight,28/02/2019,51.515367,Daylight,City of London,-0.078861,1,2,Wet or damp,One way street,Urban,Fine no high winds,Car
+200701CP00056,Serious,23/02/2019,51.510102,Daylight,City of London,-0.086865,1,2,Dry,Single carriageway,Urban,Fine no high winds,Motorcycle over 500cc
+200701CP00057,Slight,1/3/2019,51.512554,Daylight,City of London,-0.088347,1,1,Dry,Single carriageway,Urban,Fine no high winds,Motorcycle over 500cc
+200701CP00058,Serious,2/3/2019,51.517994,Darkness - lights lit,City of London,-0.080048,2,1,Dry,Single carriageway,Urban,Fine no high winds,Car
+200701CP00059,Slight,7/3/2019,51.513368,Daylight,City of London,-0.083125,1,2,Dry,Single carriageway,Urban,Fine no high winds,Bus or coach (17 or more pass seats)
+200701CP00060,Slight,9/3/2019,51.512067,Daylight,City of London,-0.102635,1,2,Dry,Dual carriageway,Urban,Fine no high winds,Bus or coach (17 or more pass seats)
+200701CP00061,Slight,12/3/2019,51.509151,Daylight,City of London,-0.083734,1,1,Dry,Dual carriageway,Urban,Fine no high winds,Bus or coach (17 or more pass seats)
+200701CP00062,Slight,13/03/2019,51.513294,Darkness - lights lit,City of London,-0.089613,1,2,Dry,Single carriageway,Urban,Fine no high winds,Car
+200701CP00063,Slight,7/3/2019,51.515624,Darkness - lights lit,City of London,-0.100182,1,1,Dry,Single carriageway,Urban,Fine no high winds,Bus or coach (17 or more pass seats)
+200701CP00065,Slight,14/03/2019,51.508958,Darkness - lights lit,City of London,-0.082877,1,2,Dry,Dual carriageway,Urban,Fine no high winds,Motorcycle over 500cc
+200701CP00066,Slight,14/03/2019,51.513292,Darkness - lights lit,City of London,-0.083992,1,1,Dry,Single carriageway,Urban,Fine no high winds,Bus or coach (17 or more pass seats)
+200701CP00067,Slight,15/03/2019,51.511552,Daylight,City of London,-0.082048,1,1,Dry,Single carriageway,Urban,Fine no high winds,Bus or coach (17 or more pass seats)
+200701CP00068,Slight,15/03/2019,51.51902,Darkness - lights lit,City of London,-0.087788,1,1,Dry,Single carriageway,Urban,Fine no high winds,Car
+200701CP00069,Slight,16/03/2019,51.512203,Daylight,City of London,-0.094415,1,1,Dry,Single carriageway,Urban,Fine no high winds,Car
+200701CP00070,Slight,16/03/2019,51.51902,Daylight,City of London,-0.087788,1,1,Dry,Single carriageway,Urban,Fine no high winds,Car
+200701CP00071,Slight,17/03/2019,51.508673,Darkness - lights lit,City of London,-0.087501,1,2,Dry,Dual carriageway,Urban,Fine no high winds,Van / Goods 3.5 tonnes mgw or under
+200701CP00072,Slight,19/03/2019,51.514164,Daylight,City of London,-0.104422,1,1,Wet or damp,Dual carriageway,Urban,Fine + high winds,Goods 7.5 tonnes mgw and over
+200701CP00073,Slight,19/03/2019,51.509858,Daylight,City of London,-0.08846,1,3,Dry,Dual carriageway,Urban,Fine no high winds,Taxi/Private hire car
+200701CP00074,Slight,21/03/2019,51.511894,Daylight,City of London,-0.091978,1,2,Dry,Single carriageway,Urban,Fine no high winds,Car
+200701CP00076,Slight,21/03/2019,51.513872,Darkness - lights lit,City of London,-0.075465,1,2,Dry,Single carriageway,Urban,Fine no high winds,Motorcycle over 500cc
+200701CP00077,Serious,22/03/2019,51.509123,Daylight,City of London,-0.087482,1,2,Wet or damp,Single carriageway,Urban,Raining no high winds,Bus or coach (17 or more pass seats)
+200701CP00078,Slight,30/03/2019,51.515909,Daylight,City of London,-0.095557,2,1,Dry,Single carriageway,Urban,Fine no high winds,Motorcycle over 500cc
+200701CP00079,Slight,27/03/2019,51.513372,Daylight,City of London,-0.088889,1,2,Dry,Single carriageway,Urban,Fine no high winds,Car
+200701CP00080,Slight,27/03/2019,51.513377,Daylight,City of London,-0.089177,1,1,Dry,Single carriageway,Urban,Fine no high winds,Motorcycle 50cc and under
+200701CP00081,Slight,28/03/2019,51.510729,Daylight,City of London,-0.086694,1,2,Dry,Dual carriageway,Urban,Fine no high winds,Car
+200701CP00082,Slight,1/4/2019,51.509514,Daylight,Tower Hamlets,-0.078387,1,2,Dry,Dual carriageway,Urban,Fine no high winds,Taxi/Private hire car
+200701CP00083,Slight,4/4/2019,51.516253,Daylight,City of London,-0.089057,1,1,Dry,Single carriageway,Urban,Fine no high winds,Motorcycle 50cc and under
+200701CP00084,Slight,5/4/2019,51.513311,Daylight,City of London,-0.085145,2,1,Dry,Single carriageway,Urban,Fine no high winds,Car
+200701CP00085,Slight,5/4/2019,51.511167,Daylight,City of London,-0.075002,1,1,Dry,One way street,Urban,Fine no high winds,Goods 7.5 tonnes mgw and over
+200701CP00086,Slight,10/4/2019,51.511166,Daylight,City of London,-0.102529,1,1,Dry,Single carriageway,Urban,Fine no high winds,Taxi/Private hire car
+200701CP00087,Slight,10/4/2019,51.51055,Daylight,City of London,-0.092322,1,2,Dry,Single carriageway,Urban,Fine no high winds,Bus or coach (17 or more pass seats)
+200701CP00088,Slight,10/4/2019,51.513207,Daylight,City of London,-0.084284,1,1,Dry,Single carriageway,Urban,Fine no high winds,Motorcycle 125cc and under
+200701CP00089,Slight,23/04/2019,51.518494,Daylight,Camden,-0.105251,1,3,Dry,Single carriageway,Urban,Fine no high winds,Motorcycle 125cc and under
+200701CP00090,Slight,11/4/2019,51.51409,Daylight,City of London,-0.105434,1,1,Dry,Single carriageway,Urban,Fine no high winds,Car
+200701CP00091,Slight,12/4/2019,51.521877,Daylight,Hackney,-0.081037,1,2,Dry,Single carriageway,Urban,Fine no high winds,Motorcycle 125cc and under
+200701CP00092,Slight,12/4/2019,51.512316,Daylight,City of London,-0.079277,1,1,Dry,Single carriageway,Urban,Fine no high winds,Car
+200701CP00093,Slight,17/04/2019,51.517953,Daylight,City of London,-0.110751,1,2,Dry,Dual carriageway,Urban,Fine no high winds,Van / Goods 3.5 tonnes mgw or under
+200701CP00094,Slight,13/04/2019,51.517596,Daylight,City of London,-0.083235,1,1,Dry,Single carriageway,Urban,Fine no high winds,Taxi/Private hire car
+200701CP00095,Slight,13/04/2019,51.520607,Daylight,City of London,-0.08037,1,1,Dry,Single carriageway,Urban,Fine no high winds,Motorcycle 125cc and under
+200701CP00096,Slight,13/04/2019,51.514662,Darkness - lights lit,City of London,-0.074278,1,1,Dry,Single carriageway,Urban,Fine no high winds,Goods 7.5 tonnes mgw and over
+200701CP00097,Slight,14/04/2019,51.51449,Daylight,City of London,-0.09677,1,2,Dry,Single carriageway,Urban,Fine no high winds,Motorcycle 125cc and under
+200701CP00098,Slight,13/04/2019,51.521513,Daylight,City of London,-0.097342,1,2,Dry,Single carriageway,Urban,Fine no high winds,Car
+200701CP00099,Serious,15/04/2019,51.520404,Daylight,City of London,-0.078937,1,1,Dry,Dual carriageway,Urban,Fine no high winds,Motorcycle over 125cc and up to 500cc
+200701CP00100,Serious,2/5/2019,51.51064,Daylight,City of London,-0.092318,1,2,Dry,Dual carriageway,Urban,Fine no high winds,Car
+200701CP00101,Slight,3/5/2019,51.511783,Darkness - lights lit,City of London,-0.085209,1,2,Dry,Single carriageway,Urban,Fine no high winds,Motorcycle over 500cc
+200701CP00102,Slight,17/04/2019,51.511818,Daylight,City of London,-0.103943,1,2,Dry,Dual carriageway,Urban,Fine no high winds,Taxi/Private hire car
+200701CP00103,Slight,17/04/2019,51.510712,Daylight,City of London,-0.085686,2,1,Dry,Single carriageway,Urban,Fine no high winds,Motorcycle 125cc and under
+200701CP00104,Serious,19/04/2019,51.517632,Daylight,City of London,-0.107593,1,1,Dry,Single carriageway,Urban,Fine no high winds,Car
+200701CP00105,Slight,17/04/2019,51.519985,Darkness - lights lit,City of London,-0.097405,1,2,Wet or damp,Dual carriageway,Urban,Fine no high winds,Bus or coach (17 or more pass seats)
+200701CP00106,Slight,20/04/2019,51.510618,Daylight,City of London,-0.085402,1,1,Dry,Single carriageway,Urban,Fine no high winds,Motorcycle 125cc and under
+200701CP00107,Slight,21/04/2019,51.512867,Daylight,City of London,-0.096549,1,2,Dry,Single carriageway,Urban,Fine no high winds,Goods 7.5 tonnes mgw and over
+200701CP00108,Slight,22/04/2019,51.508763,Daylight,City of London,-0.087497,2,2,Dry,Single carriageway,Urban,Fine no high winds,Car
+200701CP00109,Slight,23/04/2019,51.520226,Daylight,City of London,-0.079089,1,1,Dry,Single carriageway,Urban,Fine no high winds,Car
+200701CP00110,Slight,27/04/2019,51.51693,Daylight,City of London,-0.080957,1,1,Dry,Single carriageway,Urban,Fine no high winds,Bus or coach (17 or more pass seats)
+200701CP00111,Slight,25/04/2019,51.516228,Daylight,City of London,-0.093094,1,1,Dry,Single carriageway,Urban,Fine no high winds,Car
+200701CP00112,Slight,27/04/2019,51.51147,Daylight,City of London,-0.104678,1,3,Dry,Slip road,Urban,Fine no high winds,Taxi/Private hire car
+200701CP00113,Slight,28/04/2019,51.510176,Daylight,Tower Hamlets,-0.0749,1,2,Dry,Single carriageway,Urban,Fine no high winds,Motorcycle over 125cc and up to 500cc
+200701CP00114,Slight,28/04/2019,51.513956,Daylight,City of London,-0.102701,2,1,Dry,Single carriageway,Urban,Fine no high winds,Bus or coach (17 or more pass seats)
+200701CP00115,Slight,29/04/2019,51.510176,Daylight,Tower Hamlets,-0.0749,1,2,Dry,Dual carriageway,Urban,Fine no high winds,Car
+200701CP00116,Slight,30/04/2019,51.513755,Daylight,City of London,-0.101412,1,1,Dry,Dual carriageway,Urban,Fine no high winds,Car
+200701CP00117,Slight,2/5/2019,51.516149,Daylight,City of London,-0.08272,1,2,Dry,Single carriageway,Urban,Fine no high winds,Car
+200701CP00118,Slight,2/5/2019,51.511016,Daylight,City of London,-0.104409,1,2,Dry,Dual carriageway,Urban,Fine no high winds,Van / Goods 3.5 tonnes mgw or under
+200701CP00119,Serious,3/5/2019,51.512454,Daylight,City of London,-0.104349,2,2,Dry,Single carriageway,Urban,Fine no high winds,Motorcycle over 500cc
+200701CP00120,Slight,3/5/2019,51.51754,Darkness - lighting unknown,City of London,-0.096354,1,2,Dry,Roundabout,Urban,Fine no high winds,Bus or coach (17 or more pass seats)
+200701CP00121,Serious,5/5/2019,51.511131,Daylight,City of London,-0.072842,1,2,Dry,One way street,Urban,Fine no high winds,Car
+200701CP00122,Slight,10/5/2019,51.51684,Daylight,City of London,-0.080961,2,1,Dry,Dual carriageway,Urban,Fine no high winds,Taxi/Private hire car
+200701CP00123,Slight,11/5/2019,51.513289,Daylight,City of London,-0.089325,1,2,Wet or damp,Single carriageway,Urban,Raining no high winds,Bus or coach (17 or more pass seats)
+200701CP00124,Serious,19/05/2019,51.510947,Darkness - lights lit,City of London,-0.105708,1,1,Dry,Dual carriageway,Urban,Fine no high winds,Car
+200701CP00125,Slight,14/05/2019,51.51728,Daylight,City of London,-0.096942,1,2,Wet or damp,Roundabout,Urban,Raining no high winds,Motorcycle 50cc and under
+200701CP00126,Slight,14/05/2019,51.517948,Daylight,City of London,-0.088265,2,1,Wet or damp,Dual carriageway,Urban,Fine no high winds,Motorcycle 125cc and under
+200701CP00127,Slight,14/05/2019,51.511164,Darkness - lights lit,City of London,-0.074858,1,1,Dry,One way street,Urban,Fine no high winds,Motorcycle over 500cc
+200701CP00128,Slight,15/05/2019,51.516014,Daylight,City of London,-0.102039,1,2,Dry,Single carriageway,Urban,Fine no high winds,Taxi/Private hire car
+200701CP00129,Slight,16/05/2019,51.514107,Daylight,City of London,-0.106442,1,2,Wet or damp,Single carriageway,Urban,Fine no high winds,Bus or coach (17 or more pass seats)
+200701CP00130,Slight,16/05/2019,51.514186,Daylight,City of London,-0.083667,1,2,Wet or damp,Single carriageway,Urban,Fine no high winds,Bus or coach (17 or more pass seats)
+200701CP00131,Slight,16/05/2019,51.513269,Daylight,City of London,-0.099127,1,1,Wet or damp,Single carriageway,Urban,Other,Car
+200701CP00132,Slight,18/05/2019,51.509019,Daylight,City of London,-0.081145,1,2,Dry,Dual carriageway,Urban,Fine no high winds,Car
+200701CP00133,Slight,21/05/2019,51.510371,Daylight,City of London,-0.086853,1,2,Wet or damp,Dual carriageway,Urban,Raining no high winds,Taxi/Private hire car
+200701CP00134,Slight,17/05/2019,51.510638,Daylight,City of London,-0.092174,1,2,Dry,Dual carriageway,Urban,Fine no high winds,Taxi/Private hire car
+200701CP00135,Slight,17/05/2019,51.515248,Daylight,City of London,-0.077136,1,2,Dry,Single carriageway,Urban,Fine no high winds,Van / Goods 3.5 tonnes mgw or under
+200701CP00136,Slight,16/05/2019,51.509835,Daylight,City of London,-0.08702,1,1,Wet or damp,,Urban,Raining no high winds,Motorcycle 125cc and under
+200701CP00137,Slight,21/05/2019,51.508763,Daylight,City of London,-0.087497,1,2,Dry,Dual carriageway,Urban,Fine no high winds,Car
+200701CP00138,Slight,20/05/2019,51.517234,Daylight,City of London,-0.088584,1,2,Dry,Single carriageway,Urban,Fine no high winds,Taxi/Private hire car
+200701CP00139,Slight,24/05/2019,51.506929,Daylight,City of London,-0.074316,2,1,Dry,Single carriageway,Urban,Fine no high winds,Motorcycle over 500cc
+200701CP00140,Slight,25/05/2019,51.515878,Daylight,City of London,-0.104783,1,2,Dry,Single carriageway,Urban,Fine no high winds,Bus or coach (17 or more pass seats)
+200701CP00141,Serious,25/05/2019,51.517593,Darkness - lights lit,City of London,-0.105144,1,1,Dry,One way street,Urban,Fine no high winds,Taxi/Private hire car
+200701CP00142,Slight,26/05/2019,51.509258,Daylight,Tower Hamlets,-0.073786,1,2,Dry,Single carriageway,Urban,Fine no high winds,Bus or coach (17 or more pass seats)
+200701CP00143,Slight,31/05/2019,51.518438,Daylight,City of London,-0.085218,1,1,Dry,Single carriageway,Urban,Fine no high winds,Car
+200701CP00144,Slight,31/05/2019,51.515199,Daylight,City of London,-0.079589,1,2,Dry,Dual carriageway,Urban,Fine no high winds,Car
+200701CP00145,Slight,4/6/2019,51.509832,Daylight,City of London,-0.086876,1,2,Dry,Single carriageway,Urban,Fine no high winds,Car
+200701CP00146,Slight,29/05/2019,51.518494,Daylight,Camden,-0.105251,1,2,Wet or damp,Single carriageway,Urban,Fine no high winds,Van / Goods 3.5 tonnes mgw or under
+200701CP00147,Slight,1/6/2019,51.509417,Daylight,Tower Hamlets,-0.077958,1,2,Dry,Single carriageway,Urban,Fine no high winds,Car
+200701CP00148,Slight,15/06/2019,51.515768,Daylight,City of London,-0.109112,1,1,Dry,Single carriageway,Urban,Fine no high winds,Car
+200701CP00149,Slight,5/6/2019,51.513891,Daylight,City of London,-0.076617,1,2,Dry,One way street,Urban,Fine no high winds,Taxi/Private hire car
+200701CP00150,Slight,11/6/2019,51.509457,Darkness - lights lit,City of London,-0.080406,1,2,Dry,Dual carriageway,Urban,Fine no high winds,Car
+200701CP00151,Slight,12/6/2019,51.509924,Daylight,City of London,-0.087016,1,1,Dry,Dual carriageway,Urban,Fine no high winds,Taxi/Private hire car
+200701CP00153,Slight,14/06/2019,51.514579,Daylight,City of London,-0.096766,1,2,Wet or damp,One way street,Urban,Fine no high winds,Car
+200701CP00154,Slight,15/06/2019,51.516022,Daylight,City of London,-0.096994,1,3,Dry,Single carriageway,Urban,Fine no high winds,Motorcycle over 500cc
+200701CP00155,Slight,15/06/2019,51.509463,Daylight,City of London,-0.086315,1,2,Dry,Dual carriageway,Urban,Fine no high winds,Taxi/Private hire car
+200701CP00156,Slight,10/6/2019,51.517552,Darkness - lights lit,City of London,-0.080499,1,1,Dry,Single carriageway,Urban,Fine no high winds,Taxi/Private hire car
+200701CP00157,Slight,18/06/2019,51.518001,Daylight,City of London,-0.097056,1,1,Dry,Dual carriageway,Urban,Fine no high winds,Bus or coach (17 or more pass seats)
+200701CP00158,Serious,19/06/2019,51.519289,Daylight,City of London,-0.087777,1,1,Dry,Single carriageway,Urban,Fine no high winds,Van / Goods 3.5 tonnes mgw or under
+200701CP00159,Slight,19/06/2019,51.515556,Daylight,City of London,-0.079429,1,1,Dry,One way street,Urban,Fine no high winds,Taxi/Private hire car
+200701CP00160,Slight,19/06/2019,51.51337,Daylight,City of London,-0.088745,1,1,Wet or damp,Single carriageway,Urban,Fine no high winds,Car
+200701CP00161,Slight,19/06/2019,51.51695,Daylight,City of London,-0.087731,1,2,Dry,Single carriageway,Urban,Fine no high winds,Car
+200701CP00162,Slight,20/06/2019,51.511483,Daylight,City of London,-0.083348,1,1,Dry,Single carriageway,Urban,Fine no high winds,Motorcycle over 500cc
+200701CP00163,Slight,22/06/2019,51.517325,Daylight,City of London,-0.083103,1,1,Dry,Single carriageway,Urban,Fine no high winds,Taxi/Private hire car
+200701CP00164,Serious,22/06/2019,51.516579,Daylight,City of London,-0.103601,1,1,Dry,Single carriageway,Urban,Fine no high winds,Motorcycle over 125cc and up to 500cc
+200701CP00165,Slight,23/06/2019,51.517374,Daylight,City of London,-0.08065,1,2,Dry,Single carriageway,Urban,Fine no high winds,Car
+200701CP00166,Slight,27/06/2019,51.511826,Daylight,City of London,-0.087801,1,1,Dry,Single carriageway,Urban,Fine no high winds,Taxi/Private hire car
+200701CP00167,Slight,26/06/2019,51.51737,Daylight,City of London,-0.080362,1,1,Dry,Single carriageway,Urban,Fine no high winds,Van / Goods 3.5 tonnes mgw or under
+200701CP00168,Slight,14/06/2019,51.510908,Daylight,City of London,-0.10326,1,1,Dry,Single carriageway,Urban,Fine no high winds,Motorcycle over 500cc
+200701CP00169,Slight,4/7/2019,51.510821,Daylight,City of London,-0.086834,1,2,Dry,Single carriageway,Urban,Fine no high winds,Bus or coach (17 or more pass seats)
+200701CP00170,Slight,5/7/2019,51.516343,Daylight,City of London,-0.083576,1,1,Wet or damp,Dual carriageway,Urban,Raining no high winds,Car
+200701CP00171,Serious,6/7/2019,51.512544,Daylight,City of London,-0.104345,1,1,Dry,Single carriageway,Urban,Fine no high winds,Car
+200701CP00172,Slight,2/7/2019,51.509456,Daylight,City of London,-0.085883,1,2,Wet or damp,Dual carriageway,Urban,Raining no high winds,Car
+200701CP00173,Slight,7/7/2019,51.513285,Daylight,City of London,-0.089037,1,2,Dry,Single carriageway,Urban,Fine no high winds,Car
+200701CP00174,Slight,9/7/2019,51.519394,Daylight,City of London,-0.099736,1,2,Wet or damp,Single carriageway,Urban,,Car
+200701CP00175,Slight,10/7/2019,51.517149,Daylight,City of London,-0.088875,1,2,Dry,Single carriageway,Urban,Fine no high winds,Motorcycle over 500cc
+200701CP00176,Slight,11/7/2019,51.517045,Daylight,City of London,-0.088015,1,1,Dry,Single carriageway,Urban,Fine no high winds,Van / Goods 3.5 tonnes mgw or under
+200701CP00177,Slight,11/7/2019,51.51693,Daylight,City of London,-0.080957,1,2,Dry,Single carriageway,Urban,Fine no high winds,Taxi/Private hire car
+200701CP00178,Serious,13/07/2019,51.51951,Daylight,City of London,-0.079263,1,1,Dry,Single carriageway,Urban,Fine no high winds,Taxi/Private hire car
+200701CP00179,Slight,3/7/2019,51.511993,Daylight,City of London,-0.09255,1,1,Wet or damp,Single carriageway,Urban,Raining no high winds,Car
+200701CP00180,Slight,16/07/2019,51.513158,Daylight,City of London,-0.097834,1,1,Dry,Single carriageway,Urban,Fine no high winds,Taxi/Private hire car
+200701CP00181,Slight,16/07/2019,51.514208,Daylight,City of London,-0.074009,1,2,Dry,One way street,Urban,Fine no high winds,Car
+200701CP00182,Slight,16/07/2019,51.514444,Daylight,City of London,-0.077458,1,2,Dry,One way street,Urban,Fine no high winds,Motorcycle over 125cc and up to 500cc
+200701CP00183,Slight,16/07/2019,51.515881,Daylight,City of London,-0.104927,1,2,Dry,Single carriageway,Urban,Fine no high winds,Car
+200701CP00184,Slight,17/07/2019,51.51379,Daylight,City of London,-0.092475,1,2,Dry,Single carriageway,Urban,Fine no high winds,Van / Goods 3.5 tonnes mgw or under
+200701CP00185,Serious,6/7/2019,51.51915,Daylight,City of London,-0.101332,1,1,Dry,Single carriageway,Urban,,Bus or coach (17 or more pass seats)
+200701CP00186,Slight,18/07/2019,51.511728,Daylight,City of London,-0.092849,1,1,Dry,Single carriageway,Urban,Fine no high winds,Van / Goods 3.5 tonnes mgw or under
+200701CP00187,Slight,18/07/2019,51.510839,Daylight,City of London,-0.10456,1,2,Dry,Dual carriageway,Urban,Fine no high winds,Car
+200701CP00188,Slight,18/07/2019,51.513557,Daylight,City of London,-0.100268,1,1,Wet or damp,Single carriageway,Urban,Fine no high winds,Car
+200701CP00189,Slight,19/07/2019,51.515669,Daylight,City of London,-0.080866,1,2,Dry,One way street,Urban,Fine no high winds,Taxi/Private hire car
+200701CP00190,Slight,20/07/2019,51.520319,Daylight,City of London,-0.079229,1,2,Wet or damp,Single carriageway,Urban,Raining no high winds,Car
+200701CP00191,Slight,20/07/2019,51.520226,Darkness - lights lit,City of London,-0.079089,1,1,Dry,Single carriageway,Urban,Fine no high winds,Motorcycle over 500cc
+200701CP00192,Slight,24/07/2019,51.515247,Daylight,City of London,-0.104665,1,1,Dry,Single carriageway,Urban,Fine no high winds,Car
+200701CP00193,Slight,24/07/2019,51.515721,Daylight,City of London,-0.10061,1,2,Dry,Single carriageway,Urban,Fine no high winds,Bus or coach (17 or more pass seats)
+200701CP00194,Slight,24/07/2019,51.512762,Daylight,City of London,-0.090068,1,1,Dry,One way street,Urban,Fine no high winds,Taxi/Private hire car
+200701CP00195,Slight,25/07/2019,51.512872,Daylight,City of London,-0.096837,1,1,Dry,Single carriageway,Urban,Fine no high winds,Van / Goods 3.5 tonnes mgw or under
+200701CP00196,Slight,25/07/2019,51.516011,Daylight,City of London,-0.101895,1,1,Dry,Single carriageway,Urban,Fine no high winds,Motorcycle 125cc and under
+200701CP00197,Slight,26/07/2019,51.513292,Daylight,City of London,-0.083992,1,1,Wet or damp,Single carriageway,Urban,Fine no high winds,Taxi/Private hire car
+200701CP00198,Slight,29/07/2019,51.516133,Darkness - lights lit,City of London,-0.081711,1,2,Wet or damp,Single carriageway,Urban,Raining no high winds,Van / Goods 3.5 tonnes mgw or under
+200701CP00199,Slight,11/7/2019,51.509535,Daylight,City of London,-0.079683,2,2,Dry,Single carriageway,Urban,Fine no high winds,Car
+200701CP00200,Slight,10/7/2019,51.516343,Darkness - lights lit,City of London,-0.083576,1,2,Dry,Dual carriageway,Urban,Fine no high winds,Motorcycle 125cc and under
+200701CP00201,Slight,1/8/2019,51.515896,Daylight,City of London,-0.078262,1,1,Dry,One way street,Urban,Fine no high winds,Bus or coach (17 or more pass seats)
+200701CP00202,Slight,2/8/2019,51.5137,Daylight,City of London,-0.092479,1,2,Dry,Single carriageway,Urban,Fine no high winds,Bus or coach (17 or more pass seats)
+200701CP00203,Slight,2/8/2019,51.509331,Daylight,Tower Hamlets,-0.07825,1,1,Dry,Single carriageway,Urban,Fine no high winds,Car
+200701CP00204,Slight,2/8/2019,51.516842,Darkness - lights lit,City of London,-0.086582,1,2,Dry,Single carriageway,Urban,Fine no high winds,Car
+200701CP00205,Slight,3/8/2019,51.514517,Daylight,City of London,-0.109596,1,2,Dry,Single carriageway,Urban,Fine no high winds,Motorcycle 125cc and under
+200701CP00206,Slight,7/8/2019,51.518409,Darkness - lights lit,Camden,-0.105543,1,2,Wet or damp,Single carriageway,Urban,Raining no high winds,Car
+200701CP00207,Slight,8/8/2019,51.50945,Daylight,City of London,-0.079974,1,1,Dry,Dual carriageway,Urban,Fine no high winds,Car
+200701CP00208,Slight,10/8/2019,51.513257,Darkness - lights lit,City of London,-0.087309,1,1,Wet or damp,Single carriageway,Urban,Fine no high winds,Bus or coach (17 or more pass seats)
+200701CP00209,Slight,13/08/2019,51.51337,Daylight,City of London,-0.099843,1,2,Dry,Single carriageway,Urban,Fine no high winds,Van / Goods 3.5 tonnes mgw or under
+200701CP00210,Serious,9/8/2019,51.50945,Daylight,City of London,-0.079974,1,2,Dry,Dual carriageway,Urban,Fine no high winds,Car
+200701CP00211,Slight,13/08/2019,51.513956,Daylight,City of London,-0.102701,1,2,Dry,Single carriageway,Urban,Fine no high winds,Car
+200701CP00212,Serious,26/08/2019,51.513874,Daylight,City of London,-0.075609,1,1,Dry,Single carriageway,Urban,Fine no high winds,Car
+200701CP00213,Slight,7/8/2019,51.513612,Daylight,City of London,-0.076052,1,2,Dry,Single carriageway,Urban,Fine no high winds,Bus or coach (17 or more pass seats)
+200701CP00214,Slight,16/08/2019,51.516101,Daylight,City of London,-0.101891,1,1,Dry,Single carriageway,Urban,Fine no high winds,Motorcycle 125cc and under
+200701CP00215,Serious,17/08/2019,51.514734,Daylight,City of London,-0.089697,1,2,Dry,Single carriageway,Urban,Fine no high winds,Car
+200701CP00216,Slight,17/08/2019,51.515158,Daylight,City of London,-0.082617,2,3,Dry,Single carriageway,Urban,Fine no high winds,Van / Goods 3.5 tonnes mgw or under
+200701CP00218,Slight,20/08/2019,51.513497,Daylight,City of London,-0.091046,1,2,Wet or damp,Single carriageway,Urban,Fine no high winds,Taxi/Private hire car
+200701CP00219,Slight,22/08/2019,51.513173,Darkness - lights lit,City of London,-0.104319,1,2,Wet or damp,Single carriageway,Urban,Raining no high winds,Car
+200701CP00220,Slight,23/08/2019,51.511583,Daylight,City of London,-0.08392,1,2,Wet or damp,Single carriageway,Urban,Raining no high winds,Bus or coach (17 or more pass seats)
+200701CP00221,Slight,23/08/2019,51.513762,Daylight,City of London,-0.101844,1,1,Wet or damp,Single carriageway,Urban,Fine + high winds,Motorcycle 125cc and under
+200701CP00222,Slight,24/08/2019,51.510749,Daylight,City of London,-0.104564,1,2,Wet or damp,Dual carriageway,Urban,Fine no high winds,Car
+200701CP00223,Serious,28/08/2019,51.511703,Daylight,City of London,-0.080312,1,1,Dry,Single carriageway,Urban,Fine no high winds,Car
+200701CP00224,Slight,29/08/2019,51.513788,Daylight,City of London,-0.092331,1,1,Dry,Single carriageway,Urban,Fine no high winds,Van / Goods 3.5 tonnes mgw or under
+200701CP00225,Serious,30/08/2019,51.508676,Daylight,City of London,-0.087645,1,2,Dry,Dual carriageway,Urban,Fine no high winds,Car
+200701CP00226,Slight,30/08/2019,51.510972,Daylight,City of London,-0.101672,1,2,Dry,Dual carriageway,Urban,Fine no high winds,Car
+200701CP00227,Slight,30/08/2019,51.510933,Daylight,City of London,-0.104844,1,2,Dry,Single carriageway,Urban,Fine no high winds,Goods 7.5 tonnes mgw and over
+200701CP00228,Serious,30/08/2019,51.516969,Daylight,City of London,-0.088883,1,2,Dry,Single carriageway,Urban,Fine no high winds,Goods 7.5 tonnes mgw and over
+200701CP00229,Slight,31/08/2019,51.520165,Daylight,City of London,-0.097398,1,2,Dry,Dual carriageway,Urban,Fine no high winds,Van / Goods 3.5 tonnes mgw or under
+200701CP00230,Slight,3/9/2019,51.519107,Daylight,City of London,-0.08764,1,2,Dry,Single carriageway,Urban,Fine no high winds,Car
+200701CP00231,Serious,11/9/2019,51.515296,Darkness - lights lit,City of London,-0.080017,1,2,Dry,One way street,Urban,Fine no high winds,Bus or coach (17 or more pass seats)
+200701CP00232,Slight,6/9/2019,51.511017,Daylight,City of London,-0.087835,1,2,Dry,Single carriageway,Urban,Fine no high winds,Car
+200701CP00233,Slight,5/9/2019,51.517504,Daylight,City of London,-0.083095,1,1,Dry,Single carriageway,Urban,Fine no high winds,Car
+200701CP00234,Slight,4/9/2019,51.513162,Daylight,City of London,-0.087025,1,1,Dry,Single carriageway,Urban,Fine no high winds,Taxi/Private hire car
+200701CP00235,Serious,6/9/2019,51.510915,Daylight,City of London,-0.087119,1,2,Dry,Single carriageway,Urban,Fine no high winds,Goods 7.5 tonnes mgw and over
+200701CP00236,Slight,7/9/2019,51.509459,Daylight,City of London,-0.086027,1,2,Dry,Dual carriageway,Urban,Fine no high winds,Motorcycle over 500cc
+200701CP00237,Serious,8/9/2019,51.517625,Darkness - lights lit,City of London,-0.107161,2,2,Dry,Single carriageway,Urban,Fine no high winds,Taxi/Private hire car
+200701CP00238,Slight,11/9/2019,51.517149,Daylight,City of London,-0.088875,1,2,Dry,Single carriageway,Urban,Fine no high winds,Car
+200701CP00239,Slight,11/9/2019,51.509151,Darkness - lights lit,City of London,-0.083734,1,2,Dry,Dual carriageway,Urban,Fine no high winds,Car
+200701CP00240,Serious,12/9/2019,51.513832,Daylight,City of London,-0.08397,2,2,Dry,Single carriageway,Urban,Fine no high winds,Taxi/Private hire car
+200701CP00241,Serious,13/09/2019,51.514069,Daylight,City of London,-0.104138,1,1,Dry,Single carriageway,Urban,Fine no high winds,Taxi/Private hire car
+200701CP00242,Slight,14/09/2019,51.513961,Daylight,City of London,-0.102989,1,1,Dry,Single carriageway,Urban,Fine no high winds,Taxi/Private hire car
+200701CP00243,Slight,14/09/2019,51.51091,Daylight,City of London,-0.103404,1,2,Dry,Single carriageway,Urban,Fine no high winds,Bus or coach (17 or more pass seats)
+200701CP00244,Slight,14/09/2019,51.509858,Daylight,City of London,-0.08846,1,2,Dry,Dual carriageway,Urban,Fine no high winds,Motorcycle 50cc and under
+200701CP00245,Slight,15/09/2019,51.513192,Darkness - lights lit,City of London,-0.088897,1,1,Dry,Single carriageway,Urban,Fine no high winds,Taxi/Private hire car
+200701CP00246,Slight,16/09/2019,51.512924,Darkness - lights lit,City of London,-0.094529,1,1,Dry,Single carriageway,Urban,Fine no high winds,Car
+200701CP00247,Slight,17/09/2019,51.509463,Daylight,City of London,-0.086315,1,1,Dry,Single carriageway,Urban,Fine no high winds,Car
+200701CP00248,Slight,18/09/2019,51.515703,Daylight,City of London,-0.105079,1,2,Dry,Single carriageway,Urban,Fine no high winds,Motorcycle 50cc and under
+200701CP00249,Slight,20/09/2019,51.513434,Darkness - lights lit,City of London,-0.081681,1,1,Dry,Single carriageway,Urban,Fine no high winds,Van / Goods 3.5 tonnes mgw or under
+200701CP00250,Slight,21/09/2019,51.511145,Daylight,City of London,-0.073706,1,2,Dry,Single carriageway,Urban,Fine no high winds,Car
+200701CP00251,Serious,10/8/2019,51.515524,Daylight,City of London,-0.093988,1,2,Dry,Single carriageway,Urban,Fine no high winds,Taxi/Private hire car
+200701CP00252,Slight,18/09/2019,51.510587,Daylight,City of London,-0.08353,1,1,Dry,Single carriageway,Urban,Fine no high winds,Motorcycle 125cc and under
+200701CP00253,Serious,20/09/2019,51.512318,Darkness - lights lit,City of London,-0.079421,1,1,Dry,Single carriageway,Urban,Fine no high winds,Car
+200701CP00254,Slight,21/09/2019,51.512378,Darkness - lights lit,City of London,-0.094119,1,1,Dry,Single carriageway,Urban,Fine no high winds,Car
+200701CP00255,Slight,25/09/2019,51.517552,Daylight,City of London,-0.080499,1,2,Dry,Single carriageway,Urban,Fine no high winds,Goods over 3.5t. and under 7.5t
+200701CP00256,Slight,25/09/2019,51.513301,Daylight,City of London,-0.090045,1,1,Dry,Single carriageway,Urban,Fine no high winds,Car
+200701CP00257,Slight,25/09/2019,51.511005,Daylight,City of London,-0.087115,1,2,Wet or damp,Single carriageway,Urban,Fine no high winds,Motorcycle over 500cc
+200701CP00258,Slight,26/09/2019,51.518081,Daylight,City of London,-0.0799,2,1,Dry,Single carriageway,Urban,Fine no high winds,Goods over 3.5t. and under 7.5t
+200701CP00259,Slight,27/09/2019,51.515519,Daylight,City of London,-0.104798,1,3,Dry,Single carriageway,Urban,Fine no high winds,Motorcycle 125cc and under
+200701CP00260,Serious,29/09/2019,51.517507,Daylight,City of London,-0.083239,1,1,Dry,Single carriageway,Urban,Fine no high winds,Car
+200701CP00261,Slight,29/09/2019,51.518409,Darkness - lights lit,Camden,-0.105543,3,2,Dry,Single carriageway,Urban,Fine no high winds,Goods 7.5 tonnes mgw and over
+200701CP00263,Serious,1/10/2019,51.512182,Daylight,City of London,-0.104216,1,1,Wet or damp,Dual carriageway,Urban,Raining no high winds,Bus or coach (17 or more pass seats)
+200701CP00264,Slight,8/10/2019,51.514716,Daylight,City of London,-0.083068,1,1,Dry,Single carriageway,Urban,Fine no high winds,Motorcycle over 125cc and up to 500cc
+200701CP00265,Slight,8/10/2019,51.516345,Daylight,City of London,-0.08372,1,2,Dry,Single carriageway,Urban,Fine no high winds,Taxi/Private hire car
+200701CP00266,Slight,2/10/2019,51.511644,Daylight,City of London,-0.087665,1,1,Dry,Single carriageway,Urban,Fine no high winds,Van / Goods 3.5 tonnes mgw or under
+200701CP00267,Slight,4/10/2019,51.509241,Daylight,City of London,-0.08373,1,2,Dry,Dual carriageway,Urban,Fine no high winds,Goods 7.5 tonnes mgw and over
+200701CP00268,Slight,6/10/2019,51.512901,Daylight,City of London,-0.104186,1,2,Dry,Single carriageway,Urban,Fine no high winds,Bus or coach (17 or more pass seats)
+200701CP00269,Slight,8/10/2019,51.51626,Darkness - lights lit,City of London,-0.084012,1,2,Dry,Dual carriageway,Urban,Fine no high winds,Car
+200701CP00270,Serious,10/10/2019,51.511474,Daylight,City of London,-0.082772,1,2,Dry,Single carriageway,Urban,Fine no high winds,Car
+200701CP00271,Slight,10/10/2019,51.509262,Darkness - lights unlit,City of London,-0.085026,1,2,Dry,Dual carriageway,Urban,Fine no high winds,Taxi/Private hire car
+200701CP00272,Slight,11/10/2019,51.511735,Daylight,City of London,-0.104379,1,2,Dry,Dual carriageway,Urban,Fine no high winds,Car
+200701CP00273,Slight,12/10/2019,51.513892,Darkness - lights lit,City of London,-0.104289,1,1,Dry,Single carriageway,Urban,Fine no high winds,Motorcycle 125cc and under
+200701CP00274,Slight,21/09/2019,51.515721,Daylight,City of London,-0.10061,1,2,Dry,Single carriageway,Urban,Fine no high winds,Motorcycle over 500cc
+200701CP00275,Slight,12/10/2019,51.510652,Daylight,City of London,-0.093038,1,2,Dry,Dual carriageway,Urban,Fine no high winds,Car
+200701CP00276,Slight,12/10/2019,51.513249,Daylight,City of London,-0.086877,1,1,Wet or damp,Single carriageway,Urban,Raining no high winds,Bus or coach (17 or more pass seats)
+200701CP00277,Slight,14/10/2019,51.517239,Darkness - lights lit,City of London,-0.088872,2,2,Dry,Single carriageway,Urban,Fine no high winds,Bus or coach (17 or more pass seats)
+200701CP00278,Slight,14/10/2019,51.514745,Daylight,City of London,-0.079319,1,2,Dry,Single carriageway,Urban,Fine no high winds,Motorcycle over 500cc
+200701CP00279,Slight,16/10/2019,51.513083,Daylight,City of London,-0.104323,1,2,Wet or damp,Single carriageway,Urban,Raining no high winds,Van / Goods 3.5 tonnes mgw or under
+200701CP00280,Slight,4/10/2019,51.513474,Daylight,City of London,-0.084129,1,3,Dry,Single carriageway,Urban,Fine no high winds,Motorcycle over 125cc and up to 500cc
+200701CP00281,Slight,16/10/2019,51.513954,Daylight,City of London,-0.102557,1,1,Wet or damp,Single carriageway,Urban,Fine no high winds,Bus or coach (17 or more pass seats)
+200701CP00282,Slight,17/10/2019,51.513195,Darkness - lights lit,City of London,-0.089041,1,2,Wet or damp,Single carriageway,Urban,Raining no high winds,Car
+200701CP00283,Slight,17/10/2019,51.516293,Darkness - lights lit,City of London,-0.102604,1,1,Dry,Single carriageway,Urban,Fine no high winds,Car
+200701CP00284,Slight,21/10/2019,51.518169,Darkness - lights lit,City of London,-0.079752,1,2,Dry,Single carriageway,Urban,Fine no high winds,Motorcycle over 125cc and up to 500cc
+200701CP00285,Slight,19/10/2019,51.511722,Daylight,City of London,-0.081464,1,1,Dry,Single carriageway,Urban,Fine no high winds,Car
+200701CP00286,Slight,19/10/2019,51.5143,Daylight,City of London,-0.074149,1,2,Dry,Single carriageway,Urban,Fine no high winds,Car
+200701CP00287,Slight,19/10/2019,51.512991,Darkness - lights lit,City of London,-0.104182,1,2,Dry,Single carriageway,Urban,Other,Car
+200701CP00288,Slight,25/10/2019,51.512955,Daylight,City of London,-0.096401,1,2,Dry,Single carriageway,Urban,Fine no high winds,Car
+200701CP00289,Serious,26/10/2019,51.510918,Darkness - lights lit,City of London,-0.087263,1,1,Dry,Single carriageway,Urban,Fine no high winds,Bus or coach (17 or more pass seats)
+200701CP00290,Slight,25/10/2019,51.512993,Daylight,City of London,-0.104326,1,1,Wet or damp,Single carriageway,Urban,Raining no high winds,Car
+200701CP00291,Slight,25/10/2019,51.515681,Darkness - lights lit,City of London,-0.109259,1,2,Wet or damp,Single carriageway,Urban,Raining no high winds,Car
+200701CP00292,Slight,26/10/2019,51.510549,Darkness - lights lit,City of London,-0.086702,1,1,Dry,Dual carriageway,Urban,Fine no high winds,Motorcycle over 500cc
+200701CP00293,Serious,26/10/2019,51.514804,Darkness - lights lit,City of London,-0.08292,1,2,Dry,Single carriageway,Urban,Fine no high winds,Motorcycle 125cc and under
+200701CP00294,Slight,30/10/2019,51.509572,Daylight,City of London,-0.087463,1,1,Dry,Single carriageway,Urban,Fine no high winds,Bus or coach (17 or more pass seats)
+200701CP00295,Slight,30/10/2019,51.509556,Daylight,City of London,-0.086455,1,2,Dry,Single carriageway,Urban,Fine no high winds,Van / Goods 3.5 tonnes mgw or under
+200701CP00296,Slight,30/10/2019,51.509646,Darkness - lights lit,Tower Hamlets,-0.075499,1,2,Dry,Single carriageway,Urban,Fine no high winds,Car
+200701CP00297,Slight,6/11/2019,51.514125,Daylight,City of London,-0.107594,1,1,Dry,Single carriageway,Urban,Fine no high winds,Car
+200701CP00298,Slight,5/11/2019,51.516386,Daylight,City of London,-0.080692,1,1,Dry,One way street,Urban,Fine no high winds,Taxi/Private hire car
+200701CP00299,Slight,5/11/2019,51.515699,Daylight,City of London,-0.104791,1,2,Dry,Single carriageway,Urban,Fine no high winds,Motorcycle 125cc and under
+200701CP00300,Slight,5/11/2019,51.513892,Daylight,City of London,-0.093191,1,2,Dry,Single carriageway,Urban,Fine no high winds,Bus or coach (17 or more pass seats)
+200701CP00301,Slight,6/11/2019,51.508958,Daylight,City of London,-0.082877,1,2,Dry,Dual carriageway,Urban,Fine no high winds,Car
+200701CP00302,Slight,6/11/2019,51.514037,Daylight,City of London,-0.085547,1,1,Dry,Single carriageway,Urban,Fine no high winds,Car
+200701CP00303,Slight,7/11/2019,51.51569,Daylight,City of London,-0.082162,1,3,Dry,Single carriageway,Urban,Fine no high winds,Bus or coach (17 or more pass seats)
+200701CP00304,Slight,7/11/2019,51.519105,Daylight,City of London,-0.087496,1,1,Dry,Single carriageway,Urban,Fine no high winds,Car
+200701CP00305,Slight,7/11/2019,51.513292,Darkness - lights lit,City of London,-0.083992,1,1,Dry,Single carriageway,Urban,Fine no high winds,Car
+200701CP00306,Slight,8/11/2019,51.51064,Daylight,City of London,-0.092318,1,2,Dry,Dual carriageway,Urban,Fine no high winds,Car
+200701CP00307,Serious,9/11/2019,51.514076,Daylight,City of London,-0.10457,1,2,Dry,Single carriageway,Urban,Fine no high winds,Motorcycle 50cc and under
+200701CP00308,Slight,9/11/2019,51.514371,Darkness - lights lit,City of London,-0.083947,2,1,Dry,Single carriageway,Urban,Fine no high winds,Motorcycle over 500cc
+200701CP00309,Slight,9/11/2019,51.514079,Darkness - lights lit,City of London,-0.104714,1,2,Wet or damp,Single carriageway,Urban,Fine no high winds,Car
+200701CP00310,Slight,12/11/2019,51.51744,Daylight,City of London,-0.09016,1,2,Dry,Dual carriageway,Urban,Fine no high winds,Motorcycle over 125cc and up to 500cc
+200701CP00311,Slight,15/11/2019,51.508676,Daylight,City of London,-0.087645,1,2,Dry,Single carriageway,Urban,Fine no high winds,Bus or coach (17 or more pass seats)
+200701CP00313,Slight,19/11/2019,51.511587,Daylight,City of London,-0.084208,1,1,Wet or damp,Single carriageway,Urban,Raining no high winds,Bus or coach (17 or more pass seats)
+200701CP00314,Slight,25/10/2019,51.516011,Daylight,City of London,-0.101895,1,2,Dry,Single carriageway,Urban,Fine no high winds,Bus or coach (17 or more pass seats)
+200701CP00315,Slight,5/11/2019,51.509556,Darkness - lights lit,City of London,-0.086455,1,2,Dry,Single carriageway,Urban,Fine no high winds,Car
+200701CP00316,Slight,14/11/2019,51.50944,Daylight,Tower Hamlets,-0.073922,1,2,Dry,Dual carriageway,Urban,Fine no high winds,Car
+200701CP00317,Serious,19/11/2019,51.515878,Daylight,City of London,-0.104783,1,2,Wet or damp,Dual carriageway,Urban,Raining no high winds,Car
+200701CP00318,Fatal,19/11/2019,51.516045,Darkness - lights lit,City of London,-0.081859,7,2,Wet or damp,Dual carriageway,Urban,Raining no high winds,Motorcycle over 500cc
+200701CP00319,Slight,19/11/2019,51.512544,Daylight,City of London,-0.104345,1,2,Wet or damp,Dual carriageway,Urban,,Car
+200701CP00320,Slight,20/11/2019,51.513292,Daylight,City of London,-0.089469,1,1,Wet or damp,Single carriageway,Urban,Fine no high winds,Car
