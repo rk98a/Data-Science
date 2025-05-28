@@ -75,7 +75,7 @@ Tools: MySQL, Tableau Public, scikit-learn, Matplotlib, Seaborn
     <li>Data:</li>
 
   <li>Dashboard:</li>
-  <li>Images: ![image](https://github.com/user-attachments/assets/d4ee8a6d-dad3-4fc6-859e-6e427be38989)></li>
+  <li><img src (https://github.com/user-attachments/assets/d4ee8a6d-dad3-4fc6-859e-6e427be38989)></li>
 </ul>  project-name/
 ├── data/
 │   ├── raw/
