@@ -71,7 +71,14 @@ Tools: MySQL, Tableau Public, scikit-learn, Matplotlib, Seaborn
 
 📂 Repository Structure
 
-project-name/
+<ul>
+    <li>Data:</li>
+  <li>
+*Images: ![image](https://github.com/user-attachments/assets/d4ee8a6d-dad3-4fc6-859e-6e427be38989)
+</li>
+  <li>*Dashboard:</li>
+  <li*Images: ![image](https://github.com/user-attachments/assets/d4ee8a6d-dad3-4fc6-859e-6e427be38989)></li>
+</ul>  project-name/
 ├── data/
 │   ├── raw/
 │   └── cleaned/
@@ -87,10 +94,6 @@ project-name/
 ├── README.md
 └── requirements.txt
 
-# Repository Structure
-*Data:
-*Dashboard:
-*Images: ![image](https://github.com/user-attachments/assets/d4ee8a6d-dad3-4fc6-859e-6e427be38989)
 
 
 🤝 Feedback & Collaboration
