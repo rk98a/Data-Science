@@ -71,8 +71,7 @@ Tools: MySQL, Tableau Public, scikit-learn, Matplotlib, Seaborn
 
 📂 Repository Structure
 
-#Data:
-    <a href="Data:https://github.com/rk98a/Data-Science/blob/main/Tableau%20Dashboard/accident1%20(1).csv"> csv </a>
+   Data: <a href="Data:https://github.com/rk98a/Data-Science/blob/main/Tableau%20Dashboard/accident1%20(1).csv"> csv </a>
   
   
   
